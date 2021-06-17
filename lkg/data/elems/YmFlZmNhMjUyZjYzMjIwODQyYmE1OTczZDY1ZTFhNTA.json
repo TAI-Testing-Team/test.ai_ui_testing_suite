@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6BrOl2opLEZ25hw6Xc3Mfg==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "button_X20_Y405_W144_H31", 
+    "human_readable": "button_20_405_144_31_button_ffffffffffffffffffffff7ffc7ffc3ffc3ffc3ffc3fffffffffffffffff7ffe_2dd937ab39a14f5dcabd00f40e0fc2a9", 
+    "image_path": "YmFlZmNhMjUyZjYzMjIwODQyYmE1OTczZDY1ZTFhNTA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "secondary sm", 
+                "currentitem": "false", 
+                "data-place": "right", 
+                "data-tip": "Drag a labeled screen or element here to add an action step", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(80, 96, 126)", 
+            "cssClass": "secondary sm", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Action", 
+            "type": "button", 
+            "value": "", 
+            "width": 144, 
+            "x": 20, 
+            "xPercent": 1.0416666666666665, 
+            "y": 405, 
+            "yPercent": 16.735537190082646
+        }, 
+        "location": {
+            "x": 20, 
+            "y": 405
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 144
+        }, 
+        "tag_name": "button", 
+        "text": "Action"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "45b94ccb3bea0b200c40829960f2742a", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Action", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 20, 
+    "y": 405
+}

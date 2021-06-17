@@ -1,0 +1,673 @@
+{
+    "action_info": {
+        "elem_class": "button", 
+        "elem_info": {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "button", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "15248mg6d5w199skA5i1vw==\n", 
+            "height": 38, 
+            "hier_level": 0, 
+            "human_hash": "button_X1065_Y399_W75_H38", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "primary md"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "button", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "primary md", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "600", 
+                    "fontSize": 13, 
+                    "height": 38, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "button", 
+                    "text": "Delete", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 75, 
+                    "x": 1065, 
+                    "xPercent": 55.45003255208333, 
+                    "y": 399, 
+                    "yPercent": 16.342905405405407
+                }, 
+                "location": {
+                    "x": 1065, 
+                    "y": 399
+                }, 
+                "size": {
+                    "height": 38, 
+                    "width": 75
+                }, 
+                "tag_name": "button", 
+                "text": "Delete"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "button", 
+            "text": "Delete", 
+            "transformed": true, 
+            "width": 75, 
+            "x": 1065, 
+            "y": 399
+        }, 
+        "gesture": "tap", 
+        "text": "tap"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "rsqIt1cBYijQhtfqmrJzsQ==\n", 
+            "height": 37, 
+            "hier_level": 0, 
+            "human_hash": "div_X1753_Y920_W140_H37", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "loadingWave"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "loadingWave", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Inter", 
+                    "font-weight": "500", 
+                    "fontSize": 18, 
+                    "height": 37, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 140, 
+                    "x": 1753, 
+                    "xPercent": 91.30208333333333, 
+                    "y": 920, 
+                    "yPercent": 37.67403767403768
+                }, 
+                "location": {
+                    "x": 1753, 
+                    "y": 920
+                }, 
+                "size": {
+                    "height": 37, 
+                    "width": 140
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 140, 
+            "x": 1753, 
+            "y": 920
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "ejp2C+YXEBwj09h+4YYyCg==\n", 
+            "height": 170, 
+            "hier_level": 0, 
+            "human_hash": "div_X760_Y287_W400_H170", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "dialog--content"
+                    }, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "dialog--content", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 170, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Delete?Are you sure you want to delete the test case \"My New Test\"?CancelDelete", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 400, 
+                    "x": 760, 
+                    "xPercent": 39.58333333333333, 
+                    "y": 287, 
+                    "yPercent": 11.756500819000818
+                }, 
+                "location": {
+                    "x": 760, 
+                    "y": 287
+                }, 
+                "size": {
+                    "height": 170, 
+                    "width": 400
+                }, 
+                "tag_name": "div", 
+                "text": "Delete?Are you sure you want to delete the test case \"My New Test\"?CancelDelete"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Delete?Are you sure you want to delete the test case \"My New Test\"?CancelDelete", 
+            "transformed": true, 
+            "width": 400, 
+            "x": 760, 
+            "y": 287
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "button", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "NrqXOtWFhDWMWHxd3/qoOw==\n", 
+            "height": 38, 
+            "hier_level": 0, 
+            "human_hash": "button_X976_Y399_W77_H38", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "secondary md"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "button", 
+                    "color": "rgb(80, 96, 126)", 
+                    "cssClass": "secondary md", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "600", 
+                    "fontSize": 13, 
+                    "height": 38, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "button", 
+                    "text": "Cancel", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 77, 
+                    "x": 976, 
+                    "xPercent": 50.81787109375, 
+                    "y": 399, 
+                    "yPercent": 16.342905405405407
+                }, 
+                "location": {
+                    "x": 976, 
+                    "y": 399
+                }, 
+                "size": {
+                    "height": 38, 
+                    "width": 77
+                }, 
+                "tag_name": "button", 
+                "text": "Cancel"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "button", 
+            "text": "Cancel", 
+            "transformed": true, 
+            "width": 77, 
+            "x": 976, 
+            "y": 399
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "IsNV13lQQhTwFuEMg57n3Q==\n", 
+            "height": 38, 
+            "hier_level": 0, 
+            "human_hash": "div_X780_Y399_W360_H38", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "dialog--actions clear-top"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "dialog--actions clear-top", 
+                    "domLevel": 8, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 38, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "CancelDelete", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 360, 
+                    "x": 780, 
+                    "xPercent": 40.625, 
+                    "y": 399, 
+                    "yPercent": 16.342905405405407
+                }, 
+                "location": {
+                    "x": 780, 
+                    "y": 399
+                }, 
+                "size": {
+                    "height": 38, 
+                    "width": 360
+                }, 
+                "tag_name": "div", 
+                "text": "CancelDelete"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "CancelDelete", 
+            "transformed": true, 
+            "width": 360, 
+            "x": 780, 
+            "y": 399
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "button", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "15248mg6d5w199skA5i1vw==\n", 
+            "height": 38, 
+            "hier_level": 0, 
+            "human_hash": "button_X1065_Y399_W75_H38", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "primary md"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "button", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "primary md", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "600", 
+                    "fontSize": 13, 
+                    "height": 38, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "button", 
+                    "text": "Delete", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 75, 
+                    "x": 1065, 
+                    "xPercent": 55.45003255208333, 
+                    "y": 399, 
+                    "yPercent": 16.342905405405407
+                }, 
+                "location": {
+                    "x": 1065, 
+                    "y": 399
+                }, 
+                "size": {
+                    "height": 38, 
+                    "width": 75
+                }, 
+                "tag_name": "button", 
+                "text": "Delete"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "button", 
+            "text": "Delete", 
+            "transformed": true, 
+            "width": 75, 
+            "x": 1065, 
+            "y": 399
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "button", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "atJQzlNkqV6rGupyUWI06A==\n", 
+            "height": 38, 
+            "hier_level": 0, 
+            "human_hash": "button_X1752_Y919_W142_H38", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "container", 
+                        "style": "background: rgb(243, 86, 91); border-top: 1px solid rgba(33, 43, 55, 0.3); border-right: 1px solid rgba(33, 43, 55, 0.3); border-bottom: none; border-left: 1px solid rgba(33, 43, 55, 0.3); color: rgb(255, 255, 255); border-image: initial; border-top-left-radius: 3px; border-top-right-radius: 3px; font-weight: 500; box-sizing: border-box;"
+                    }, 
+                    "background-color": "rgb(243, 86, 91)", 
+                    "class": "button", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "container", 
+                    "domLevel": 2, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Inter", 
+                    "font-weight": "500", 
+                    "fontSize": 18, 
+                    "height": 38, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "button", 
+                    "text": "Report Issue", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 142, 
+                    "x": 1752, 
+                    "xPercent": 91.25, 
+                    "y": 919, 
+                    "yPercent": 37.633087633087634
+                }, 
+                "location": {
+                    "x": 1752, 
+                    "y": 919
+                }, 
+                "size": {
+                    "height": 38, 
+                    "width": 142
+                }, 
+                "tag_name": "button", 
+                "text": "Report Issue"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "button", 
+            "text": "Report Issue", 
+            "transformed": true, 
+            "width": 142, 
+            "x": 1752, 
+            "y": 919
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "4gLJOTf2lNSMHNSAha9fhQ==\n", 
+            "height": 957, 
+            "hier_level": 0, 
+            "human_hash": "div_X0_Y0_W1920_H957", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "overlay"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0.8)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "overlay", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 957, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "xPercent": 0, 
+                    "y": 0, 
+                    "yPercent": 0
+                }, 
+                "location": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "size": {
+                    "height": 957, 
+                    "width": 1920
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 1920, 
+            "x": 0, 
+            "y": 0
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "LYUs7d5INTy68i0k/i1m5g==\n", 
+            "height": 37, 
+            "hier_level": 0, 
+            "human_hash": "div_X1769_Y920_W108_H37", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "contentWrapper"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "contentWrapper", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Inter", 
+                    "font-weight": "500", 
+                    "fontSize": 18, 
+                    "height": 37, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Report Issue", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 108, 
+                    "x": 1769, 
+                    "xPercent": 92.13541666666667, 
+                    "y": 920, 
+                    "yPercent": 37.67403767403768
+                }, 
+                "location": {
+                    "x": 1769, 
+                    "y": 920
+                }, 
+                "size": {
+                    "height": 37, 
+                    "width": 108
+                }, 
+                "tag_name": "div", 
+                "text": "Report Issue"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Report Issue", 
+            "transformed": true, 
+            "width": 108, 
+            "x": 1769, 
+            "y": 920
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": true, 
+    "timing": 0
+}

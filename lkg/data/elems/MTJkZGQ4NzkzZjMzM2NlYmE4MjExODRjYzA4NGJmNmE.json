@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "Uv0zdvJnljwVaFZR243DVA==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "input_X105_Y622_W180_H29", 
+    "human_readable": "input_105_622_180_29_input_00000000ffffffff7fff1fff03ff03ff03ff03ff03ff73ffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MTJkZGQ4NzkzZjMzM2NlYmE4MjExODRjYzA4NGJmNmE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "placeholder": "Add a tag", 
+                "type": "text", 
+                "value": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(116, 120, 126)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "text", 
+            "value": "", 
+            "width": 180, 
+            "x": 105, 
+            "xPercent": 5.44677734375, 
+            "y": 622, 
+            "yPercent": 25.702479338842977
+        }, 
+        "location": {
+            "x": 105, 
+            "y": 622
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 180
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "694aaedee3f18ba29fa2c3c836428289", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 180, 
+    "x": 105, 
+    "y": 622
+}

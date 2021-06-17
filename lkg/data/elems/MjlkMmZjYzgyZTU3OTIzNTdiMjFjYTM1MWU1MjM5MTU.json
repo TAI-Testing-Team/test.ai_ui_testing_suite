@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "15248mg6d5w199skA5i1vw==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "button_X1065_Y399_W75_H38", 
+    "human_readable": "button_1065_399_75_38_button_8001000000000000000000000d601ff01ff81ff00ad000000000000000008001_a62d464f7d78bc987666c09dd4eabf0f", 
+    "image_path": "MjlkMmZjYzgyZTU3OTIzNTdiMjFjYTM1MWU1MjM5MTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "primary md"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "primary md", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 13, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Delete", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 1065, 
+            "xPercent": 55.45003255208333, 
+            "y": 399, 
+            "yPercent": 16.342905405405407
+        }, 
+        "location": {
+            "x": 1065, 
+            "y": 399
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 75
+        }, 
+        "tag_name": "button", 
+        "text": "Delete"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c40f9173602ecdd964d3a3279df0fa69", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Delete", 
+    "transformed": true, 
+    "width": 75, 
+    "x": 1065, 
+    "y": 399
+}

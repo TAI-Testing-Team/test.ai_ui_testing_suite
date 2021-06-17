@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+**/*/test_runs/*
+builds/*/crawls/**/*
+builds/*/test_runs/**/*
+builds/*/logs/**/*
+lkg/*.json
+!lkg/removed_labels.json
+lkg/tests/tests.json
+lkg/data/elems/uniques/**/*
+lkg/data/screens/uniques/**/*
+lkg/data/labeler_objects.json
+lkg/data/unique_tags.json
+lkg/data/suggested_labels/**/*

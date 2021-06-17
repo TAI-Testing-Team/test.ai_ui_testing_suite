@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "R13vrbcHAay5nbGN99f05w==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "input_X39_Y549_W262_H29", 
+    "human_readable": "input_39_549_262_29_input_00000000ffffffffffffffff03ff01ff01ff01ff83ffffffffffffff7ffe0000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MzhlMjU2YjFmN2ZiM2QwZGFmYjVmOTEyNDk5YmI1NTA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " ", 
+                "id": "description", 
+                "name": "description", 
+                "placeholder": "Add a description", 
+                "type": "text", 
+                "value": ""
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": " ", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 29, 
+            "identifier": "description", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "description", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "text", 
+            "value": "", 
+            "width": 262, 
+            "x": 39, 
+            "xPercent": 2.03125, 
+            "y": 549, 
+            "yPercent": 22.68595041322314
+        }, 
+        "location": {
+            "x": 39, 
+            "y": 549
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 262
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "14f3f6e661b387e1b9027ab5993135cf", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 262, 
+    "x": 39, 
+    "y": 549
+}

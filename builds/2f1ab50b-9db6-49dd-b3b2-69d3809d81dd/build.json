@@ -1,0 +1,9 @@
+{
+    "_id": "2f1ab50b-9db6-49dd-b3b2-69d3809d81dd", 
+    "app": "http://localhost:5000", 
+    "app_id": "90d6a767-3e1a-4a44-899b-6023a8afe98f", 
+    "created": "2021-06-16 18:01:09.839785", 
+    "package": null, 
+    "platform": "web", 
+    "version": "1"
+}

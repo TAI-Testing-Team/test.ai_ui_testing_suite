@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "DNxWaJkWc/4sisvUClWboQ==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "span_X45_Y627_W62_H20", 
+    "human_readable": "span_45_627_62_20_span_fffffffffffffffffffffee1c201c213c213c211c211f20ff08fffdfffffffff_4c3597dd313e09fadc8eceaf25b4462e", 
+    "image_path": "ZTRlMzdmZjczOTJlNGQ4NDEwNjY5YmM1OTY4MDJlZTE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "tag"
+            }, 
+            "background-color": "rgb(216, 219, 224)", 
+            "class": "span", 
+            "color": "rgb(116, 120, 126)", 
+            "cssClass": "tag", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "my_tag \u2717", 
+            "type": "", 
+            "value": "", 
+            "width": 62, 
+            "x": 45, 
+            "xPercent": 2.34375, 
+            "y": 627, 
+            "yPercent": 25.90909090909091
+        }, 
+        "location": {
+            "x": 45, 
+            "y": 627
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 62
+        }, 
+        "tag_name": "span", 
+        "text": "my_tag \u2717"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "94fffe59f51efe5e848f55c8ecf8c632", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "my_tag \u2717", 
+    "transformed": true, 
+    "width": 62, 
+    "x": 45, 
+    "y": 627
+}

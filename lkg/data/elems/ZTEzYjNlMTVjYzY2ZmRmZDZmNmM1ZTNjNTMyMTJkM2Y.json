@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "GehhDoTpsZrIztYr6Y7HFQ==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "a_X48_Y92_W308_H40", 
+    "human_readable": "a_48_92_308_40_a_ffffffffffffffffffff3fff07ff07ff07ff07ff1fffffffffffffffffff0000_e036469a15d035954b601c83b18e176f", 
+    "image_path": "ZTEzYjNlMTVjYzY2ZmRmZDZmNmM1ZTNjNTMyMTJkM2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "flex option css-zcxndt", 
+                "href": "/c/testai/apps/android/ce3b88ac-324d-459e-8edd-0fbbdc5b0010/crawls/latest/label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(27, 41, 68)", 
+            "cssClass": "flex option css-zcxndt", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Equinox", 
+            "type": "", 
+            "value": "", 
+            "width": 308, 
+            "x": 48, 
+            "xPercent": 2.5, 
+            "y": 92, 
+            "yPercent": 9.561128526645767
+        }, 
+        "location": {
+            "x": 48, 
+            "y": 92
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 308
+        }, 
+        "tag_name": "a", 
+        "text": "Equinox"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "84b14cb8a2f8a736743fc3c72a5e8a46", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Equinox", 
+    "transformed": true, 
+    "width": 308, 
+    "x": 48, 
+    "y": 92
+}

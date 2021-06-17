@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "IoBTXv8x4RbzHmwuu59q9g==\n", 
+    "height": 19, 
+    "hier_level": 0, 
+    "human_hash": "button_X17_Y211_W75_H19", 
+    "human_readable": "button_17_211_75_19_button_ffffffffffff9fff93cf93cd806100419041904190419061ffffffffffffffff_fe8a4eab8cd68aff88bef73628d1a1ba", 
+    "image_path": "ZWRkZDNjOTZlMGNlZDIyMWJmYTY2MjViZDE2YTcwZDY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "addTestButton"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(0, 126, 255)", 
+            "cssClass": "addTestButton", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 19, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "New Test", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 17, 
+            "xPercent": 0.8854166666666666, 
+            "y": 211, 
+            "yPercent": 8.71900826446281
+        }, 
+        "location": {
+            "x": 17, 
+            "y": 211
+        }, 
+        "size": {
+            "height": 19, 
+            "width": 75
+        }, 
+        "tag_name": "button", 
+        "text": "New Test"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "ec624aebd41e9389bcf4a9f55e320286", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "New Test", 
+    "transformed": true, 
+    "width": 75, 
+    "x": 17, 
+    "y": 211
+}

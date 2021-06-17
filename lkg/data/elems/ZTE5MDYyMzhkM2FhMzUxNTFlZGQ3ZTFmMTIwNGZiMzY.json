@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1Eb6XV6e03kQUCxKZ4CZGA==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X30_Y298_W33_H12", 
+    "human_readable": "span_30_298_33_12_span_ffff1ff91ff9bf99b619a01da9bda89da09da21daf3da019a018f6d8ffffffff_3d82e4f0057e8d4936b6e43a5864232a", 
+    "image_path": "ZTE5MDYyMzhkM2FhMzUxNTFlZGQ3ZTFmMTIwNGZiMzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Test 1", 
+            "type": "", 
+            "value": "", 
+            "width": 33, 
+            "x": 30, 
+            "xPercent": 1.5625, 
+            "y": 298, 
+            "yPercent": 12.314049586776859
+        }, 
+        "location": {
+            "x": 30, 
+            "y": 298
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 33
+        }, 
+        "tag_name": "span", 
+        "text": "Test 1"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e16e41d92ccdeaa09be4c6f9b633cdcf", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Test 1", 
+    "transformed": true, 
+    "width": 33, 
+    "x": 30, 
+    "y": 298
+}

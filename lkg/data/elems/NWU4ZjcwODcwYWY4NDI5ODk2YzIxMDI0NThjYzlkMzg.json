@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "I+ZL6b92nU4CEyRNWeL1HQ==\n", 
+    "height": 363, 
+    "hier_level": 0, 
+    "human_hash": "div_X46_Y405_W272_H363", 
+    "human_readable": "div_46_405_272_363_div_ffff8ffffe7ffc3fffffffffc00fc03f8001803f87ffffffffff87ffc0f9ffff_95c099cc35104b518e82322154e0992e", 
+    "image_path": "NWU4ZjcwODcwYWY4NDI5ODk2YzIxMDI0NThjYzlkMzg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "teststep padding-md collapse show"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "teststep padding-md collapse show", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 363, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "LabelsDrag and dropRun only if label is foundContinue on failureType labels above or drag and drop an element or screen here to use its labelsDescriptionInteractionSelect Interaction\u00a0 Text Entry\u00a0 Text Entry w/o Submit\u00a0 Tap\u00a0 Double Tap\u00a0 Long Press\u00a0 Rotate to Landscape\u00a0 Rotate to Portrait\u00a0 Swipe Up\u00a0 Swipe Down\u00a0 Swipe Left\u00a0 Swipe Right\u00a0 Wait # Seconds", 
+            "type": "", 
+            "value": "", 
+            "width": 272, 
+            "x": 46, 
+            "xPercent": 2.3958333333333335, 
+            "y": 405, 
+            "yPercent": 16.735537190082646
+        }, 
+        "location": {
+            "x": 46, 
+            "y": 405
+        }, 
+        "size": {
+            "height": 363, 
+            "width": 272
+        }, 
+        "tag_name": "div", 
+        "text": "LabelsDrag and dropRun only if label is foundContinue on failureType labels above or drag and drop an element or screen here to use its labelsDescriptionInteractionSelect Interaction\u00a0 Text Entry\u00a0 Text Entry w/o Submit\u00a0 Tap\u00a0 Double Tap\u00a0 Long Press\u00a0 Rotate to Landscape\u00a0 Rotate to Portrait\u00a0 Swipe Up\u00a0 Swipe Down\u00a0 Swipe Left\u00a0 Swipe Right\u00a0 Wait # Seconds"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "afbf2974118204c374a8e348dcdfec92", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "LabelsDrag and dropRun only if label is foundContinue on failureType labels above or drag and drop an element or screen here to use its labelsDescriptionInteractionSelect Interaction\u00a0 Text Entry\u00a0 Text Entry w/o Submit\u00a0 Tap\u00a0 Double Tap\u00a0 Long Press\u00a0 Rotate to Landscape\u00a0 Rotate to Portrait\u00a0 Swipe Up\u00a0 Swipe Down\u00a0 Swipe Left\u00a0 Swipe Right\u00a0 Wait # Seconds", 
+    "transformed": true, 
+    "width": 272, 
+    "x": 46, 
+    "y": 405
+}

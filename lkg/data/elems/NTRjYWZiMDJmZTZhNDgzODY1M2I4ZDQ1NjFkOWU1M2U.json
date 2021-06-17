@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "snujm8MgERHloagwgWYYYw==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "div_X76_Y807_W212_H12", 
+    "human_readable": "div_76_807_212_12_div_ffffafff0fff47ff07ff07ff07ff07ff07ff07ff07ff07ff07ff07ff7ffff7ff_1fafda34be0181394c7686ce5d5de533", 
+    "image_path": "NTRjYWZiMDJmZTZhNDgzODY1M2I4ZDQ1NjFkOWU1M2U.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content flex middle", 
+                "style": "width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "content flex middle", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Text Entry", 
+            "type": "", 
+            "value": "", 
+            "width": 212, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 807, 
+            "yPercent": 33.34710743801653
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 807
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 212
+        }, 
+        "tag_name": "div", 
+        "text": "Text Entry"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "ec624aebd41e9389bcf4a9f55e320286", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Text Entry", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 76, 
+    "y": 807
+}
