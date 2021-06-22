@@ -1,46 +1,19 @@
 {
-    "Create New Test and Add Action Step": {
+    "06 Verify Action Card": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "06 Verify Action Card", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "Select App and Enter", 
+                "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "test_case", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_add_new_test"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "A New Test", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_test_case_name"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
                 "widget": "default"
             }, 
             {
@@ -163,10 +136,24 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_interaction"
+                    "icn_checkbox_two"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "icn_checkbox_two_checked"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -177,7 +164,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mi_text_entry"
+                    "icn_checkbox_two_checked"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -188,18 +175,46 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "swipe_up", 
+                "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "btn_action"
+                    "icn_checkbox_two"
                 ], 
                 "run_only_if_label_present": false, 
-                "type": "action", 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "inp_description"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_interaction"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
         "temp_id": "f6856823-ceea-11eb-b053-1e00da3ad779", 
-        "title": "Create New Test and Add Action Step"
+        "title": "06 Verify Action Card"
     }
 }

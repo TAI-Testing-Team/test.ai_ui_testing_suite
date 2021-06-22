@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "VfphgPVVHVG/TKW++q3eQw==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "a_X1636_Y22_W163_H42", 
+    "human_readable": "a_1636_22_163_42_a_0000000082c0ffffffffffffffff000800000000000000000000000000000000_57691c4f635e67a6e6cc9db111dffa6d", 
+    "image_path": "Mjk0M2Y3OWMzMWMwNThlY2I2NjFiMzFjMGNkY2FkNjg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1h7v47x", 
+                "href": "/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/live_labeling"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(221, 224, 255)", 
+            "cssClass": "css-1h7v47x", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 16, 
+            "height": 42, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "Interactive Composer", 
+            "type": "", 
+            "value": "", 
+            "width": 163, 
+            "x": 1636, 
+            "xPercent": 85.20670572916667, 
+            "y": 22, 
+            "yPercent": 0.8698078416149068
+        }, 
+        "location": {
+            "x": 1636, 
+            "y": 22
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 163
+        }, 
+        "tag_name": "a", 
+        "text": "Interactive Composer"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2dcde2c16b1ee5df51b81cc14f07aeaa", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "Interactive Composer", 
+    "transformed": true, 
+    "width": 163, 
+    "x": 1636, 
+    "y": 22
+}
