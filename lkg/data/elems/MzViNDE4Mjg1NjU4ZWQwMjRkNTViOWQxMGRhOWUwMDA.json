@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "y9PRgzUDP3Zti211d//Spg==\n", 
+    "height": 52, 
+    "hier_level": 0, 
+    "human_hash": "div_X66_Y667_W232_H52", 
+    "human_readable": "div_66_667_232_52_div_ffffffff07ff07ff07ff9fffffff0000ffffffffffffffffffffffffffff0000_bf8ee20414b2976894849b42ed2346e3", 
+    "image_path": "MzViNDE4Mjg1NjU4ZWQwMjRkNTViOWQxMGRhOWUwMDA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 52, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Description", 
+            "type": "", 
+            "value": "", 
+            "width": 232, 
+            "x": 66, 
+            "xPercent": 3.4375000000000004, 
+            "y": 667, 
+            "yPercent": 25.892857142857146
+        }, 
+        "location": {
+            "x": 66, 
+            "y": 667
+        }, 
+        "size": {
+            "height": 52, 
+            "width": 232
+        }, 
+        "tag_name": "div", 
+        "text": "Description"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "579764f5920b0a1a529fec2fe9c6916d", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Description", 
+    "transformed": true, 
+    "width": 232, 
+    "x": 66, 
+    "y": 667
+}
