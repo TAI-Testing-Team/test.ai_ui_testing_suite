@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Ax+KAAzsbqZeNpoZ/8Ndbg==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X1471_Y188_W149_H40", 
+    "human_readable": "button_1471_188_149_40_button_ffffffffffffffffffff97ff914b800180018001c003ffffffffffffffffffff_ffd7c136b4889cbbe46b49a0894a328c", 
+    "image_path": "NzI0Y2NkYmNjODUyZDRlM2JkMzIwMmExM2Q1NWVkYzI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-myeq6i", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(237, 242, 247)", 
+            "class": "button", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-button css-myeq6i", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Back to test run", 
+            "type": "button", 
+            "value": "", 
+            "width": 149, 
+            "x": 1471, 
+            "xPercent": 76.62434895833333, 
+            "y": 188, 
+            "yPercent": 13.884785819793205
+        }, 
+        "location": {
+            "x": 1471, 
+            "y": 188
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 149
+        }, 
+        "tag_name": "button", 
+        "text": "Back to test run"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "29ef5cf67943d0023a7f913ee1ea6fa5", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Back to test run", 
+    "transformed": true, 
+    "width": 149, 
+    "x": 1471, 
+    "y": 188
+}

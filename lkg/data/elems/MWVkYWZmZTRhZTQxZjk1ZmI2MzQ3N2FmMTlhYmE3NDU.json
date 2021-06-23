@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "a", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "fDCXwO4HhtspSX7dmR74Tw==\n", 
+    "height": 17, 
+    "hier_level": 0, 
+    "human_hash": "a_X1539_Y534_W96_H17", 
+    "human_readable": "a_1539_534_96_17_a_ffffffffffff3bbd339db184300030003040b040b2503000fffaffffffffffff_a96e4f844ab9df295d4c2c71a698179f", 
+    "image_path": "MWVkYWZmZTRhZTQxZjk1ZmI2MzQ3N2FmMTlhYmE3NDU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "href": "/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/test_results/20210621175707:Sign In Build 2"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "a", 
+            "color": "rgb(26, 32, 44)", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": false, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 17, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "a", 
+            "text": "View Details", 
+            "type": "", 
+            "value": "", 
+            "width": 96, 
+            "x": 1539, 
+            "xPercent": 80.14485677083333, 
+            "y": 534, 
+            "yPercent": 43.627450980392155
+        }, 
+        "location": {
+            "x": 1539, 
+            "y": 534
+        }, 
+        "size": {
+            "height": 17, 
+            "width": 96
+        }, 
+        "tag_name": "a", 
+        "text": "View Details"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2b5739d9673e4e09e849aba556af16ab", 
+    "scrollable": false, 
+    "tag_name": "a", 
+    "text": "View Details", 
+    "transformed": true, 
+    "width": 96, 
+    "x": 1539, 
+    "y": 534
+}

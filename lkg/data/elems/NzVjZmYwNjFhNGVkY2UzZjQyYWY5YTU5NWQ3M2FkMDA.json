@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bUD462wzGb2o9zaJgQhi1A==\n", 
+    "height": 13, 
+    "hier_level": 0, 
+    "human_hash": "div_X285_Y402_W9_H13", 
+    "human_readable": "div_285_402_9_13_div_ffffc7ff81ff80ffc03ff01ff807fe07fc07f80fe03fc07f81ffc3ffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NzVjZmYwNjFhNGVkY2UzZjQyYWY5YTU5NWQ3M2FkMDA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "collapse-toggle inline"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "collapse-toggle inline", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 9, 
+            "height": 13, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 9, 
+            "x": 285, 
+            "xPercent": 14.84375, 
+            "y": 402, 
+            "yPercent": 35.35620052770449
+        }, 
+        "location": {
+            "x": 285, 
+            "y": 402
+        }, 
+        "size": {
+            "height": 13, 
+            "width": 9
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "25bbda17cdb9b22dbb49dce9c054fcc2", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 9, 
+    "x": 285, 
+    "y": 402
+}

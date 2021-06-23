@@ -1,8 +1,8 @@
 {
-    "03 Test Lifecycle - Create, Edit, Delete": {
+    "09 Expand Arrow/Test Details": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "03 Test Lifecycle - Create, Edit, Delete", 
+        "original_title": "09 Expand Arrow/Test Details", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -24,63 +24,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_add_new_test"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "inp_test_case_name"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "My New Test", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_test_case_name"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_my_new_test"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_my_new_test"
+                    "lnk_test_results"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -94,7 +38,21 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_delete_test"
+                    "btn_expand_test_result"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_view_details"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -108,7 +66,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "btn_confirm_delete"
+                    "btn_back_to_test_run"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -122,7 +80,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_confirm_delete"
+                    "btn_pencil_icon"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -136,15 +94,93 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_test_case"
+                    "ttl_step_one"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "go_back", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_test_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_test_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "img_test_step_1"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "go_back", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
-        "temp_id": "5a2bbc33-cecd-11eb-92ec-1e00da3ad779", 
-        "title": "03 Test Lifecycle - Create, Edit, Delete"
+        "temp_id": "67849035-d3a2-11eb-8f31-149d997d94ba", 
+        "title": "09 Expand Arrow/Test Details"
     }
 }

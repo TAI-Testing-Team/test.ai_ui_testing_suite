@@ -1,19 +1,61 @@
 {
-    "03 Test Lifecycle - Create, Edit, Delete": {
+    "08 Search Test Run ID": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "03 Test Lifecycle - Create, Edit, Delete", 
+        "original_title": "08 Search Test Run ID", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "01 Select App", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mnu_select_app"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_equinox"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_equinox"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "Create test cases from screens", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "test_case", 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -24,7 +66,21 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_add_new_test"
+                    "lnk_test_results"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "0713", 
+                "grep_count": null, 
+                "input": "text_entry_no_submit", 
+                "label_count": null, 
+                "labels": [
+                    "inp_search_test_results"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -38,35 +94,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_test_case_name"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "My New Test", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_test_case_name"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_my_new_test"
+                    "txt_test_name_0713"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -80,7 +108,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_my_new_test"
+                    "lnk_test_results"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -94,7 +122,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_delete_test"
+                    "ddl_all_users"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -102,49 +130,20 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "NOT WORKING", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "btn_confirm_delete"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_confirm_delete"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_select_test_case"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "custom_tap_coordinates.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
-        "temp_id": "5a2bbc33-cecd-11eb-92ec-1e00da3ad779", 
-        "title": "03 Test Lifecycle - Create, Edit, Delete"
+        "temp_id": "1a2e5285-d396-11eb-8bb1-149d997d94ba", 
+        "title": "08 Search Test Run ID"
     }
 }
