@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "ScuQOgFBGdzyMLfmPkLvyQ==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X86_Y463_W159_H24", 
+    "human_readable": "div_86_463_159_24_div_fffffffffffffffffdff74d600000000000000000000b32afbffffffffffffff_942771c5db1b720d005abe63c30a9d27", 
+    "image_path": "NDc5Y2NhNDllY2ZkYTE1Y2JmZTdhODE2MDBmNzYyZTA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-checkbox__label css-bxkd7y"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "chakra-checkbox__label css-bxkd7y", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Run only if label is found", 
+            "type": "", 
+            "value": "", 
+            "width": 159, 
+            "x": 86, 
+            "xPercent": 4.479166666666667, 
+            "y": 463, 
+            "yPercent": 17.97360248447205
+        }, 
+        "location": {
+            "x": 86, 
+            "y": 463
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 159
+        }, 
+        "tag_name": "div", 
+        "text": "Run only if label is found"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5a9a64472e91425ae4bffd35580362b5", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Run only if label is found", 
+    "transformed": true, 
+    "width": 159, 
+    "x": 86, 
+    "y": 463
+}
