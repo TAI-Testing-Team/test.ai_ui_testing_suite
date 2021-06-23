@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "E7kKMb+xhNX5IRO0shNuOQ==\n", 
+    "height": 717, 
+    "hier_level": 0, 
+    "human_hash": "img_X790_Y52_W339_H717", 
+    "human_readable": "img_790_52_339_717_img_f03f0023e1feffff006d00fe00400000000000007fff7ffe7ffe000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MDc5ZGRlZDQyMzI0MTllNTdmNzZkNmVhMjdlNjNlZjI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "src": "/api/v1/c/testai/apps/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/test_runs/20210621175707/Sign In Build 2/iter_00000_step_00000_screenshot.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(26, 32, 44)", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 717, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 339, 
+            "x": 790, 
+            "xPercent": 41.161295572916664, 
+            "y": 52, 
+            "yPercent": 3.8404726735598227
+        }, 
+        "location": {
+            "x": 790, 
+            "y": 52
+        }, 
+        "size": {
+            "height": 717, 
+            "width": 339
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0f202bc419b4b21351a5ee6bdd1551c5", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 339, 
+    "x": 790, 
+    "y": 52
+}

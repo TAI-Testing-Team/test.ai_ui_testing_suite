@@ -1,0 +1,4971 @@
+{
+    "action_info": {
+        "elem_class": "screen", 
+        "elem_info": {
+            "class": "screen", 
+            "hash": "QCTht7E8NasXUjacMKfmjw==\n", 
+            "height": 843, 
+            "hier_level": 0, 
+            "human_hash": "screen_X0_Y0_W1920_H843", 
+            "index": -1, 
+            "is_transformed": true, 
+            "tag_name": "screen", 
+            "text": "", 
+            "width": 1920, 
+            "x": 0, 
+            "y": 0
+        }, 
+        "gesture": "no_op", 
+        "text": "no_op"
+    }, 
+    "all_elems": [
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "kwqKOqjCjOm4CVAY1Y1ycA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X636_Y801_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in)"
+                        ], 
+                        [
+                            "Page load", 
+                            "1.71 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "266.82 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "System mem.266.82 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 801, 
+                    "yPercent": 59.12458456425406
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 801
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "System mem.266.82 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "System mem.266.82 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 801
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "1BhFML+ii5J8dVJxKgCy3w==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X722_Y766_W207_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "154.4 KB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 207, 
+                    "x": 722, 
+                    "xPercent": 37.604166666666664, 
+                    "y": 766, 
+                    "yPercent": 56.53965103397341
+                }, 
+                "location": {
+                    "x": 722, 
+                    "y": 766
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 207
+                }, 
+                "tag_name": "td", 
+                "text": "154.4 KB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "154.4 KB", 
+            "transformed": true, 
+            "width": 207, 
+            "x": 722, 
+            "y": 766
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "f+DVocLq72jiqRuqtM5l5g==\n", 
+            "height": 16, 
+            "hier_level": 0, 
+            "human_hash": "div_X33_Y26_W20_H16", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "fas fa-angle-down css-1p2jtab"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "fas fa-angle-down css-1p2jtab", 
+                    "domLevel": 8, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Font Awesome 5 Free\"", 
+                    "font-weight": "900", 
+                    "fontSize": 16, 
+                    "height": 16, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 20, 
+                    "x": 33, 
+                    "xPercent": 1.7187500000000002, 
+                    "y": 26, 
+                    "yPercent": 1.9202363367799113
+                }, 
+                "location": {
+                    "x": 33, 
+                    "y": 26
+                }, 
+                "size": {
+                    "height": 16, 
+                    "width": 20
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 20, 
+            "x": 33, 
+            "y": 26
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "AnOVPnOAd1OMquGFvLycvA==\n", 
+            "height": 34, 
+            "hier_level": 0, 
+            "human_hash": "td_X722_Y662_W207_H34", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 34, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "Tap on Element (btn_sign_in)", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 207, 
+                    "x": 722, 
+                    "xPercent": 37.604166666666664, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 722, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 34, 
+                    "width": 207
+                }, 
+                "tag_name": "td", 
+                "text": "Tap on Element (btn_sign_in)"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "Tap on Element (btn_sign_in)", 
+            "transformed": true, 
+            "width": 207, 
+            "x": 722, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "A/PE/DJE4bBluI0Wgme6aQ==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X351_Y720_W223_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "0 ms", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 223, 
+                    "x": 351, 
+                    "xPercent": 18.28125, 
+                    "y": 720, 
+                    "yPercent": 53.142309822747414
+                }, 
+                "location": {
+                    "x": 351, 
+                    "y": 720
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 223
+                }, 
+                "tag_name": "td", 
+                "text": "0 ms"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "0 ms", 
+            "transformed": true, 
+            "width": 223, 
+            "x": 351, 
+            "y": 720
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "MWMoMj98EFUiK9LpIozOzw==\n", 
+            "height": 13, 
+            "hier_level": 0, 
+            "human_hash": "div_X540_Y616_W13_H13", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-42igfv"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "css-42igfv", 
+                    "domLevel": 11, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 13, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 13, 
+                    "x": 540, 
+                    "xPercent": 28.125, 
+                    "y": 616, 
+                    "yPercent": 45.49483013293944
+                }, 
+                "location": {
+                    "x": 540, 
+                    "y": 616
+                }, 
+                "size": {
+                    "height": 13, 
+                    "width": 13
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 13, 
+            "x": 540, 
+            "y": 616
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "9l6wDtdPhA0AKg8VM32U/Q==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X281_Y720_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in_with_variis)"
+                        ], 
+                        [
+                            "Page load", 
+                            "0 ms"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "258.16 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Page load0 ms", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 281, 
+                    "xPercent": 14.635416666666668, 
+                    "y": 720, 
+                    "yPercent": 53.142309822747414
+                }, 
+                "location": {
+                    "x": 281, 
+                    "y": 720
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Page load0 ms"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Page load0 ms", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 281, 
+            "y": 720
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "button", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": true, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "fe0lkewJSDn0XlVuaHXQ1Q==\n", 
+            "height": 38, 
+            "hier_level": 0, 
+            "human_hash": "button_X1752_Y805_W142_H38", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "container", 
+                        "style": "background: rgb(243, 86, 91); border-top: 1px solid rgba(33, 43, 55, 0.3); border-right: 1px solid rgba(33, 43, 55, 0.3); border-bottom: none; border-left: 1px solid rgba(33, 43, 55, 0.3); color: rgb(255, 255, 255); border-image: initial; border-top-left-radius: 3px; border-top-right-radius: 3px; font-weight: 500; box-sizing: border-box;"
+                    }, 
+                    "background-color": "rgb(243, 86, 91)", 
+                    "class": "button", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "container", 
+                    "domLevel": 2, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": true, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Inter", 
+                    "font-weight": "500", 
+                    "fontSize": 18, 
+                    "height": 38, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "button", 
+                    "text": "Report Issue", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 142, 
+                    "x": 1752, 
+                    "xPercent": 91.25, 
+                    "y": 805, 
+                    "yPercent": 59.45347119645494
+                }, 
+                "location": {
+                    "x": 1752, 
+                    "y": 805
+                }, 
+                "size": {
+                    "height": 38, 
+                    "width": 142
+                }, 
+                "tag_name": "button", 
+                "text": "Report Issue"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "button", 
+            "text": "Report Issue", 
+            "transformed": true, 
+            "width": 142, 
+            "x": 1752, 
+            "y": 805
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "svg", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "gJA8m7PBmDO4Dq/h1nYgqQ==\n", 
+            "height": 13, 
+            "hier_level": 0, 
+            "human_hash": "svg_X540_Y616_W13_H13", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "fill": "currentColor", 
+                        "height": "1em", 
+                        "stroke": "currentColor", 
+                        "stroke-width": "0", 
+                        "version": "1.1", 
+                        "viewBox": "0 0 16 16", 
+                        "width": "1em", 
+                        "xmlns": "http://www.w3.org/2000/svg"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "svg", 
+                    "color": "rgb(255, 255, 255)", 
+                    "domLevel": 12, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 13, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "svg", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 13, 
+                    "x": 540, 
+                    "xPercent": 28.125, 
+                    "y": 616, 
+                    "yPercent": 45.49483013293944
+                }, 
+                "location": {
+                    "x": 540, 
+                    "y": 616
+                }, 
+                "size": {
+                    "height": 13, 
+                    "width": 13
+                }, 
+                "tag_name": "svg", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "svg", 
+            "text": "", 
+            "transformed": true, 
+            "width": 13, 
+            "x": 540, 
+            "y": 616
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "gE19gfywIRz4dqQ1DsJZEA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X1140_Y766_W144_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "154.4 KB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 144, 
+                    "x": 1140, 
+                    "xPercent": 59.375, 
+                    "y": 766, 
+                    "yPercent": 56.53965103397341
+                }, 
+                "location": {
+                    "x": 1140, 
+                    "y": 766
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 144
+                }, 
+                "tag_name": "td", 
+                "text": "154.4 KB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "154.4 KB", 
+            "transformed": true, 
+            "width": 144, 
+            "x": 1140, 
+            "y": 766
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "XlJdCXkuBlICUHgKm00j2w==\n", 
+            "height": 37, 
+            "hier_level": 0, 
+            "human_hash": "div_X1753_Y806_W140_H37", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "loadingWave"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "loadingWave", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Inter", 
+                    "font-weight": "500", 
+                    "fontSize": 18, 
+                    "height": 37, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 140, 
+                    "x": 1753, 
+                    "xPercent": 91.30208333333333, 
+                    "y": 806, 
+                    "yPercent": 59.527326440177255
+                }, 
+                "location": {
+                    "x": 1753, 
+                    "y": 806
+                }, 
+                "size": {
+                    "height": 37, 
+                    "width": 140
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 140, 
+            "x": 1753, 
+            "y": 806
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "0A8IkeOBHvK/A7NlgJ3fzQ==\n", 
+            "height": 42, 
+            "hier_level": 0, 
+            "human_hash": "div_X1354_Y22_W445_H42", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "nav css-10mgjfk"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(247, 250, 252)", 
+                    "cssClass": "nav css-10mgjfk", 
+                    "domLevel": 5, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 42, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Test ComposerTest ResultsInteractive Composer", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 445, 
+                    "x": 1354, 
+                    "xPercent": 70.49886067708333, 
+                    "y": 22, 
+                    "yPercent": 1.6548190546528803
+                }, 
+                "location": {
+                    "x": 1354, 
+                    "y": 22
+                }, 
+                "size": {
+                    "height": 42, 
+                    "width": 445
+                }, 
+                "tag_name": "div", 
+                "text": "Test ComposerTest ResultsInteractive Composer"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Test ComposerTest ResultsInteractive Composer", 
+            "transformed": true, 
+            "width": 445, 
+            "x": 1354, 
+            "y": 22
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "7qhs4dJcf19cnvH7lqoKwA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X636_Y731_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in)"
+                        ], 
+                        [
+                            "Page load", 
+                            "1.71 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "266.82 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Network in3.78 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 731, 
+                    "yPercent": 53.95471750369276
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 731
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Network in3.78 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Network in3.78 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 731
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "i", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "0oKMT0XxOR1mo7vrBX7x+g==\n", 
+            "height": 12, 
+            "hier_level": 0, 
+            "human_hash": "i_X1871_Y93_W11_H12", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "fas fa-chevron-down"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "i", 
+                    "color": "rgb(221, 107, 32)", 
+                    "cssClass": "fas fa-chevron-down", 
+                    "domLevel": 8, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"Font Awesome 5 Free\"", 
+                    "font-weight": "900", 
+                    "fontSize": 12, 
+                    "height": 12, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "i", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 11, 
+                    "x": 1871, 
+                    "xPercent": 97.421875, 
+                    "y": 93, 
+                    "yPercent": 6.868537666174299
+                }, 
+                "location": {
+                    "x": 1871, 
+                    "y": 93
+                }, 
+                "size": {
+                    "height": 12, 
+                    "width": 11
+                }, 
+                "tag_name": "i", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "i", 
+            "text": "", 
+            "transformed": true, 
+            "width": 11, 
+            "x": 1871, 
+            "y": 93
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "Gnb21emnYAlVfczIwV3+uQ==\n", 
+            "height": 619, 
+            "hier_level": 0, 
+            "human_hash": "div_X281_Y31_W293_H619", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-0"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "css-0", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 619, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 281, 
+                    "xPercent": 14.635416666666668, 
+                    "y": 31, 
+                    "yPercent": 2.2895125553914326
+                }, 
+                "location": {
+                    "x": 281, 
+                    "y": 31
+                }, 
+                "size": {
+                    "height": 619, 
+                    "width": 293
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 281, 
+            "y": 31
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "D6ETVpEz2wV2NFAXeADz3g==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X991_Y696_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Finished"
+                        ], 
+                        [
+                            "Page load", 
+                            "2.28 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "276.3 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Page load2.28 s", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 696, 
+                    "yPercent": 51.36978397341211
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 696
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Page load2.28 s"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Page load2.28 s", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 696
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "span", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "b7/xz5GnKKnr5l1ORqEomA==\n", 
+            "height": 1, 
+            "hier_level": 0, 
+            "human_hash": "span_X1761_Y88_W1_H1", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-f8n5zr"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "span", 
+                    "color": "rgb(221, 107, 32)", 
+                    "cssClass": "css-f8n5zr", 
+                    "domLevel": 8, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 12, 
+                    "height": 1, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "span", 
+                    "text": "Loading...", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1, 
+                    "x": 1761, 
+                    "xPercent": 91.72710418701172, 
+                    "y": 88, 
+                    "yPercent": 6.48485349939704
+                }, 
+                "location": {
+                    "x": 1761, 
+                    "y": 88
+                }, 
+                "size": {
+                    "height": 1, 
+                    "width": 1
+                }, 
+                "tag_name": "span", 
+                "text": "Loading..."
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "span", 
+            "text": "Loading...", 
+            "transformed": true, 
+            "width": 1, 
+            "x": 1761, 
+            "y": 88
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "a", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "+cYbPAlvrQ+J8GggEWfY9Q==\n", 
+            "height": 42, 
+            "hier_level": 0, 
+            "human_hash": "a_X1354_Y22_W111_H42", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-1h7v47x", 
+                        "href": "/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/crawls/latest/label"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "a", 
+                    "color": "rgb(221, 224, 255)", 
+                    "cssClass": "css-1h7v47x", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": false, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 42, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "a", 
+                    "text": "Test Composer", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 111, 
+                    "x": 1354, 
+                    "xPercent": 70.49886067708333, 
+                    "y": 22, 
+                    "yPercent": 1.6548190546528803
+                }, 
+                "location": {
+                    "x": 1354, 
+                    "y": 22
+                }, 
+                "size": {
+                    "height": 42, 
+                    "width": 111
+                }, 
+                "tag_name": "a", 
+                "text": "Test Composer"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "a", 
+            "text": "Test Composer", 
+            "transformed": true, 
+            "width": 111, 
+            "x": 1354, 
+            "y": 22
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "MV1qqETRcrMRlmprt4LwPg==\n", 
+            "height": 31, 
+            "hier_level": 0, 
+            "human_hash": "div_X33_Y17_W328_H31", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "select", 
+                        "id": ""
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(247, 250, 252)", 
+                    "cssClass": "select", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 31, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Equinox Add an appTestAI UI PlatformEquinox", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 328, 
+                    "x": 33, 
+                    "xPercent": 1.7187500000000002, 
+                    "y": 17, 
+                    "yPercent": 1.2186115214180206
+                }, 
+                "location": {
+                    "x": 33, 
+                    "y": 17
+                }, 
+                "size": {
+                    "height": 31, 
+                    "width": 328
+                }, 
+                "tag_name": "div", 
+                "text": "Equinox Add an appTestAI UI PlatformEquinox"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Equinox Add an appTestAI UI PlatformEquinox", 
+            "transformed": true, 
+            "width": 328, 
+            "x": 33, 
+            "y": 17
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "BxEh1ATPxfVYSvr02jHIpA==\n", 
+            "height": 34, 
+            "hier_level": 0, 
+            "human_hash": "td_X1140_Y662_W144_H34", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 34, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "Finished", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 144, 
+                    "x": 1140, 
+                    "xPercent": 59.375, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 1140, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 34, 
+                    "width": 144
+                }, 
+                "tag_name": "td", 
+                "text": "Finished"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "Finished", 
+            "transformed": true, 
+            "width": 144, 
+            "x": 1140, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "vwBc2EcQY+pOYooHTia8xw==\n", 
+            "height": 619, 
+            "hier_level": 0, 
+            "human_hash": "div_X991_Y31_W293_H619", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-0"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "css-0", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 619, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 31, 
+                    "yPercent": 2.2895125553914326
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 31
+                }, 
+                "size": {
+                    "height": 619, 
+                    "width": 293
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 31
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "0/MjxlEP2yUAari5iF+HrA==\n", 
+            "height": 25, 
+            "hier_level": 0, 
+            "human_hash": "div_X1244_Y610_W25_H25", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "showButton css-8zia97"
+                    }, 
+                    "background-color": "rgb(60, 53, 244)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "showButton css-8zia97", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 25, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 25, 
+                    "x": 1244, 
+                    "xPercent": 64.79166666666667, 
+                    "y": 610, 
+                    "yPercent": 45.05169867060561
+                }, 
+                "location": {
+                    "x": 1244, 
+                    "y": 610
+                }, 
+                "size": {
+                    "height": 25, 
+                    "width": 25
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 25, 
+            "x": 1244, 
+            "y": 610
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "span", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "0X7V/gIMJyZEvq5H8yyWAA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "span_X1742_Y82_W147_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-14bj150"
+                    }, 
+                    "background-color": "rgb(254, 235, 200)", 
+                    "class": "span", 
+                    "color": "rgb(221, 107, 32)", 
+                    "cssClass": "css-14bj150", 
+                    "domLevel": 5, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 12, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "span", 
+                    "text": "Loading...\u00a0Crawl is running", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 147, 
+                    "x": 1742, 
+                    "xPercent": 90.74625651041667, 
+                    "y": 82, 
+                    "yPercent": 6.019202363367799
+                }, 
+                "location": {
+                    "x": 1742, 
+                    "y": 82
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 147
+                }, 
+                "tag_name": "span", 
+                "text": "Loading...\u00a0Crawl is running"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "span", 
+            "text": "Loading...\u00a0Crawl is running", 
+            "transformed": true, 
+            "width": 147, 
+            "x": 1742, 
+            "y": 82
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "a", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "VfphgPVVHVG/TKW++q3eQw==\n", 
+            "height": 42, 
+            "hier_level": 0, 
+            "human_hash": "a_X1636_Y22_W163_H42", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-1h7v47x", 
+                        "href": "/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/live_labeling"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "a", 
+                    "color": "rgb(221, 224, 255)", 
+                    "cssClass": "css-1h7v47x", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": false, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 42, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "a", 
+                    "text": "Interactive Composer", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 163, 
+                    "x": 1636, 
+                    "xPercent": 85.20670572916667, 
+                    "y": 22, 
+                    "yPercent": 1.6548190546528803
+                }, 
+                "location": {
+                    "x": 1636, 
+                    "y": 22
+                }, 
+                "size": {
+                    "height": 42, 
+                    "width": 163
+                }, 
+                "tag_name": "a", 
+                "text": "Interactive Composer"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "a", 
+            "text": "Interactive Composer", 
+            "transformed": true, 
+            "width": 163, 
+            "x": 1636, 
+            "y": 22
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "img", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "dYvK/vFbY/jrIFkSAccQGg==\n", 
+            "height": 619, 
+            "hier_level": 0, 
+            "human_hash": "img_X281_Y31_W293_H619", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "src": "/api/v1/c/testai/apps/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/test_runs/20210621175707/Sign In Build 2/iter_00000_step_00000_screenshot.png"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "img", 
+                    "color": "rgb(26, 32, 44)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 619, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "img", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 281, 
+                    "xPercent": 14.635416666666668, 
+                    "y": 31, 
+                    "yPercent": 2.2895125553914326
+                }, 
+                "location": {
+                    "x": 281, 
+                    "y": 31
+                }, 
+                "size": {
+                    "height": 619, 
+                    "width": 293
+                }, 
+                "tag_name": "img", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "img", 
+            "text": "", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 281, 
+            "y": 31
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "rbvRSVxX+xnGMidiKAOzuw==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X636_Y696_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in)"
+                        ], 
+                        [
+                            "Page load", 
+                            "1.71 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "266.82 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Page load1.71 s", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 696, 
+                    "yPercent": 51.36978397341211
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 696
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Page load1.71 s"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Page load1.71 s", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 696
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "H6W5qR98iabhugutFYCWIA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X991_Y766_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Finished"
+                        ], 
+                        [
+                            "Page load", 
+                            "2.28 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "276.3 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Network out154.4 KB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 766, 
+                    "yPercent": 56.53965103397341
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 766
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Network out154.4 KB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Network out154.4 KB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 766
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "DKi+ZMuI8S0Kl5yZnFX4Xg==\n", 
+            "height": 31, 
+            "hier_level": 0, 
+            "human_hash": "div_X30_Y17_W331_H31", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(247, 250, 252)", 
+                    "domLevel": 4, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 31, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Equinox Add an appTestAI UI PlatformEquinox", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 331, 
+                    "x": 30, 
+                    "xPercent": 1.5625, 
+                    "y": 17, 
+                    "yPercent": 1.2186115214180206
+                }, 
+                "location": {
+                    "x": 30, 
+                    "y": 17
+                }, 
+                "size": {
+                    "height": 31, 
+                    "width": 331
+                }, 
+                "tag_name": "div", 
+                "text": "Equinox Add an appTestAI UI PlatformEquinox"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Equinox Add an appTestAI UI PlatformEquinox", 
+            "transformed": true, 
+            "width": 331, 
+            "x": 30, 
+            "y": 17
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "XB/hT7ISAt5bSg2JTZTtSQ==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X722_Y801_W207_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "266.82 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 207, 
+                    "x": 722, 
+                    "xPercent": 37.604166666666664, 
+                    "y": 801, 
+                    "yPercent": 59.12458456425406
+                }, 
+                "location": {
+                    "x": 722, 
+                    "y": 801
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 207
+                }, 
+                "tag_name": "td", 
+                "text": "266.82 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "266.82 MB", 
+            "transformed": true, 
+            "width": 207, 
+            "x": 722, 
+            "y": 801
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "u9iXCMnQ280WzSsgv/btQg==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X991_Y801_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Finished"
+                        ], 
+                        [
+                            "Page load", 
+                            "2.28 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "276.3 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "System mem.276.3 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 801, 
+                    "yPercent": 59.12458456425406
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 801
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "System mem.276.3 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "System mem.276.3 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 801
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "7rXRKBilhR3Uw++cFkf4kw==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X1140_Y731_W144_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "3.78 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 144, 
+                    "x": 1140, 
+                    "xPercent": 59.375, 
+                    "y": 731, 
+                    "yPercent": 53.95471750369276
+                }, 
+                "location": {
+                    "x": 1140, 
+                    "y": 731
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 144
+                }, 
+                "tag_name": "td", 
+                "text": "3.78 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "3.78 MB", 
+            "transformed": true, 
+            "width": 144, 
+            "x": 1140, 
+            "y": 731
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "fkfaXfIQgEAP83TkCzdY3Q==\n", 
+            "height": 58, 
+            "hier_level": 0, 
+            "human_hash": "tr_X281_Y662_W293_H58", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 58, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in_with_variis)"
+                        ], 
+                        [
+                            "Page load", 
+                            "0 ms"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "258.16 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "InteractionTap on Element (btn_sign_in_with_variis)", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 281, 
+                    "xPercent": 14.635416666666668, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 281, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 58, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "InteractionTap on Element (btn_sign_in_with_variis)"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "InteractionTap on Element (btn_sign_in_with_variis)", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 281, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "lCy/+oYWnclh7BjdrA3Mkw==\n", 
+            "height": 12, 
+            "hier_level": 0, 
+            "human_hash": "div_X770_Y369_W25_H12", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "highlight", 
+                        "style": "height: 11.9456px; width: 24.9772px; top: 338.007px; left: 134.117px;"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "highlight", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 12, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 25, 
+                    "x": 770, 
+                    "xPercent": 40.10986328125, 
+                    "y": 369, 
+                    "yPercent": 27.252584933530283
+                }, 
+                "location": {
+                    "x": 770, 
+                    "y": 369
+                }, 
+                "size": {
+                    "height": 12, 
+                    "width": 25
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 25, 
+            "x": 770, 
+            "y": 369
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "wlxWfABTjp+Krjx5D72hew==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "div_X1742_Y82_W147_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-19wlbcl"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "css-19wlbcl", 
+                    "domLevel": 4, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Loading...\u00a0Crawl is running", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 147, 
+                    "x": 1742, 
+                    "xPercent": 90.74625651041667, 
+                    "y": 82, 
+                    "yPercent": 6.019202363367799
+                }, 
+                "location": {
+                    "x": 1742, 
+                    "y": 82
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 147
+                }, 
+                "tag_name": "div", 
+                "text": "Loading...\u00a0Crawl is running"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Loading...\u00a0Crawl is running", 
+            "transformed": true, 
+            "width": 147, 
+            "x": 1742, 
+            "y": 82
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "opsNV/wIRXkzpwrJmmMGcw==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X351_Y755_W223_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "3.78 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 223, 
+                    "x": 351, 
+                    "xPercent": 18.28125, 
+                    "y": 755, 
+                    "yPercent": 55.727243353028065
+                }, 
+                "location": {
+                    "x": 351, 
+                    "y": 755
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 223
+                }, 
+                "tag_name": "td", 
+                "text": "3.78 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "3.78 MB", 
+            "transformed": true, 
+            "width": 223, 
+            "x": 351, 
+            "y": 755
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "WfbDW35LCMsUl4erDLybNA==\n", 
+            "height": 31, 
+            "hier_level": 0, 
+            "human_hash": "div_X53_Y19_W61_H31", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-0"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "css-0", 
+                    "domLevel": 8, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 31, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Equinox", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 61, 
+                    "x": 53, 
+                    "xPercent": 2.7604166666666665, 
+                    "y": 19, 
+                    "yPercent": 1.3663220088626293
+                }, 
+                "location": {
+                    "x": 53, 
+                    "y": 19
+                }, 
+                "size": {
+                    "height": 31, 
+                    "width": 61
+                }, 
+                "tag_name": "div", 
+                "text": "Equinox"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Equinox", 
+            "transformed": true, 
+            "width": 61, 
+            "x": 53, 
+            "y": 19
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "hOLnOsXU4VzlthRqhZGe0A==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X722_Y696_W207_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "1.71 s", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 207, 
+                    "x": 722, 
+                    "xPercent": 37.604166666666664, 
+                    "y": 696, 
+                    "yPercent": 51.36978397341211
+                }, 
+                "location": {
+                    "x": 722, 
+                    "y": 696
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 207
+                }, 
+                "tag_name": "td", 
+                "text": "1.71 s"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "1.71 s", 
+            "transformed": true, 
+            "width": 207, 
+            "x": 722, 
+            "y": 696
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "fRJzQLRrmFlN2mdMnKizqA==\n", 
+            "height": 34, 
+            "hier_level": 0, 
+            "human_hash": "tr_X636_Y662_W293_H34", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 34, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in)"
+                        ], 
+                        [
+                            "Page load", 
+                            "1.71 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "266.82 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "InteractionTap on Element (btn_sign_in)", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 34, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "InteractionTap on Element (btn_sign_in)"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "InteractionTap on Element (btn_sign_in)", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "img", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "5I+FwLibEcX8L3La2OnYow==\n", 
+            "height": 619, 
+            "hier_level": 0, 
+            "human_hash": "img_X636_Y31_W293_H619", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "src": "/api/v1/c/testai/apps/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/test_runs/20210621175707/Sign In Build 2/iter_00000_step_00001_screenshot.png"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "img", 
+                    "color": "rgb(26, 32, 44)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 619, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "img", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 31, 
+                    "yPercent": 2.2895125553914326
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 31
+                }, 
+                "size": {
+                    "height": 619, 
+                    "width": 293
+                }, 
+                "tag_name": "img", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "img", 
+            "text": "", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 31
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "table", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "iZnDXhXQq7BfEmDEL5cUXg==\n", 
+            "height": 175, 
+            "hier_level": 0, 
+            "human_hash": "table_X636_Y662_W293_H175", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "table", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 7, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 175, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in)"
+                        ], 
+                        [
+                            "Page load", 
+                            "1.71 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "266.82 MB"
+                        ]
+                    ], 
+                    "tagName": "table", 
+                    "text": "InteractionTap on Element (btn_sign_in)Page load1.71 sNetwork in3.78 MBNetwork out154.4 KBSystem mem.266.82 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 175, 
+                    "width": 293
+                }, 
+                "tag_name": "table", 
+                "text": "InteractionTap on Element (btn_sign_in)Page load1.71 sNetwork in3.78 MBNetwork out154.4 KBSystem mem.266.82 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "table", 
+            "text": "InteractionTap on Element (btn_sign_in)Page load1.71 sNetwork in3.78 MBNetwork out154.4 KBSystem mem.266.82 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "a", 
+            "clickable": true, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": true, 
+            "focused": false, 
+            "hash": "Pq88Mg0mZdJj8Px56FgmKg==\n", 
+            "height": 42, 
+            "hier_level": 0, 
+            "human_hash": "a_X1505_Y22_W91_H42", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-1egfvmu", 
+                        "href": "/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/test_runs"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "a", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "css-1egfvmu", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": true, 
+                        "enabled": false, 
+                        "focusable": true, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 42, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "a", 
+                    "text": "Test Results", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 91, 
+                    "x": 1505, 
+                    "xPercent": 78.37158203125, 
+                    "y": 22, 
+                    "yPercent": 1.6548190546528803
+                }, 
+                "location": {
+                    "x": 1505, 
+                    "y": 22
+                }, 
+                "size": {
+                    "height": 42, 
+                    "width": 91
+                }, 
+                "tag_name": "a", 
+                "text": "Test Results"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "a", 
+            "text": "Test Results", 
+            "transformed": true, 
+            "width": 91, 
+            "x": 1505, 
+            "y": 22
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "PnzECpisktXreLpbTCfVPA==\n", 
+            "height": 58, 
+            "hier_level": 0, 
+            "human_hash": "td_X351_Y662_W223_H58", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 58, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "Tap on Element (btn_sign_in_with_variis)", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 223, 
+                    "x": 351, 
+                    "xPercent": 18.28125, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 351, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 58, 
+                    "width": 223
+                }, 
+                "tag_name": "td", 
+                "text": "Tap on Element (btn_sign_in_with_variis)"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "Tap on Element (btn_sign_in_with_variis)", 
+            "transformed": true, 
+            "width": 223, 
+            "x": 351, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "IY8cPInEpAgbjx+zzkWHPA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "div_X33_Y17_W328_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "option default css-lvbb2h", 
+                        "id": "name_id"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "option default css-lvbb2h", 
+                    "domLevel": 7, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 35, 
+                    "identifier": "name_id", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Equinox", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 328, 
+                    "x": 33, 
+                    "xPercent": 1.7187500000000002, 
+                    "y": 17, 
+                    "yPercent": 1.2186115214180206
+                }, 
+                "location": {
+                    "x": 33, 
+                    "y": 17
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 328
+                }, 
+                "tag_name": "div", 
+                "text": "Equinox"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Equinox", 
+            "transformed": true, 
+            "width": 328, 
+            "x": 33, 
+            "y": 17
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "lrph2fC2Dt/NVuirX2jZlA==\n", 
+            "height": 64, 
+            "hier_level": 0, 
+            "human_hash": "div_X1354_Y0_W516_H64", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-azx95j"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(247, 250, 252)", 
+                    "cssClass": "css-azx95j", 
+                    "domLevel": 4, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 64, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Test ComposerTest ResultsInteractive Composer", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 516, 
+                    "x": 1354, 
+                    "xPercent": 70.49886067708333, 
+                    "y": 0, 
+                    "yPercent": 0
+                }, 
+                "location": {
+                    "x": 1354, 
+                    "y": 0
+                }, 
+                "size": {
+                    "height": 64, 
+                    "width": 516
+                }, 
+                "tag_name": "div", 
+                "text": "Test ComposerTest ResultsInteractive Composer"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Test ComposerTest ResultsInteractive Composer", 
+            "transformed": true, 
+            "width": 516, 
+            "x": 1354, 
+            "y": 0
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "qnnu0fgJBobwPTngy59KxA==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X1140_Y801_W144_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "276.3 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 144, 
+                    "x": 1140, 
+                    "xPercent": 59.375, 
+                    "y": 801, 
+                    "yPercent": 59.12458456425406
+                }, 
+                "location": {
+                    "x": 1140, 
+                    "y": 801
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 144
+                }, 
+                "tag_name": "td", 
+                "text": "276.3 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "276.3 MB", 
+            "transformed": true, 
+            "width": 144, 
+            "x": 1140, 
+            "y": 801
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "9VfKPnejTTj9R68pqQr3Dw==\n", 
+            "height": 25, 
+            "hier_level": 0, 
+            "human_hash": "div_X534_Y610_W25_H25", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "showButton css-8zia97"
+                    }, 
+                    "background-color": "rgb(60, 53, 244)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "showButton css-8zia97", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 25, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 25, 
+                    "x": 534, 
+                    "xPercent": 27.8125, 
+                    "y": 610, 
+                    "yPercent": 45.05169867060561
+                }, 
+                "location": {
+                    "x": 534, 
+                    "y": 610
+                }, 
+                "size": {
+                    "height": 25, 
+                    "width": 25
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 25, 
+            "x": 534, 
+            "y": 610
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "img", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "THV6xBbr3/X3DVbPuWZ9+w==\n", 
+            "height": 30, 
+            "hier_level": 0, 
+            "human_hash": "img_X1839_Y17_W31_H30", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "chakra-image css-843btt", 
+                        "src": "/images/vapor/icon-profile.svg"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "img", 
+                    "color": "rgb(247, 250, 252)", 
+                    "cssClass": "chakra-image css-843btt", 
+                    "domLevel": 5, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 30, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "img", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 31, 
+                    "x": 1839, 
+                    "xPercent": 95.78450520833334, 
+                    "y": 17, 
+                    "yPercent": 1.255539143279173
+                }, 
+                "location": {
+                    "x": 1839, 
+                    "y": 17
+                }, 
+                "size": {
+                    "height": 30, 
+                    "width": 31
+                }, 
+                "tag_name": "img", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "img", 
+            "text": "", 
+            "transformed": true, 
+            "width": 31, 
+            "x": 1839, 
+            "y": 17
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "ctXyIdkrbEPQutffcbkz7Q==\n", 
+            "height": 37, 
+            "hier_level": 0, 
+            "human_hash": "div_X1769_Y806_W108_H37", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "contentWrapper"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "contentWrapper", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "Inter", 
+                    "font-weight": "500", 
+                    "fontSize": 18, 
+                    "height": 37, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Report Issue", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 108, 
+                    "x": 1769, 
+                    "xPercent": 92.13541666666667, 
+                    "y": 806, 
+                    "yPercent": 59.527326440177255
+                }, 
+                "location": {
+                    "x": 1769, 
+                    "y": 806
+                }, 
+                "size": {
+                    "height": 37, 
+                    "width": 108
+                }, 
+                "tag_name": "div", 
+                "text": "Report Issue"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Report Issue", 
+            "transformed": true, 
+            "width": 108, 
+            "x": 1769, 
+            "y": 806
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "img", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "TqKY6CL5vohfCjMcu+V85w==\n", 
+            "height": 619, 
+            "hier_level": 0, 
+            "human_hash": "img_X991_Y31_W293_H619", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "src": "/api/v1/c/testai/apps/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/test_runs/20210621175707/Sign In Build 2/iter_00000_step_00002_screenshot.png"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "img", 
+                    "color": "rgb(26, 32, 44)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 619, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "img", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 31, 
+                    "yPercent": 2.2895125553914326
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 31
+                }, 
+                "size": {
+                    "height": 619, 
+                    "width": 293
+                }, 
+                "tag_name": "img", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "img", 
+            "text": "", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 31
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "q78oavIYgGLeK5c5o2chpQ==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X636_Y766_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in)"
+                        ], 
+                        [
+                            "Page load", 
+                            "1.71 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "266.82 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Network out154.4 KB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 766, 
+                    "yPercent": 56.53965103397341
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 766
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Network out154.4 KB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Network out154.4 KB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 766
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "FOcLPdj7+g/3dVoPGhr21Q==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X722_Y731_W207_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "3.78 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 207, 
+                    "x": 722, 
+                    "xPercent": 37.604166666666664, 
+                    "y": 731, 
+                    "yPercent": 53.95471750369276
+                }, 
+                "location": {
+                    "x": 722, 
+                    "y": 731
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 207
+                }, 
+                "tag_name": "td", 
+                "text": "3.78 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "3.78 MB", 
+            "transformed": true, 
+            "width": 207, 
+            "x": 722, 
+            "y": 731
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "CzoW0niW+vkL06WaSAbcpg==\n", 
+            "height": 70, 
+            "hier_level": 0, 
+            "human_hash": "div_X0_Y64_W1919_H70", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-4uyoqr"
+                    }, 
+                    "background-color": "rgb(255, 255, 255)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "css-4uyoqr", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 70, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Test case detailsLoading...\u00a0Crawl is running", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1919, 
+                    "x": 0, 
+                    "xPercent": 0, 
+                    "y": 64, 
+                    "yPercent": 4.726735598227474
+                }, 
+                "location": {
+                    "x": 0, 
+                    "y": 64
+                }, 
+                "size": {
+                    "height": 70, 
+                    "width": 1919
+                }, 
+                "tag_name": "div", 
+                "text": "Test case detailsLoading...\u00a0Crawl is running"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Test case detailsLoading...\u00a0Crawl is running", 
+            "transformed": true, 
+            "width": 1919, 
+            "x": 0, 
+            "y": 64
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "8h6Sh6YAG4z0xg3nc0UFgw==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X991_Y731_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Finished"
+                        ], 
+                        [
+                            "Page load", 
+                            "2.28 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "276.3 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Network in3.78 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 731, 
+                    "yPercent": 53.95471750369276
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 731
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Network in3.78 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Network in3.78 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 731
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "Rf3ic7CaFvN93G/1DZ7qpA==\n", 
+            "height": 34, 
+            "hier_level": 0, 
+            "human_hash": "tr_X991_Y662_W293_H34", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 34, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Finished"
+                        ], 
+                        [
+                            "Page load", 
+                            "2.28 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "276.3 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "InteractionFinished", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 34, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "InteractionFinished"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "InteractionFinished", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 662
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "eqz1aiJmxRgqtqfJ26m0SQ==\n", 
+            "height": 17, 
+            "hier_level": 0, 
+            "human_hash": "div_X385_Y493_W86_H17", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "highlight", 
+                        "style": "height: 16.561px; width: 85.5197px; top: 461.535px; left: 103.981px;"
+                    }, 
+                    "background-color": "rgba(255, 0, 0, 0.5)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "highlight", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 17, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 86, 
+                    "x": 385, 
+                    "xPercent": 20.050455729166668, 
+                    "y": 493, 
+                    "yPercent": 36.37601550960118
+                }, 
+                "location": {
+                    "x": 385, 
+                    "y": 493
+                }, 
+                "size": {
+                    "height": 17, 
+                    "width": 86
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 86, 
+            "x": 385, 
+            "y": 493
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "yxDA04vxb0a4J0ngrlYUrg==\n", 
+            "height": 25, 
+            "hier_level": 0, 
+            "human_hash": "div_X889_Y610_W25_H25", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "showButton css-8zia97"
+                    }, 
+                    "background-color": "rgb(60, 53, 244)", 
+                    "class": "div", 
+                    "color": "rgb(255, 255, 255)", 
+                    "cssClass": "showButton css-8zia97", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 25, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 25, 
+                    "x": 889, 
+                    "xPercent": 46.302083333333336, 
+                    "y": 610, 
+                    "yPercent": 45.05169867060561
+                }, 
+                "location": {
+                    "x": 889, 
+                    "y": 610
+                }, 
+                "size": {
+                    "height": 25, 
+                    "width": 25
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 25, 
+            "x": 889, 
+            "y": 610
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "cH3ZQuYHnqDhoUTq/BoESw==\n", 
+            "height": 28, 
+            "hier_level": 0, 
+            "human_hash": "div_X1746_Y85_W28_H28", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "chakra-spinner css-1babquo"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(221, 107, 32)", 
+                    "cssClass": "chakra-spinner css-1babquo", 
+                    "domLevel": 7, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 12, 
+                    "height": 28, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Loading...", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 28, 
+                    "x": 1746, 
+                    "xPercent": 90.95490773518881, 
+                    "y": 85, 
+                    "yPercent": 6.278149873854668
+                }, 
+                "location": {
+                    "x": 1746, 
+                    "y": 85
+                }, 
+                "size": {
+                    "height": 28, 
+                    "width": 28
+                }, 
+                "tag_name": "div", 
+                "text": "Loading..."
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Loading...", 
+            "transformed": true, 
+            "width": 28, 
+            "x": 1746, 
+            "y": 85
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "MS5uA91vUA5Vs4v+8ePjUA==\n", 
+            "height": 64, 
+            "hier_level": 0, 
+            "human_hash": "div_X0_Y0_W1920_H64", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-11mduyw"
+                    }, 
+                    "background-color": "rgb(20, 17, 96)", 
+                    "class": "div", 
+                    "color": "rgb(247, 250, 252)", 
+                    "cssClass": "css-11mduyw", 
+                    "domLevel": 3, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 16, 
+                    "height": 64, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Equinox Add an appTestAI UI PlatformEquinox Test ComposerTest ResultsInteractive Composer", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 1920, 
+                    "x": 0, 
+                    "xPercent": 0, 
+                    "y": 0, 
+                    "yPercent": 0
+                }, 
+                "location": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "size": {
+                    "height": 64, 
+                    "width": 1920
+                }, 
+                "tag_name": "div", 
+                "text": "Equinox Add an appTestAI UI PlatformEquinox Test ComposerTest ResultsInteractive Composer"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Equinox Add an appTestAI UI PlatformEquinox Test ComposerTest ResultsInteractive Composer", 
+            "transformed": true, 
+            "width": 1920, 
+            "x": 0, 
+            "y": 0
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "tr", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "vsaXQrk9lhpbr6gtbpD3bQ==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "tr_X281_Y755_W293_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "tr", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Tap on Element (btn_sign_in_with_variis)"
+                        ], 
+                        [
+                            "Page load", 
+                            "0 ms"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "258.16 MB"
+                        ]
+                    ], 
+                    "tagName": "tr", 
+                    "text": "Network in3.78 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 281, 
+                    "xPercent": 14.635416666666668, 
+                    "y": 755, 
+                    "yPercent": 55.727243353028065
+                }, 
+                "location": {
+                    "x": 281, 
+                    "y": 755
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 293
+                }, 
+                "tag_name": "tr", 
+                "text": "Network in3.78 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "tr", 
+            "text": "Network in3.78 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 281, 
+            "y": 755
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "e0gI8bwrnVkKGGCOQfiHkw==\n", 
+            "height": 20, 
+            "hier_level": 0, 
+            "human_hash": "div_X1750_Y89_W131_H20", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-70qvj9"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(221, 107, 32)", 
+                    "cssClass": "css-70qvj9", 
+                    "domLevel": 6, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "700", 
+                    "fontSize": 12, 
+                    "height": 20, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Loading...\u00a0Crawl is running", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 131, 
+                    "x": 1750, 
+                    "xPercent": 91.16292317708333, 
+                    "y": 89, 
+                    "yPercent": 6.573116691285081
+                }, 
+                "location": {
+                    "x": 1750, 
+                    "y": 89
+                }, 
+                "size": {
+                    "height": 20, 
+                    "width": 131
+                }, 
+                "tag_name": "div", 
+                "text": "Loading...\u00a0Crawl is running"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Loading...\u00a0Crawl is running", 
+            "transformed": true, 
+            "width": 131, 
+            "x": 1750, 
+            "y": 89
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "n3grK1GyQH8OIaOB4DoMUw==\n", 
+            "height": 28, 
+            "hier_level": 0, 
+            "human_hash": "div_X30_Y85_W156_H28", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-j7qwjs"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "css-j7qwjs", 
+                    "domLevel": 4, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 28, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "Test case details", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 156, 
+                    "x": 30, 
+                    "xPercent": 1.5625, 
+                    "y": 85, 
+                    "yPercent": 6.277695716395865
+                }, 
+                "location": {
+                    "x": 30, 
+                    "y": 85
+                }, 
+                "size": {
+                    "height": 28, 
+                    "width": 156
+                }, 
+                "tag_name": "div", 
+                "text": "Test case details"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "Test case details", 
+            "transformed": true, 
+            "width": 156, 
+            "x": 30, 
+            "y": 85
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "div", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "34TsfmjPF0REYBtu1VHMbA==\n", 
+            "height": 619, 
+            "hier_level": 0, 
+            "human_hash": "div_X636_Y31_W293_H619", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "css-0"
+                    }, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "div", 
+                    "color": "rgb(26, 32, 44)", 
+                    "cssClass": "css-0", 
+                    "domLevel": 9, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 13, 
+                    "height": 619, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "div", 
+                    "text": "", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 636, 
+                    "xPercent": 33.125, 
+                    "y": 31, 
+                    "yPercent": 2.2895125553914326
+                }, 
+                "location": {
+                    "x": 636, 
+                    "y": 31
+                }, 
+                "size": {
+                    "height": 619, 
+                    "width": 293
+                }, 
+                "tag_name": "div", 
+                "text": ""
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "div", 
+            "text": "", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 636, 
+            "y": 31
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "td", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "4hx2oE+GK3PF3Fhzr0rKyQ==\n", 
+            "height": 35, 
+            "hier_level": 0, 
+            "human_hash": "td_X1140_Y696_W144_H35", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "td", 
+                    "color": "rgb(0, 0, 0)", 
+                    "domLevel": 10, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 14, 
+                    "height": 35, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "tagName": "td", 
+                    "text": "2.28 s", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 144, 
+                    "x": 1140, 
+                    "xPercent": 59.375, 
+                    "y": 696, 
+                    "yPercent": 51.36978397341211
+                }, 
+                "location": {
+                    "x": 1140, 
+                    "y": 696
+                }, 
+                "size": {
+                    "height": 35, 
+                    "width": 144
+                }, 
+                "tag_name": "td", 
+                "text": "2.28 s"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "td", 
+            "text": "2.28 s", 
+            "transformed": true, 
+            "width": 144, 
+            "x": 1140, 
+            "y": 696
+        }, 
+        {
+            "behavior": "", 
+            "checkable": false, 
+            "class": "table", 
+            "clickable": false, 
+            "content-desc": "", 
+            "enabled": false, 
+            "focusable": false, 
+            "focused": false, 
+            "hash": "m4urUAIcahSmLRI2HLRicQ==\n", 
+            "height": 175, 
+            "hier_level": 0, 
+            "human_hash": "table_X991_Y662_W293_H175", 
+            "index": -1, 
+            "internal": {
+                "elem_dict": {
+                    "attributes": {}, 
+                    "background-color": "rgba(0, 0, 0, 0)", 
+                    "class": "table", 
+                    "color": "rgb(26, 32, 44)", 
+                    "columns": [], 
+                    "domLevel": 7, 
+                    "flags": {
+                        "checkable": false, 
+                        "clickable": false, 
+                        "enabled": false, 
+                        "focusable": false, 
+                        "focused": false, 
+                        "scrollable": false
+                    }, 
+                    "font-family": "\"IBM Plex Sans\", sans-serif", 
+                    "font-weight": "400", 
+                    "fontSize": 5, 
+                    "height": 175, 
+                    "identifier": "", 
+                    "is-focused": false, 
+                    "is-hidden": false, 
+                    "name": "", 
+                    "rows": [
+                        [
+                            "Interaction", 
+                            "Finished"
+                        ], 
+                        [
+                            "Page load", 
+                            "2.28 s"
+                        ], 
+                        [
+                            "Network in", 
+                            "3.78 MB"
+                        ], 
+                        [
+                            "Network out", 
+                            "154.4 KB"
+                        ], 
+                        [
+                            "System mem.", 
+                            "276.3 MB"
+                        ]
+                    ], 
+                    "tagName": "table", 
+                    "text": "InteractionFinishedPage load2.28 sNetwork in3.78 MBNetwork out154.4 KBSystem mem.276.3 MB", 
+                    "type": "", 
+                    "value": "", 
+                    "width": 293, 
+                    "x": 991, 
+                    "xPercent": 51.61458333333333, 
+                    "y": 662, 
+                    "yPercent": 48.85870568685377
+                }, 
+                "location": {
+                    "x": 991, 
+                    "y": 662
+                }, 
+                "size": {
+                    "height": 175, 
+                    "width": 293
+                }, 
+                "tag_name": "table", 
+                "text": "InteractionFinishedPage load2.28 sNetwork in3.78 MBNetwork out154.4 KBSystem mem.276.3 MB"
+            }, 
+            "is_transformed": true, 
+            "package": "", 
+            "password": false, 
+            "resource-id": "", 
+            "scrollable": false, 
+            "tag_name": "table", 
+            "text": "InteractionFinishedPage load2.28 sNetwork in3.78 MBNetwork out154.4 KBSystem mem.276.3 MB", 
+            "transformed": true, 
+            "width": 293, 
+            "x": 991, 
+            "y": 662
+        }
+    ], 
+    "cpu": 0, 
+    "jank": 0, 
+    "mem": 0, 
+    "net": 0, 
+    "processed": true, 
+    "timing": 0
+}
