@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "uZszzXOn78iQ4mE7d5Ju+A==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "div_X76_Y579_W189_H27", 
+    "human_readable": "div_76_579_189_27_div_ffffffffffffffffffffbfff267f000f001f001f000f001ffbffffffffffffff_11eb4bb2c303388534c9e8a89d87a231", 
+    "image_path": "YzcwMzc4OTY5Y2ZlNmI0YjQ5NWM4NjE0NzY3NDNhNGM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content", 
+                "style": "width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "content", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Text Entry w/o Submit", 
+            "type": "", 
+            "value": "", 
+            "width": 189, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 579, 
+            "yPercent": 22.47670807453416
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 579
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 189
+        }, 
+        "tag_name": "div", 
+        "text": "Text Entry w/o Submit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e976176c8403358cd79cc04d561ef76e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Text Entry w/o Submit", 
+    "transformed": true, 
+    "width": 189, 
+    "x": 76, 
+    "y": 579
+}

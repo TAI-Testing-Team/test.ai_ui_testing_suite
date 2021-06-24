@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "O+eOk1FUKcuHroMHi9Nm1g==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "div_X76_Y855_W212_H12", 
+    "human_readable": "div_76_855_212_12_div_ffffbfffbfff1fff003f003f007f003f003f803f107f007f003f407fffffffff_95eabc8d9f78e1d31f13096eaa65d758", 
+    "image_path": "MDRkNzZiMTk4ZWE1NDVmMDUyZWZkOTk3NWEwNTc4NDg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content flex middle", 
+                "style": "width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "content flex middle", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Rotate to Landscape", 
+            "type": "", 
+            "value": "", 
+            "width": 212, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 855, 
+            "yPercent": 33.19099378881988
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 855
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 212
+        }, 
+        "tag_name": "div", 
+        "text": "Rotate to Landscape"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b6176077d2e2a929f28051a5e188aaa5", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Rotate to Landscape", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 76, 
+    "y": 855
+}

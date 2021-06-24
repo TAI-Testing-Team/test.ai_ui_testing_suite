@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "3feHfI/J4PvxaG3mr4q0uQ==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X76_Y791_W75_H12", 
+    "human_readable": "span_76_791_75_12_span_ffffeff7e7f767ff62586010201c301c301820183030a010e0182a5c3fff7fff_f5ad9af537f937b2ac2fd988706fdfed", 
+    "image_path": "NmJjMTEyNjI0NTMxMGIwNjRlYzQ1MThlMjVkNTI2NzE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Double Tap", 
+            "type": "", 
+            "value": "", 
+            "width": 75, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 791, 
+            "yPercent": 30.706521739130434
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 791
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 75
+        }, 
+        "tag_name": "span", 
+        "text": "Double Tap"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "94cb29f371ad052c5569394c95cd982f", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Double Tap", 
+    "transformed": true, 
+    "width": 75, 
+    "x": 76, 
+    "y": 791
+}
