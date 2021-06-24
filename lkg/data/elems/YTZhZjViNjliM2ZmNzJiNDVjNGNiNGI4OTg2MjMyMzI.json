@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "lFaUhGAhwshCrdMoHc2AAw==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X76_Y695_W68_H12", 
+    "human_readable": "span_76_695_68_12_span_ffffe79fe79f3fff3a6130603480708070a270e234e230a230023bde3ffefffe_1fafda34be0181394c7686ce5d5de533", 
+    "image_path": "YTZhZjViNjliM2ZmNzJiNDVjNGNiNGI4OTg2MjMyMzI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Text Entry", 
+            "type": "", 
+            "value": "", 
+            "width": 68, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 695, 
+            "yPercent": 26.979813664596275
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 695
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 68
+        }, 
+        "tag_name": "span", 
+        "text": "Text Entry"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8ac6e3ed240a2d0a6c23898dfbe8067b", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Text Entry", 
+    "transformed": true, 
+    "width": 68, 
+    "x": 76, 
+    "y": 695
+}

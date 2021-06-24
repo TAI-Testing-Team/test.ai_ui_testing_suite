@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2pY8W2k1Iy1CjerD5VyQyA==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "div_X76_Y727_W212_H12", 
+    "human_readable": "div_76_727_212_12_div_ffffaeff2eff5eff003f003f803f803f803f803f003f003f803f4c7f7fffffff_11eb4bb2c303388534c9e8a89d87a231", 
+    "image_path": "MmVjMGFlNzliNjY0M2EyMWM2ODcyZmU2OWYzYTQ1Y2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content flex middle", 
+                "style": "width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "content flex middle", 
+            "domLevel": 16, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Text Entry w/o Submit", 
+            "type": "", 
+            "value": "", 
+            "width": 212, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 727, 
+            "yPercent": 28.222049689440993
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 727
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 212
+        }, 
+        "tag_name": "div", 
+        "text": "Text Entry w/o Submit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b6176077d2e2a929f28051a5e188aaa5", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Text Entry w/o Submit", 
+    "transformed": true, 
+    "width": 212, 
+    "x": 76, 
+    "y": 727
+}

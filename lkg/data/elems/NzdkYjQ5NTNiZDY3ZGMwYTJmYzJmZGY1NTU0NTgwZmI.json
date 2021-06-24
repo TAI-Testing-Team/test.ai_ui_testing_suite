@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "pcy7Er0zWKbb7d42eRvxkg==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X76_Y727_W133_H12", 
+    "human_readable": "span_76_727_133_12_span_ffff9bef93ef7fff44984010c000c000c810cc106c104000c0007bf37fffffff_11eb4bb2c303388534c9e8a89d87a231", 
+    "image_path": "NzdkYjQ5NTNiZDY3ZGMwYTJmYzJmZGY1NTU0NTgwZmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Text Entry w/o Submit", 
+            "type": "", 
+            "value": "", 
+            "width": 133, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 727, 
+            "yPercent": 28.222049689440993
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 727
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 133
+        }, 
+        "tag_name": "span", 
+        "text": "Text Entry w/o Submit"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8ac6e3ed240a2d0a6c23898dfbe8067b", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Text Entry w/o Submit", 
+    "transformed": true, 
+    "width": 133, 
+    "x": 76, 
+    "y": 727
+}

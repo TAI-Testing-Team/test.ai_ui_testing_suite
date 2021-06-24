@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "gfgmt0W7nrFQZGcA9O4Vxw==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X76_Y855_W124_H12", 
+    "human_readable": "span_76_855_124_12_span_ffffdfffdfff7fff408040804ac448c4c080c280c6c1428040007fa9ffffffff_95eabc8d9f78e1d31f13096eaa65d758", 
+    "image_path": "NDYyMDY3YWNiODAzMjlmNTRjOTIwNjIxMjBhNGEwODI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Rotate to Landscape", 
+            "type": "", 
+            "value": "", 
+            "width": 124, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 855, 
+            "yPercent": 33.19099378881988
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 855
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 124
+        }, 
+        "tag_name": "span", 
+        "text": "Rotate to Landscape"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "94cb29f371ad052c5569394c95cd982f", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Rotate to Landscape", 
+    "transformed": true, 
+    "width": 124, 
+    "x": 76, 
+    "y": 855
+}
