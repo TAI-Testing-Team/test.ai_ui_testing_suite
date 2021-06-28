@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "nMF/4ndUSYI7gvIk37ydqw==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X76_Y790_W106_H12", 
+    "human_readable": "span_76_790_106_12_span_ffffdfdfdfdf7fdf2000202005004406c084c120c3204120602079ffffffffff_b37d74fcef9eeb1ca3655a2bd90df12d", 
+    "image_path": "MTI0MGExODhmMGVkNDMwMGRhMzhlYjZlNmVjZjMzMjk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Rotate to Portrait", 
+            "type": "", 
+            "value": "", 
+            "width": 106, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 790, 
+            "yPercent": 30.667701863354036
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 790
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 106
+        }, 
+        "tag_name": "span", 
+        "text": "Rotate to Portrait"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f1a281bca835bb856a8a252da6b2f207", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Rotate to Portrait", 
+    "transformed": true, 
+    "width": 106, 
+    "x": 76, 
+    "y": 790
+}

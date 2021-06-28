@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "8Yx9g9ajFhkqtkOOFOHfiQ==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "div_X76_Y545_W189_H27", 
+    "human_readable": "div_76_545_189_27_div_ffffffffffffffffffffbfff097f007f007f007f007f007fffffffffffffffff_b37d74fcef9eeb1ca3655a2bd90df12d", 
+    "image_path": "YWEzOGNlYzZhZDRjODdlOGU0MmFmZTI1Y2U3YzIxODQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content", 
+                "style": "width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "content", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Rotate to Portrait", 
+            "type": "", 
+            "value": "", 
+            "width": 189, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 545, 
+            "yPercent": 21.156832298136646
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 545
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 189
+        }, 
+        "tag_name": "div", 
+        "text": "Rotate to Portrait"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d76bfe0dec590210bc0e6cef10254475", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Rotate to Portrait", 
+    "transformed": true, 
+    "width": 189, 
+    "x": 76, 
+    "y": 545
+}
