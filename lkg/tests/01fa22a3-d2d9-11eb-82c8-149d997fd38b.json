@@ -51,7 +51,61 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mi_tap"
+                    "mi_text_entry"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify div comes up in selector", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_text_entry"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "Entered Text", 
+                "grep_count": null, 
+                "input": "text_entry_no_submit", 
+                "label_count": null, 
+                "labels": [
+                    "inp_text_to_enter"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify the text the bot typed is on screen.", 
+                "grep": "Entered Text", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_text_entry"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -65,14 +119,198 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mi_text_entry"
+                    "mi_text_entry_no_submit"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify div comes up in selector", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_text_no_submit"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_text_no_submit"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify div comes up in selector", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_double_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify div comes up in selector", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_double_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_double_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_long_press"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify div comes up in selector", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_long_press"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_long_press"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_rotate_to_landscape"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify div comes up in selector", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_rotate_landscape"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "01fa22a3-d2d9-11eb-82c8-149d997fd38b", 
         "title": "07 Action Selector - Part One"
     }

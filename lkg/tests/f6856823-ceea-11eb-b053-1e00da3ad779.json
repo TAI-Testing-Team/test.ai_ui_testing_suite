@@ -225,7 +225,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "f6856823-ceea-11eb-b053-1e00da3ad779", 
         "title": "06 Verify Action Card"
     }

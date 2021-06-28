@@ -1,8 +1,8 @@
 {
-    "08 Search Test Run ID": {
+    "Search Test Run ID": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "08 Search Test Run ID", 
+        "original_title": "Search Test Run ID", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -144,6 +144,6 @@
         ], 
         "tags": [], 
         "temp_id": "1a2e5285-d396-11eb-8bb1-149d997d94ba", 
-        "title": "08 Search Test Run ID"
+        "title": "Search Test Run ID"
     }
 }

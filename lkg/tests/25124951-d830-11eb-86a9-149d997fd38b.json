@@ -1,66 +1,52 @@
 {
-    "01 Select App": {
+    "08 Action Selector - Part Two": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "01 Select App", 
+        "original_title": "08 Action Selector - Part Two", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "Selecting Equinox Android App from dropdown.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_select_app"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
                 "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_android"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_android"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifying string that appears on Test Composer page", 
-                "grep": "Create test cases from screens", 
+                "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "type": "test_case", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_action"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_interaction"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
-        "temp_id": "fbf385c0-cecc-11eb-b3ba-1e00da3ad779", 
-        "title": "01 Select App"
+        "temp_id": "25124951-d830-11eb-86a9-149d997fd38b", 
+        "title": "08 Action Selector - Part Two"
     }
 }
