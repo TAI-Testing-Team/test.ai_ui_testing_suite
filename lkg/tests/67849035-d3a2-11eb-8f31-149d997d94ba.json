@@ -1,8 +1,8 @@
 {
-    "09 Expand Arrow/Test Details": {
+    "Expand Arrow/Test Details": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "09 Expand Arrow/Test Details", 
+        "original_title": "Expand Arrow/Test Details", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -181,6 +181,6 @@
         ], 
         "tags": [], 
         "temp_id": "67849035-d3a2-11eb-8f31-149d997d94ba", 
-        "title": "09 Expand Arrow/Test Details"
+        "title": "Expand Arrow/Test Details"
     }
 }

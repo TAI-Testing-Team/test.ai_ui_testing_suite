@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "E40HRWXGqKWU7JKUO+0+NQ==\n", 
+    "height": 35, 
+    "hier_level": 0, 
+    "human_hash": "div_X71_Y134_W58_H35", 
+    "human_readable": "div_71_134_58_35_div_fffffffffffffffffff73ef624080000020200004040ffffffffffffffffffff_11534e01ccf9b2ac5f68d7f99b214c04", 
+    "image_path": "ZjMwZWQ1ZDc4OTBmOWNkY2RmYmUxZTM4MWJmYzA0MzU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1h2ruwl", 
+                "id": "tip-f95ae45d-c7a2-478c-8d65-0d92daa1caa1_android"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(27, 41, 68)", 
+            "cssClass": "css-1h2ruwl", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "500", 
+            "fontSize": 16, 
+            "height": 35, 
+            "identifier": "tip-f95ae45d-c7a2-478c-8d65-0d92daa1caa1_android", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Android", 
+            "type": "", 
+            "value": "", 
+            "width": 58, 
+            "x": 71, 
+            "xPercent": 3.6759440104166665, 
+            "y": 134, 
+            "yPercent": 15.205011389521639
+        }, 
+        "location": {
+            "x": 71, 
+            "y": 134
+        }, 
+        "size": {
+            "height": 35, 
+            "width": 58
+        }, 
+        "tag_name": "div", 
+        "text": "Android"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "55939a45fb69de1865e1f73073ebb21e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Android", 
+    "transformed": true, 
+    "width": 58, 
+    "x": 71, 
+    "y": 134
+}

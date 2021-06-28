@@ -129,7 +129,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "5a2bbc33-cecd-11eb-92ec-1e00da3ad779", 
         "title": "03 Test Lifecycle - Create, Edit, Delete"
     }
