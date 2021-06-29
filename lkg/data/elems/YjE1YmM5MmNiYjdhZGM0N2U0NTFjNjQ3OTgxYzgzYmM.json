@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "omOrQvTvxWOks5n9+q0cIg==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "button_X176_Y771_W144_H31", 
+    "human_readable": "button_176_771_144_31_button_ffffffffffffffffffffffffe72fe007e00fe00ff00fffffffffffffffffffff_2c6b850e8b34ddd7b9e995c8586ccf18", 
+    "image_path": "YjE1YmM5MmNiYjdhZGM0N2U0NTFjNjQ3OTgxYzgzYmM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "secondary sm", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(80, 96, 126)", 
+            "cssClass": "secondary sm", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Execute Script", 
+            "type": "button", 
+            "value": "", 
+            "width": 144, 
+            "x": 176, 
+            "xPercent": 9.166666666666666, 
+            "y": 771, 
+            "yPercent": 29.930124223602483
+        }, 
+        "location": {
+            "x": 176, 
+            "y": 771
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 144
+        }, 
+        "tag_name": "button", 
+        "text": "Execute Script"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b8a1b4d1922e998af4771fd7cffe9763", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Execute Script", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 176, 
+    "y": 771
+}

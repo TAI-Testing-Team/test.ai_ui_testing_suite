@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "K2z2UA9qK7aGOD+211h2hA==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "div_X66_Y661_W232_H32", 
+    "human_readable": "div_66_661_232_32_div_ffffffffffffffffffff1fff0fff0fff0fff0fff1fffbfffffffffffffffffff_0ffc71968c588734b47b6925f63858c5", 
+    "image_path": "NTdjMzY0M2JhOTUxNmVhODcyOGZjOTYyMjc2MzEyNjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "option", 
+                "data-value": "Sign In"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "option", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Sign In", 
+            "type": "", 
+            "value": "", 
+            "width": 232, 
+            "x": 66, 
+            "xPercent": 3.4375000000000004, 
+            "y": 661, 
+            "yPercent": 25.65993788819876
+        }, 
+        "location": {
+            "x": 66, 
+            "y": 661
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 232
+        }, 
+        "tag_name": "div", 
+        "text": "Sign In"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "463e025dba5cdd27ce2c68a62d7faf4e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Sign In", 
+    "transformed": true, 
+    "width": 232, 
+    "x": 66, 
+    "y": 661
+}
