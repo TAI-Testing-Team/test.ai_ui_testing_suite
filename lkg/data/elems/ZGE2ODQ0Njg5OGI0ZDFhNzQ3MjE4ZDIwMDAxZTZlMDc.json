@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "HOsOt24P3dtgRu0nVN+t4w==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "span_X231_Y309_W31_H31", 
+    "human_readable": "span_231_309_31_31_span_fffffffffffffffffe7ff81ff20ff24ff2cff19ff81ffc7fffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZGE2ODQ0Njg5OGI0ZDFhNzQ3MjE4ZDIwMDAxZTZlMDc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgb(234, 236, 238)", 
+            "class": "span", 
+            "color": "rgb(117, 120, 125)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 15, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 31, 
+            "x": 231, 
+            "xPercent": 12.03125, 
+            "y": 309, 
+            "yPercent": 11.995341614906833
+        }, 
+        "location": {
+            "x": 231, 
+            "y": 309
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 31
+        }, 
+        "tag_name": "span", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "12cf101ff26b47e5fec1faab02a209dc", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "", 
+    "transformed": true, 
+    "width": 31, 
+    "x": 231, 
+    "y": 309
+}

@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "NDeWLqrkTl5jDS5Ht6Eepg==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "button_X176_Y405_W144_H31", 
+    "human_readable": "button_176_405_144_31_button_fffffffffffffffffffffffff23ff01ff01ff81ff81ffe7fffffffffffffffff_d73a2dfda52b5c7c9421fa48dff1b706", 
+    "image_path": "ZjRiZjJiZTI5NGJhMjA5Y2ZiYjA3ZjdjNDVmMDVkOTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "secondary sm", 
+                "currentitem": "false", 
+                "data-place": "right", 
+                "data-tip": "Drag a labeled screen or element here to add an navigation step", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(80, 96, 126)", 
+            "cssClass": "secondary sm", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Navigation", 
+            "type": "button", 
+            "value": "", 
+            "width": 144, 
+            "x": 176, 
+            "xPercent": 9.166666666666666, 
+            "y": 405, 
+            "yPercent": 15.722049689440995
+        }, 
+        "location": {
+            "x": 176, 
+            "y": 405
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 144
+        }, 
+        "tag_name": "button", 
+        "text": "Navigation"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b554682bba380f68875cf2d6428138d4", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Navigation", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 176, 
+    "y": 405
+}

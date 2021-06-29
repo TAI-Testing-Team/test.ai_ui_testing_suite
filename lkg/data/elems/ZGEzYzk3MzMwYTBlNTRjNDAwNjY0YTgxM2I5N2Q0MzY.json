@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "6TDR2/cL/FbiEAxiZscc/A==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "button_X176_Y814_W144_H31", 
+    "human_readable": "button_176_814_144_31_button_fffffffffffffffffffffffff08ff00ff00ff00ff00fffffffffffffffffffff_2c39e6782539d2dbf502f24edb12d531", 
+    "image_path": "ZGEzYzk3MzMwYTBlNTRjNDAwNjY0YTgxM2I5N2Q0MzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "secondary sm", 
+                "currentitem": "false", 
+                "data-place": "right", 
+                "data-tip": "Drag a labeled screen or element here to add an wait for label step", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(80, 96, 126)", 
+            "cssClass": "secondary sm", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 11, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Wait for Label", 
+            "type": "button", 
+            "value": "", 
+            "width": 144, 
+            "x": 176, 
+            "xPercent": 9.166666666666666, 
+            "y": 814, 
+            "yPercent": 31.599378881987576
+        }, 
+        "location": {
+            "x": 176, 
+            "y": 814
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 144
+        }, 
+        "tag_name": "button", 
+        "text": "Wait for Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b8a1b4d1922e998af4771fd7cffe9763", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Wait for Label", 
+    "transformed": true, 
+    "width": 144, 
+    "x": 176, 
+    "y": 814
+}

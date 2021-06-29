@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "hrrFqxrcx44fVkHvZWXt6g==\n", 
+    "height": 18, 
+    "hier_level": 0, 
+    "human_hash": "span_X167_Y414_W37_H18", 
+    "human_readable": "span_167_414_37_18_span_ffffffff9fff9f1f9f1f8fa487a033b233a273823780b7a087fbcffbffffffff_d92ca28afb8cf518dfee18c96e7e5761", 
+    "image_path": "NjNkMjgyZWEzOGQ0YTI4OTEwZDlmYmYzOTA5ZGFlOGM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "step-type"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "step-type", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 18, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Tap", 
+            "type": "", 
+            "value": "", 
+            "width": 37, 
+            "x": 167, 
+            "xPercent": 8.722330729166666, 
+            "y": 414, 
+            "yPercent": 16.071428571428573
+        }, 
+        "location": {
+            "x": 167, 
+            "y": 414
+        }, 
+        "size": {
+            "height": 18, 
+            "width": 37
+        }, 
+        "tag_name": "span", 
+        "text": "Tap"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "12cf101ff26b47e5fec1faab02a209dc", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Tap", 
+    "transformed": true, 
+    "width": 37, 
+    "x": 167, 
+    "y": 414
+}
