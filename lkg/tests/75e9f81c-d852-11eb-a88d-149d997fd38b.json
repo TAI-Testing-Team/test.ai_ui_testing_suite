@@ -2,7 +2,6 @@
     "11  Execute Script and Existing Test Case": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "11  Execute Script and Existing Test Case", 
         "steps": [
             {
                 "continue_on_failure": false, 
