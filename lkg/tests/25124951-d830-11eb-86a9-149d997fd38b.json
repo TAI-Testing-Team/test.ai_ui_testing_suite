@@ -63,13 +63,13 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "tap", 
+                "input": "", 
                 "label_count": null, 
                 "labels": [
                     "ttl_selector_rotate_landscape"
                 ], 
                 "run_only_if_label_present": false, 
-                "type": "action", 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -80,10 +80,23 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mi_rotate_to_portrait"
+                    "btn_action"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "select_rotate_portrait_option.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -99,9 +112,67 @@
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "25124951-d830-11eb-86a9-149d997fd38b", 
         "title": "08 Action Selector - Part Two"
     }

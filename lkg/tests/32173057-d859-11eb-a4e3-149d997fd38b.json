@@ -1,7 +1,8 @@
 {
-    "11 Expand Test Step / Undo / Turn off": {
+    "12 Expand Test Step / Undo /  Save": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "12 Expand Test Step / Undo /  Save", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -93,6 +94,60 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "Tap on Profile", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_tag"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
                     "btn_undo"
                 ], 
                 "run_only_if_label_present": false, 
@@ -132,10 +187,24 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "span_tap_step"
+                    "span_icn_profile"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -146,18 +215,145 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "focus_and_move.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "icn_turn_on_off"
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_action"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_interaction"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "icn_profile", 
+                "grep_count": null, 
+                "input": "text_entry", 
+                "label_count": null, 
+                "labels": [
+                    "inp_label_name"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "32173057-d859-11eb-a4e3-149d997fd38b", 
-        "title": "11 Expand Test Step / Undo / Turn off"
+        "title": "12 Expand Test Step / Undo /  Save"
     }
 }
