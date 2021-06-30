@@ -1,0 +1,25 @@
+{
+    "swipe up": {
+        "description": "", 
+        "is_deactivated": false, 
+        "original_title": "swipe up", 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "select_text_entry_option.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "7846315e-d873-11eb-b13e-149d997fd38b", 
+        "title": "swipe up"
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "10  Execute Script and Existing Test Case": {
+    "11  Execute Script and Existing Test Case": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "10  Execute Script and Existing Test Case", 
+        "original_title": "11  Execute Script and Existing Test Case", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -197,10 +197,68 @@
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "75e9f81c-d852-11eb-a88d-149d997fd38b", 
-        "title": "10  Execute Script and Existing Test Case"
+        "title": "11  Execute Script and Existing Test Case"
     }
 }

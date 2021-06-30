@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Dd3Py0AZSmqKOlv2SPVI4A==\n", 
+    "height": 20, 
+    "hier_level": 0, 
+    "human_hash": "button_X135_Y430_W9_H20", 
+    "human_readable": "button_135_430_9_20_button_ffffffffffffffffffff87c3c107f01ff01fc10787c3ffffffffffffffffffff_27cbfb108cd3952701c1821cf2c13bb9", 
+    "image_path": "ZDBiYmIwZTNmM2FkZTBjNzcxMTUzMjQ4ZWVmODRlNGY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "remove", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(58, 59, 69)", 
+            "cssClass": "remove", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 11, 
+            "height": 20, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "\u2717", 
+            "type": "button", 
+            "value": "", 
+            "width": 9, 
+            "x": 135, 
+            "xPercent": 7.010091145833333, 
+            "y": 430, 
+            "yPercent": 16.69254658385093
+        }, 
+        "location": {
+            "x": 135, 
+            "y": 430
+        }, 
+        "size": {
+            "height": 20, 
+            "width": 9
+        }, 
+        "tag_name": "button", 
+        "text": "\u2717"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "6f67822f522648a5ccd401aa02b9218d", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "\u2717", 
+    "transformed": true, 
+    "width": 9, 
+    "x": 135, 
+    "y": 430
+}

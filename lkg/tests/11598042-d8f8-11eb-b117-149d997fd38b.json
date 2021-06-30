@@ -1,8 +1,8 @@
 {
-    "10 Navigation and Verification Card": {
+    "09 Action Selector - Part Three": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "10 Navigation and Verification Card", 
+        "original_title": "09 Action Selector - Part Three", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -24,7 +24,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_navigation"
+                    "btn_action"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -37,11 +37,10 @@
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "inp_label_name"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "select_swipe_up_option.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -52,21 +51,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_description"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_navigation_card"
+                    "ttl_selector_swipe_up"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -80,10 +65,23 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "icn_continue_on_failure"
+                    "btn_action"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "select_swipe_down_option.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -94,63 +92,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "icn_checkbox_checked"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "icn_explore", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_label_name"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_save"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_expand_step"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies this label was saved from earlier.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "span_icn_explore"
+                    "ttl_selector_swipe_down"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -164,7 +106,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_verification"
+                    "btn_action"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -175,13 +117,12 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "", 
+                "input": "execute_script", 
                 "label_count": null, 
-                "labels": [
-                    "inp_label_name"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "select_swipe_left_option.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -192,21 +133,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_description"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "inp_search_string"
+                    "ttl_selector_swipe_left"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -220,7 +147,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "icn_continue_on_failure"
+                    "btn_action"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -231,10 +158,64 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "select_swipe_right_option.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "icn_checkbox_checked"
+                    "ttl_selector_swipe_right"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_action"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "select_wait_option.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_wait"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -252,34 +233,6 @@
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verify step name appears on collapsed step", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_verification_step"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_verification_step"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -315,7 +268,49 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "", 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
                 "label_count": null, 
                 "labels": [
                     "btn_save"
@@ -325,8 +320,10 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
-        "temp_id": "683f98eb-d849-11eb-b13e-149d997fd38b", 
-        "title": "10 Navigation and Verification Card"
+        "tags": [
+            "pass"
+        ], 
+        "temp_id": "11598042-d8f8-11eb-b117-149d997fd38b", 
+        "title": "09 Action Selector - Part Three"
     }
 }

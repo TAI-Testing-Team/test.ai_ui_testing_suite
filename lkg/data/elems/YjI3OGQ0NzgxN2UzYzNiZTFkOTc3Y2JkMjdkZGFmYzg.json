@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VvS1U9u5E6/eFmd4FEnC2Q==\n", 
+    "height": 29, 
+    "hier_level": 0, 
+    "human_hash": "div_X66_Y641_W232_H29", 
+    "human_readable": "div_66_641_232_29_div_ffffffffffffffffffffffff17ff01fc01fc01fc01fd07ffffffffffffffffff_452215495f1a7c3770a651ad254fcd34", 
+    "image_path": "YjI3OGQ0NzgxN2UzYzNiZTFkOTc3Y2JkMjdkZGFmYzg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "dropdown"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "dropdown", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 29, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Swipe Down\u00a0 Text Entry\u00a0 Text Entry w/o Submit\u00a0 Tap\u00a0 Double Tap\u00a0 Long Press\u00a0 Rotate to Landscape\u00a0 Rotate to Portrait\u00a0 Swipe Up\u00a0 Swipe Down\u00a0 Swipe Left\u00a0 Swipe Right\u00a0 Wait # Seconds", 
+            "type": "", 
+            "value": "", 
+            "width": 232, 
+            "x": 66, 
+            "xPercent": 3.4392912975508074, 
+            "y": 641, 
+            "yPercent": 23.855601042054335
+        }, 
+        "location": {
+            "x": 66, 
+            "y": 641
+        }, 
+        "size": {
+            "height": 29, 
+            "width": 232
+        }, 
+        "tag_name": "div", 
+        "text": "Swipe Down\u00a0 Text Entry\u00a0 Text Entry w/o Submit\u00a0 Tap\u00a0 Double Tap\u00a0 Long Press\u00a0 Rotate to Landscape\u00a0 Rotate to Portrait\u00a0 Swipe Up\u00a0 Swipe Down\u00a0 Swipe Left\u00a0 Swipe Right\u00a0 Wait # Seconds"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "e014b9287dd87664223dabbc3d27a165", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Swipe Down\u00a0 Text Entry\u00a0 Text Entry w/o Submit\u00a0 Tap\u00a0 Double Tap\u00a0 Long Press\u00a0 Rotate to Landscape\u00a0 Rotate to Portrait\u00a0 Swipe Up\u00a0 Swipe Down\u00a0 Swipe Left\u00a0 Swipe Right\u00a0 Wait # Seconds", 
+    "transformed": true, 
+    "width": 232, 
+    "x": 66, 
+    "y": 641
+}

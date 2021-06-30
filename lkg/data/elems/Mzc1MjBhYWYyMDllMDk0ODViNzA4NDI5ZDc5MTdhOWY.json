@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "zn2mGmwd0GRWZiTM5qy3TQ==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "div_X66_Y642_W232_H27", 
+    "human_readable": "div_66_642_232_27_div_ffffffffffffffffffffffff07ff00fc00fc00fc00fd00ffffffffffffffffff_af6ca80f73217b13ea69d05caa1e46dd", 
+    "image_path": "Mzc1MjBhYWYyMDllMDk0ODViNzA4NDI5ZDc5MTdhOWY.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "option default"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "option default", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Wait # Seconds", 
+            "type": "", 
+            "value": "", 
+            "width": 232, 
+            "x": 66, 
+            "xPercent": 3.4375000000000004, 
+            "y": 642, 
+            "yPercent": 24.922360248447205
+        }, 
+        "location": {
+            "x": 66, 
+            "y": 642
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 232
+        }, 
+        "tag_name": "div", 
+        "text": "Wait # Seconds"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5b83f2e633aefcf5d322cbfc379f0ec2", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Wait # Seconds", 
+    "transformed": true, 
+    "width": 232, 
+    "x": 66, 
+    "y": 642
+}
