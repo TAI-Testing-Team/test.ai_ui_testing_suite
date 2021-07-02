@@ -7,5 +7,5 @@ import logging
 log = logging.getLogger(__name__)
 
 def run(context):
-	found = context.wait_for_template_match(['div_off_grey_test_tmp'], score_threshold=0.95, grayscale=False, canny=False, scale_invariant=False)
-	assert found is not None, "Grey off button should display."
+	found = context.wait_for_template_match(['label_icn_home_pink_tmp'], score_threshold=0.95, grayscale=False, canny=False, scale_invariant=False)
+	assert found is not None, "Red upvote button should be present"

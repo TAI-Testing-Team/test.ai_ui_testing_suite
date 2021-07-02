@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "W4CTKvQ/1ogs4iVNRmy2cA==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "div_X372_Y473_W243_H71", 
+    "human_readable": "div_372_473_243_71_div_ffffffff00000000000000000000ffffffffffffffffdfffffffffffffffffff_1b6670dddb08dcb0d14405825914baa7", 
+    "image_path": "ZTYxZTQ3MDEyMjk0NGM3M2E3ZTFhYWVmOTBhYjI1MjA.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card--labels"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "card--labels", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "icn_home\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 243, 
+            "x": 372, 
+            "xPercent": 19.388020833333332, 
+            "y": 473, 
+            "yPercent": 50.91496232508074
+        }, 
+        "location": {
+            "x": 372, 
+            "y": 473
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 243
+        }, 
+        "tag_name": "div", 
+        "text": "icn_home\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "cd96e28c70bec7505c72b7efa5583d0e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "icn_home\u00a0Label", 
+    "transformed": true, 
+    "width": 243, 
+    "x": 372, 
+    "y": 473
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "f805XpBnyzNgy/gZD0G+7w==\n", 
+    "height": 22, 
+    "hier_level": 0, 
+    "human_hash": "button_X377_Y481_W233_H22", 
+    "human_readable": "button_377_481_233_22_button_000000000000000000000000f000f000f000f000f00040004000000000000000_d064ba4b9c0f1fa40d2f1b829958620b", 
+    "image_path": "OGRiZDE2NTcxNTQ2OTU4YTkwYjMwYWE3YmM2NzNhMDc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "label applied"
+            }, 
+            "background-color": "rgb(0, 128, 0)", 
+            "class": "button", 
+            "color": "rgb(234, 236, 238)", 
+            "cssClass": "label applied", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 22, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "icn_home", 
+            "type": "", 
+            "value": "", 
+            "width": 233, 
+            "x": 377, 
+            "xPercent": 19.6484375, 
+            "y": 481, 
+            "yPercent": 51.77610333692142
+        }, 
+        "location": {
+            "x": 377, 
+            "y": 481
+        }, 
+        "size": {
+            "height": 22, 
+            "width": 233
+        }, 
+        "tag_name": "button", 
+        "text": "icn_home"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d0715a684000615192da9cd518f37713", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "icn_home", 
+    "transformed": true, 
+    "width": 233, 
+    "x": 377, 
+    "y": 481
+}

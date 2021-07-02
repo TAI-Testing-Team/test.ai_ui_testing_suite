@@ -70,7 +70,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "fe90019c-d939-11eb-b117-149d997fd38b", 
         "title": "13 On / Off"
     }

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "WseyZyl+Yfo4iDPWGcqZ0w==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "div_X927_Y655_W243_H71", 
+    "human_readable": "div_927_655_243_71_div_ffffffff00000000000000000000ffffffffffffffffdfffffffffffffffffff_a7b626b090e59e074ff1f5dd2c320261", 
+    "image_path": "NTQyZjRjMWM0NmU3YmJjN2RjM2UyZjljOWJmY2FjYTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card--labels"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "card--labels", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "tab_live\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 243, 
+            "x": 927, 
+            "xPercent": 48.294270833333336, 
+            "y": 655, 
+            "yPercent": 24.36790565686639
+        }, 
+        "location": {
+            "x": 927, 
+            "y": 655
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 243
+        }, 
+        "tag_name": "div", 
+        "text": "tab_live\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "6bc42a396872c969b84303c4fbd960a8", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "tab_live\u00a0Label", 
+    "transformed": true, 
+    "width": 243, 
+    "x": 927, 
+    "y": 655
+}
