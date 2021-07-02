@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "TwdLdSfzg8xBcy3LOKXw6g==\n", 
+    "height": 48, 
+    "hier_level": 0, 
+    "human_hash": "div_X810_Y901_W300_H48", 
+    "human_readable": "div_810_901_300_48_div_80010000000000004003c003f783ff80ff80ff80c00040000000000000008001_d1f63fd485f4c636d74fe722698580cf", 
+    "image_path": "ZWY5N2MxMmFiYTgwYWEwMzRkNzA2MWMwNmQ4YWRkNDc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-toast__inner", 
+                "data-reach-alert": "true", 
+                "style": "pointer-events: auto; max-width: 560px; min-width: 300px; margin: 0.5rem;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-toast__inner", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 48, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Devices refreshed", 
+            "type": "", 
+            "value": "", 
+            "width": 300, 
+            "x": 810, 
+            "xPercent": 42.1875, 
+            "y": 901, 
+            "yPercent": 60.22727272727273
+        }, 
+        "location": {
+            "x": 810, 
+            "y": 901
+        }, 
+        "size": {
+            "height": 48, 
+            "width": 300
+        }, 
+        "tag_name": "div", 
+        "text": "Devices refreshed"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1eae590faf8986aaf5daa60c7e76ef32", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Devices refreshed", 
+    "transformed": true, 
+    "width": 300, 
+    "x": 810, 
+    "y": 901
+}

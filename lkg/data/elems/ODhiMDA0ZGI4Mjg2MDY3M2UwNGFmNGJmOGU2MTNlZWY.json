@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "atJQzlNkqV6rGupyUWI06A==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "button_X1752_Y919_W142_H38", 
+    "human_readable": "button_1752_919_142_38_button_0000000000000000000020403ff43ffc3ffc3ffc3ffc08000800000000000000_06f957037db966154f5baec0493bb3d6", 
+    "image_path": "ODhiMDA0ZGI4Mjg2MDY3M2UwNGFmNGJmOGU2MTNlZWY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "container", 
+                "style": "background: rgb(243, 86, 91); border-top: 1px solid rgba(33, 43, 55, 0.3); border-right: 1px solid rgba(33, 43, 55, 0.3); border-bottom: none; border-left: 1px solid rgba(33, 43, 55, 0.3); color: rgb(255, 255, 255); border-image: initial; border-top-left-radius: 3px; border-top-right-radius: 3px; font-weight: 500; box-sizing: border-box;"
+            }, 
+            "background-color": "rgb(243, 86, 91)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "container", 
+            "domLevel": 2, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Inter", 
+            "font-weight": "500", 
+            "fontSize": 18, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Report Issue", 
+            "type": "", 
+            "value": "", 
+            "width": 142, 
+            "x": 1752, 
+            "xPercent": 91.25, 
+            "y": 919, 
+            "yPercent": 61.43048128342245
+        }, 
+        "location": {
+            "x": 1752, 
+            "y": 919
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 142
+        }, 
+        "tag_name": "button", 
+        "text": "Report Issue"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1eae590faf8986aaf5daa60c7e76ef32", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Report Issue", 
+    "transformed": true, 
+    "width": 142, 
+    "x": 1752, 
+    "y": 919
+}

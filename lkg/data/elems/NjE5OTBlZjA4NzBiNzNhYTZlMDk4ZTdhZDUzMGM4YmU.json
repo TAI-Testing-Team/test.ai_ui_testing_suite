@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "td4FF+XyZ8OJQ6RbBiPVFA==\n", 
+    "height": 76, 
+    "hier_level": 0, 
+    "human_hash": "div_X154_Y654_W1236_H76", 
+    "human_readable": "div_154_654_1236_76_div_ffff7ffd7ffc7ffcfffffffeffff00000000ffffffff3fff3ffe3fffffff0000_c75e5ecc4f6433d4e544d4d2eda7d1e0", 
+    "image_path": "NjE5OTBlZjA4NzBiNzNhYTZlMDk4ZTdhZDUzMGM4YmU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-form-control css-lt53e8", 
+                "role": "group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-form-control css-lt53e8", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 76, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Device ID\u00a0*\u00a0Update Devices\u00a0\u00a0 option AndroidDevice focused, 0 of 2. 1 result available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select a device to useAndroidDeviceemulator", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 654, 
+            "yPercent": 33.78099173553719
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 654
+        }, 
+        "size": {
+            "height": 76, 
+            "width": 1236
+        }, 
+        "tag_name": "div", 
+        "text": "Device ID\u00a0*\u00a0Update Devices\u00a0\u00a0 option AndroidDevice focused, 0 of 2. 1 result available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select a device to useAndroidDeviceemulator"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1f8df5e6eb82ea3a5682a4fa782100a8", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Device ID\u00a0*\u00a0Update Devices\u00a0\u00a0 option AndroidDevice focused, 0 of 2. 1 result available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select a device to useAndroidDeviceemulator", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 654
+}

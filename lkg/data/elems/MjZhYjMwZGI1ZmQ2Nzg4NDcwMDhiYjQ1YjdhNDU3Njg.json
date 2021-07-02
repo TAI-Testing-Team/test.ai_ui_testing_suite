@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "0ibrGzQ7dZoraRIDiRubVw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X1609_Y79_W157_H40", 
+    "human_readable": "button_1609_79_157_40_button_8001000000000000000068006c0c7ffe7ffe7ffe7fee10840000000000008001_5a8dc38a2db35793f290b923c928fff3", 
+    "image_path": "MjZhYjMwZGI1ZmQ2Nzg4NDcwMDhiYjQ1YjdhNDU3Njg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-fwf9po", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(74, 85, 104)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "chakra-button css-fwf9po", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Explore your app", 
+            "type": "button", 
+            "value": "", 
+            "width": 157, 
+            "x": 1609, 
+            "xPercent": 83.80126953125, 
+            "y": 79, 
+            "yPercent": 3.0667701863354035
+        }, 
+        "location": {
+            "x": 1609, 
+            "y": 79
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 157
+        }, 
+        "tag_name": "button", 
+        "text": "Explore your app"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "39624b764de8acb5fce44d0f987c153b", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Explore your app", 
+    "transformed": true, 
+    "width": 157, 
+    "x": 1609, 
+    "y": 79
+}

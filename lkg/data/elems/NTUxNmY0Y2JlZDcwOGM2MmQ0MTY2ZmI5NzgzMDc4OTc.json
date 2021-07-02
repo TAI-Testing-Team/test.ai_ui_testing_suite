@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "fOThuY4Dl199Y7HaB9IW9g==\n", 
+    "height": 26, 
+    "hier_level": 0, 
+    "human_hash": "button_X1262_Y654_W128_H26", 
+    "human_readable": "button_1262_654_128_26_button_ffffffffffffffffffff8bb78000e001e000c0008000b7ffffffffffffffffff_0864f614f15bf9a521d74dd40da5b484", 
+    "image_path": "NTUxNmY0Y2JlZDcwOGM2MmQ0MTY2ZmI5NzgzMDc4OTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-vfgs02", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-button css-vfgs02", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 26, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Update Devices", 
+            "type": "button", 
+            "value": "", 
+            "width": 128, 
+            "x": 1262, 
+            "xPercent": 65.71451822916666, 
+            "y": 654, 
+            "yPercent": 43.716577540106954
+        }, 
+        "location": {
+            "x": 1262, 
+            "y": 654
+        }, 
+        "size": {
+            "height": 26, 
+            "width": 128
+        }, 
+        "tag_name": "button", 
+        "text": "Update Devices"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1eae590faf8986aaf5daa60c7e76ef32", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Update Devices", 
+    "transformed": true, 
+    "width": 128, 
+    "x": 1262, 
+    "y": 654
+}
