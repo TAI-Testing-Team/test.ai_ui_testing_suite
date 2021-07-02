@@ -1,12 +1,12 @@
 {
-    "02 Tap Header Nav Links": {
+    "15 Test Composer Center Icons": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "02 Tap Header Nav Links", 
+        "original_title": "15 Test Composer Center Icons", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "Run this test before every test.", 
+                "description": "", 
                 "grep": "01 Select App", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,41 +18,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap test results tab.", 
-                "grep": "", 
+                "description": "", 
+                "grep": "pride", 
                 "grep_count": null, 
-                "input": "tap", 
+                "input": "text_entry_no_submit", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_test_results"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verify title div on Test Results page", 
-                "grep": "All Test Results", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_all_test_results"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tap Test Composer tab", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_test_composer"
+                    "inp_search_test_results"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -61,24 +33,26 @@
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "Create test cases from screens", 
+                "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [], 
+                "labels": [
+                    "div_ttl_pride_ride"
+                ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap interactive composer tab", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_interactive_composer"
+                    "cbx_select_all_unchecked"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -86,8 +60,8 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "This string appears on interactive composer page.", 
-                "grep": "Details on the interactive crawl", 
+                "description": "", 
+                "grep": "Remove Labels", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -101,24 +75,10 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "icn_profile"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verify the documentation link that appears on dropdown", 
-                "grep": "", 
-                "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_documentation"
+                    "div_icn_pofile_selected"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -126,21 +86,49 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify email string appears on dopdown", 
-                "grep": "Email", 
+                "description": "", 
+                "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [], 
+                "labels": [
+                    "cbx_select_all_checked"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "cbx_select_all_checked"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "cbx_select_all_unchecked"
+                ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
             }
         ], 
-        "tags": [
-            "pass"
-        ], 
-        "temp_id": "e8f41261-d2ca-11eb-add4-149d997fd38b", 
-        "title": "02 Tap Header Nav Links"
+        "tags": [], 
+        "temp_id": "9ad979a8-db6e-11eb-a2ef-149d997fd38b", 
+        "title": "15 Test Composer Center Icons"
     }
 }

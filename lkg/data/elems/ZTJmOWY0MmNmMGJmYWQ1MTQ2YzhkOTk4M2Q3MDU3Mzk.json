@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "huw7Zt2FQgWEYlgqReZVEA==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X464_Y216_W77_H40", 
+    "human_readable": "button_464_216_77_40_button_fffffffffffffffffffff7ffe007e007e007e007ffffffffffffffffffffffff_0abc10204b7b6dd1c9a91821690eef1a", 
+    "image_path": "ZTJmOWY0MmNmMGJmYWQ1MTQ2YzhkOTk4M2Q3MDU3Mzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-wu1i9m", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(74, 85, 104)", 
+            "cssClass": "chakra-button css-wu1i9m", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 12, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Screens", 
+            "type": "button", 
+            "value": "", 
+            "width": 77, 
+            "x": 464, 
+            "xPercent": 24.182942708333332, 
+            "y": 216, 
+            "yPercent": 8.385093167701864
+        }, 
+        "location": {
+            "x": 464, 
+            "y": 216
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 77
+        }, 
+        "tag_name": "button", 
+        "text": "Screens"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d4f3c91e057f8ea80b4f3b5cfdc47021", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Screens", 
+    "transformed": true, 
+    "width": 77, 
+    "x": 464, 
+    "y": 216
+}

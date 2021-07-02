@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "UEzGt4Th+ECNWMX8onzh+g==\n", 
+    "height": 71, 
+    "hier_level": 0, 
+    "human_hash": "div_X650_Y595_W243_H71", 
+    "human_readable": "div_650_595_243_71_div_ffffffff00000000000000000000ffffffffffffffffdfffffffffffffffffff_93ffd0c5fcbc7e5a2737816a78f5b147", 
+    "image_path": "ZmM0MDU2YjQ2MWY0ZmM0YzI3MzJmN2FiZWNiMmZhZmQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card--labels"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "card--labels", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 71, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "ttl_saved_classes\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 243, 
+            "x": 650, 
+            "xPercent": 33.841145833333336, 
+            "y": 595, 
+            "yPercent": 23.115416343167702
+        }, 
+        "location": {
+            "x": 650, 
+            "y": 595
+        }, 
+        "size": {
+            "height": 71, 
+            "width": 243
+        }, 
+        "tag_name": "div", 
+        "text": "ttl_saved_classes\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "72206e97ecc5ed7c0ce47c6f30c40e8e", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "ttl_saved_classes\u00a0Label", 
+    "transformed": true, 
+    "width": 243, 
+    "x": 650, 
+    "y": 595
+}
