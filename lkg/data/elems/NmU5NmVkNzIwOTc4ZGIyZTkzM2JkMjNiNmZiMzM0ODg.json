@@ -1,0 +1,83 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "c9jLGRwcfGX6EdsNl2R4Iw==\n", 
+    "height": 1, 
+    "hier_level": 0, 
+    "human_hash": "input_X153_Y582_W1_H1", 
+    "human_readable": "input_153_582_1_1_input_0000000000000000000000000000000000000000000000000000000000000000_32fb3ee3395c741796dc8c42232c49e9", 
+    "image_path": "NmU5NmVkNzIwOTc4ZGIyZTkzM2JkMjNiNmZiMzM0ODg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "checked": "", 
+                "class": "chakra-radio__input", 
+                "name": "radio-1", 
+                "style": "border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;", 
+                "type": "radio", 
+                "value": "interactive"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-radio__input", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": true, 
+                "checked": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 1, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "radio-1", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "radio", 
+            "value": "interactive", 
+            "width": 1, 
+            "x": 153, 
+            "xPercent": 7.968749999999999, 
+            "y": 582, 
+            "yPercent": 30.061983471074385
+        }, 
+        "location": {
+            "x": 153, 
+            "y": 582
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "da3c883211fddf02373b1657629f53a7", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "interactive", 
+    "transformed": true, 
+    "width": 1, 
+    "x": 153, 
+    "y": 582
+}

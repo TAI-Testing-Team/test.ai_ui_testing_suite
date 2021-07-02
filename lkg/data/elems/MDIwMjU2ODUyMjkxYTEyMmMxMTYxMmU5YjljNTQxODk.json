@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "M2w1fUjSkszGZm2fqKliPw==\n", 
+    "height": 105, 
+    "hier_level": 0, 
+    "human_hash": "div_X154_Y517_W1236_H105", 
+    "human_readable": "div_154_517_1236_105_div_ffff3fff1fff1fff1fffdfffffffffffffffffff3f3f3f3f7fff9f9f1f1f9fbf_0ce71f3751e0cb3fb4b41c66250007b2", 
+    "image_path": "MDIwMjU2ODUyMjkxYTEyMmMxMTYxMmU5YjljNTQxODk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-form-control css-1ols3at", 
+                "role": "group"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-form-control css-1ols3at", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 105, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Crawl SettingsInteractiveYou control where the bot goesAutonomousLet the bot auto-explore", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 517, 
+            "yPercent": 34.55882352941176
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 517
+        }, 
+        "size": {
+            "height": 105, 
+            "width": 1236
+        }, 
+        "tag_name": "div", 
+        "text": "Crawl SettingsInteractiveYou control where the bot goesAutonomousLet the bot auto-explore"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "93c3546587a3109ea42dc573ce49b166", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Crawl SettingsInteractiveYou control where the bot goesAutonomousLet the bot auto-explore", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 517
+}

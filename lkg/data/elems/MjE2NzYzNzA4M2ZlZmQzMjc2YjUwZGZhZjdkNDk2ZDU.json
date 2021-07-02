@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "h77kbG9QVB2y3p0Fiu2wag==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X154_Y692_W1236_H38", 
+    "human_readable": "div_154_692_1236_38_div_0000ffffffffffffffff7fff3fff3ffe3ffe3fff3fffffffffffffffffff0000_18d4122fb30cdfdf5fe5ffec87d293b0", 
+    "image_path": "MjE2NzYzNzA4M2ZlZmQzMjc2YjUwZGZhZjdkNDk2ZDU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1ogakd7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "css-1ogakd7", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "option AndroidDevice focused, 0 of 2. 1 result available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select a device to useAndroidDeviceemulator", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 692, 
+            "yPercent": 46.25668449197861
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 692
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1236
+        }, 
+        "tag_name": "div", 
+        "text": "option AndroidDevice focused, 0 of 2. 1 result available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select a device to useAndroidDeviceemulator"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c410ebaf88b6237b865aa5f7342864cd", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "option AndroidDevice focused, 0 of 2. 1 result available. Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.Select a device to useAndroidDeviceemulator", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 692
+}

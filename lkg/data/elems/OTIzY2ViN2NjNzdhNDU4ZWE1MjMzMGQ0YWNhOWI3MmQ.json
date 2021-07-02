@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "oM724c7Be7XKdr7cmvXp3Q==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X154_Y692_W1236_H38", 
+    "human_readable": "div_154_692_1236_38_div_0000ffffffffffffffff7fff3fff3ffe3ffe3fff3fffffffffffffffffff0000_e19be3fc8f5996880223804910b70a80", 
+    "image_path": "OTIzY2ViN2NjNzdhNDU4ZWE1MjMzMGQ0YWNhOWI3MmQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1ogakd7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "css-1ogakd7", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "0 results available. Select is focused ,type to refine list, press Down to open the menu, Select a device to use", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 692, 
+            "yPercent": 46.25668449197861
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 692
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1236
+        }, 
+        "tag_name": "div", 
+        "text": "0 results available. Select is focused ,type to refine list, press Down to open the menu, Select a device to use"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7648b3917f842cf23e8aab3a697ec448", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "0 results available. Select is focused ,type to refine list, press Down to open the menu, Select a device to use", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 692
+}

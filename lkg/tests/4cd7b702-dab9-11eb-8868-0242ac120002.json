@@ -1,13 +1,12 @@
 {
-    "11  Execute Script and Existing Test Case": {
+    "20 Explore Your App - Select Crawl Type and Device Selector": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "11  Execute Script and Existing Test Case", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "04 Open Existing Test", 
+                "grep": "01 Select App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -24,7 +23,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_execute_script"
+                    "btn_explore_your_app"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -32,13 +31,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify 'Devices Refreshed' alert shows up", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_script_file"
+                    "txt_devices_refreshed"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -46,44 +45,14 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
+                "description": "Verify that we are on the Crawl Page", 
+                "grep": "Start a crawl", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "inp_description"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Entering a description", 
-                "grep": "My Description", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_description"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "script.py", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_script_file"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
                 "widget": "default"
             }, 
             {
@@ -94,7 +63,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_save"
+                    "btn_select_autonomous"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -102,69 +71,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_existing_test_case"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tile with Autonomous selected and Interactive deselected", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_description"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "Login Test", 
-                "grep_count": null, 
-                "input": "text_entry", 
-                "label_count": null, 
-                "labels": [
-                    "inp_description"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_sellect_test_case"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "mi_sign_in"
+                    "ttl_autonomous_selected"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -178,7 +91,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "mi_sign_in"
+                    "btn_select_interactive"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -192,7 +105,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ttl_sign_in_test"
+                    "ttl_interactive_selected"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -206,10 +119,24 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_save"
+                    "btn_update_devices"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "'Devices Refreshed' alert appears.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "txt_devices_refreshed"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -220,10 +147,24 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_delete_step"
+                    "ddm_select_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Android Device with Green Circle is in the Drop Down Menu", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_android_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -234,10 +175,23 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_delete_step"
+                    "ddm_select_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify that DDM closes after being clicked twice. - Verify label drop down menu item is not present.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "verify_ddi_android_device_not_present.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -248,17 +202,75 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_save"
+                    "ddm_select_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies that DDM has re-opened", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_android_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies that a Device is selected - Close and Expand button are now present in the DDM", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "icns_close_and_expand"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "icn_remove_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Android Device with Green Icon reappears in DDM", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_android_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "production", 
+            "explore_your_app"
         ], 
-        "temp_id": "75e9f81c-d852-11eb-a88d-149d997fd38b", 
-        "title": "11  Execute Script and Existing Test Case"
+        "temp_id": "4cd7b702-dab9-11eb-8868-0242ac120002", 
+        "title": "20 Explore Your App - Select Crawl Type and Device Selector"
     }
 }
