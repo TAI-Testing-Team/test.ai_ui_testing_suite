@@ -2,6 +2,7 @@
     "20 Explore Your App - Select Crawl Type and Device Selector": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "20 Explore Your App - Select Crawl Type and Device Selector", 
         "steps": [
             {
                 "continue_on_failure": false, 
