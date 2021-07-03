@@ -2,6 +2,7 @@
     "14 Test Composer Top Center icons": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "14 Test Composer Top Center icons", 
         "steps": [
             {
                 "continue_on_failure": false, 
