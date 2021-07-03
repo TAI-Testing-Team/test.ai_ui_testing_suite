@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "2urJwzJVT1tYg56Bm9O6tg==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "label_X154_Y657_W1236_H40", 
+    "human_readable": "label_154_657_1236_40_label_7fff1fff0fff0fff0fff1fff7fffffffffffffff00ff00ff00ff00ffffffffff_670f740a7da42b84201bae4007a88838", 
+    "image_path": "NGQ4NzVlMzJiZjQ5ZmQ2YmU1YzJkZjc1ZTkzNTY3MDM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-checkbox css-19nv2xe"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-checkbox css-19nv2xe", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Skip app installation on deviceThis skips all installation/uninstallation on the device, using the app as-is-installed for all testing.", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 657, 
+            "yPercent": 43.91711229946524
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 657
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 1236
+        }, 
+        "tag_name": "label", 
+        "text": "Skip app installation on deviceThis skips all installation/uninstallation on the device, using the app as-is-installed for all testing."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c771d4c4d71f0749e1ddd3fd8aae8cc7", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Skip app installation on deviceThis skips all installation/uninstallation on the device, using the app as-is-installed for all testing.", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 657
+}
