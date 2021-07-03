@@ -24,7 +24,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "icn_turn_on_off"
+                    "btn_turn_off_test"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -37,11 +37,10 @@
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "div_off_grey_test"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "verify_off_grey.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -65,15 +64,16 @@
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "div_on_green_test"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "verify_on_green.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "fe90019c-d939-11eb-b117-149d997fd38b", 
         "title": "13 On / Off"
     }

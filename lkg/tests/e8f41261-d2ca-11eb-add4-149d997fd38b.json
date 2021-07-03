@@ -98,13 +98,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap \"Crawl is running\" drop down", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_crawl_is_running"
+                    "icn_profile"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -112,13 +112,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify stop crawl button appears", 
+                "description": "Verify the documentation link that appears on dropdown", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ddi_stop_current_crawl"
+                    "lnk_documentation"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -126,50 +126,8 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "div_stop_Crawl"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "btn_stop_this_crawl"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_keep_running"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "Details on the interactive crawl", 
+                "description": "Verify email string appears on dopdown", 
+                "grep": "Email", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -177,51 +135,11 @@
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "div_stop_crawl"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "btn_keep_running"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_close_crawl_icon"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "e8f41261-d2ca-11eb-add4-149d997fd38b", 
         "title": "02 Tap Header Nav Links"
     }

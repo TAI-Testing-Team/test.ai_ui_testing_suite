@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "h3Y5vgoScqUfiPUlmfxnTw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "button_X735_Y172_W93_H32", 
+    "human_readable": "button_735_172_93_32_button_00007fffffffe1ffe1ffc13fdd03cd83c103c103d583ebffe3ffffff7fff0000_b3eda41b8552436a759d0b7274998f1c", 
+    "image_path": "M2MxN2JiODRkYzhmODQyMTIwNTFmZTI3YjY1MGFlYjI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button autoLabelButton css-t4v9lm", 
+                "currentitem": "false", 
+                "data-place": "top", 
+                "data-tip": "Re-process all crawls, and run auto-labeling.", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "button", 
+            "color": "rgb(74, 85, 104)", 
+            "cssClass": "chakra-button autoLabelButton css-t4v9lm", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 32, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Train", 
+            "type": "button", 
+            "value": "", 
+            "width": 93, 
+            "x": 735, 
+            "xPercent": 38.30078125, 
+            "y": 172, 
+            "yPercent": 6.401190919240789
+        }, 
+        "location": {
+            "x": 735, 
+            "y": 172
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 93
+        }, 
+        "tag_name": "button", 
+        "text": "Train"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f409c622ee1fd410c14575a0367f4fd3", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Train", 
+    "transformed": true, 
+    "width": 93, 
+    "x": 735, 
+    "y": 172
+}

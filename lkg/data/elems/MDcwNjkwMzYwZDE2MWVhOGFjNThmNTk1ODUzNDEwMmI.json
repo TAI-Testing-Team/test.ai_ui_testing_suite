@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "lMK0ags573PU0Cy8pFoi/w==\n", 
+    "height": 381, 
+    "hier_level": 0, 
+    "human_hash": "div_X371_Y353_W245_H381", 
+    "human_readable": "div_371_353_245_381_div_fe018001800180018001800180018001800180018001ffffffffffffffffffff_66505f34d7f7e07b55010e0c1e15d794", 
+    "image_path": "MDcwNjkwMzYwZDE2MWVhOGFjNThmNTk1ODUzNDEwMmI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "draggable", 
+                "style": "touch-action: none; transform: translate(0px, 0px);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "draggable", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 381, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "android.view.ViewGroup                            tle_pride_ride\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 371, 
+            "xPercent": 19.3359375, 
+            "y": 353, 
+            "yPercent": 37.997847147470395
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 381, 
+            "width": 245
+        }, 
+        "tag_name": "div", 
+        "text": "android.view.ViewGroup                            tle_pride_ride\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d28a99724e52c3cfea99b43ed6d04b90", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "android.view.ViewGroup                            tle_pride_ride\u00a0Label", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 371, 
+    "y": 353
+}
