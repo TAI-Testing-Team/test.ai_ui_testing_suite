@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "iygnZwkwtbsycRqRIvbsdw==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X154_Y794_W1236_H38", 
+    "human_readable": "div_154_794_1236_38_div_0000ffffffffffffffff9fff1fff1fff1fff1fff1fffffffffffffffffff0000_8b70e52e0c707076cc62d06e53698256", 
+    "image_path": "ZTY3YjYxNzdmZTJlZTNjYmQ5Y2Y1ZTQ4OTQwYjFkYzM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1ogakd7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "css-1ogakd7", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "com.variis.mobile.qa - v2", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 794, 
+            "yPercent": 53.07486631016043
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 794
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1236
+        }, 
+        "tag_name": "div", 
+        "text": "com.variis.mobile.qa - v2"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1eae590faf8986aaf5daa60c7e76ef32", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "com.variis.mobile.qa - v2", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 794
+}

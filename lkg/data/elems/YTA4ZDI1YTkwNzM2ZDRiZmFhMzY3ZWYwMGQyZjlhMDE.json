@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "r3sJY8W7FxOZwMz8GhNTYg==\n", 
+    "height": 1, 
+    "hier_level": 0, 
+    "human_hash": "input_X153_Y656_W1_H1", 
+    "human_readable": "input_153_656_1_1_input_0000000000000000000000000000000000000000000000000000000000000000_b2613b99aaf8c4125aaa2d55b125df72", 
+    "image_path": "YTA4ZDI1YTkwNzM2ZDRiZmFhMzY3ZWYwMGQyZjlhMDE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-checkbox__input", 
+                "style": "border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;", 
+                "type": "checkbox", 
+                "value": "reinstall"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-checkbox__input", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": true, 
+                "checked": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 1, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "checkbox", 
+            "value": "reinstall", 
+            "width": 1, 
+            "x": 153, 
+            "xPercent": 7.968749999999999, 
+            "y": 656, 
+            "yPercent": 43.85026737967914
+        }, 
+        "location": {
+            "x": 153, 
+            "y": 656
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "406ed64974de939e508992fd2cf6c1f5", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "reinstall", 
+    "transformed": true, 
+    "width": 1, 
+    "x": 153, 
+    "y": 656
+}

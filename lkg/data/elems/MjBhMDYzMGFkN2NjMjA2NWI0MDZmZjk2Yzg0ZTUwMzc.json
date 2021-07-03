@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "iTliOPOw59I98818ZQrURQ==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "div_X154_Y794_W1236_H38", 
+    "human_readable": "div_154_794_1236_38_div_0000ffffffffffffffffffff1fff1ffe1ffe1fff1fffffffffffffffffff0000_f002f0e2a30482e070ffc1672202add3", 
+    "image_path": "MjBhMDYzMGFkN2NjMjA2NWI0MDZmZjk2Yzg0ZTUwMzc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1ogakd7"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "css-1ogakd7", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "option com.variis.mobile.qa - v2, selected.\u00a0  0 results available. Select is focused ,type to refine list, press Down to open the menu, com.variis.mobile.qa - v2", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 794, 
+            "yPercent": 53.07486631016043
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 794
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 1236
+        }, 
+        "tag_name": "div", 
+        "text": "option com.variis.mobile.qa - v2, selected.\u00a0  0 results available. Select is focused ,type to refine list, press Down to open the menu, com.variis.mobile.qa - v2"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d9587534cd32999f250bc133a85d83cd", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "option com.variis.mobile.qa - v2, selected.\u00a0  0 results available. Select is focused ,type to refine list, press Down to open the menu, com.variis.mobile.qa - v2", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 794
+}

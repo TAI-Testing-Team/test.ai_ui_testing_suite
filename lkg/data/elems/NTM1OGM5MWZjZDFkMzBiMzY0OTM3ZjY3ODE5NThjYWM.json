@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Suyo38obBMHP81CojI12Xw==\n", 
+    "height": 61, 
+    "hier_level": 0, 
+    "human_hash": "label_X154_Y576_W1236_H61", 
+    "human_readable": "label_154_576_1236_61_label_3fff3fff3fff3fffffffffff000100000000ffffffffffff07ff07ff07ffffff_d53c1cb7aea10e32ebb300d66100a0b4", 
+    "image_path": "NTM1OGM5MWZjZDFkMzBiMzY0OTM3ZjY3ODE5NThjYWM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-checkbox css-12v6jt3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-checkbox css-12v6jt3", 
+            "domLevel": 6, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 61, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Visual-only modeEnable deep learning-based element extraction from visual information (app screenshots). Visual mode ignores app structure (DOM), and is useful when testing apps that use non-standard elements, such as video streaming apps and games.", 
+            "type": "", 
+            "value": "", 
+            "width": 1236, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 576, 
+            "yPercent": 38.50267379679144
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 576
+        }, 
+        "size": {
+            "height": 61, 
+            "width": 1236
+        }, 
+        "tag_name": "label", 
+        "text": "Visual-only modeEnable deep learning-based element extraction from visual information (app screenshots). Visual mode ignores app structure (DOM), and is useful when testing apps that use non-standard elements, such as video streaming apps and games."
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3469ab82c9f158a16ae4cd70ac07c0ed", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Visual-only modeEnable deep learning-based element extraction from visual information (app screenshots). Visual mode ignores app structure (DOM), and is useful when testing apps that use non-standard elements, such as video streaming apps and games.", 
+    "transformed": true, 
+    "width": 1236, 
+    "x": 154, 
+    "y": 576
+}
