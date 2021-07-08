@@ -1,6 +1,6 @@
 {
     "01 Select App": {
-        "description": "", 
+        "description": "This test selects Android App for testing.", 
         "is_deactivated": false, 
         "original_title": "01 Select App", 
         "steps": [

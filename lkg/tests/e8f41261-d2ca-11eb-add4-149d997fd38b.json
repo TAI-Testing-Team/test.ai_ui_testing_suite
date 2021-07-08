@@ -1,6 +1,6 @@
 {
     "02 Tap Header Nav Links": {
-        "description": "", 
+        "description": "This test taps on each of the 3 tabs and the profile icon and verifies we land on each page.", 
         "is_deactivated": false, 
         "original_title": "02 Tap Header Nav Links", 
         "steps": [
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify title div on Test Results page", 
+                "description": "Verify title div on Test Results page and the string that appears below it.", 
                 "grep": "All Test Results", 
                 "grep_count": null, 
                 "input": "", 
@@ -98,7 +98,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap icon on top right of page.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 

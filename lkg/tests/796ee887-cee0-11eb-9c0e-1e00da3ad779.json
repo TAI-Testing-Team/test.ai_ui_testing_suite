@@ -1,12 +1,12 @@
 {
     "05 Edit Test Details": {
-        "description": "", 
+        "description": "Opens test details, adds tag, description, and test case name. Clicks undo and verifies it returns to fresh state.", 
         "is_deactivated": false, 
         "original_title": "05 Edit Test Details", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Opens Androd and opens \"Test 0 Steps\" test", 
                 "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on  Test details button.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies test case id title appears.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -46,7 +46,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Typing test name", 
                 "grep": "Test Details Edit", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -60,7 +60,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifying test name is entered.", 
                 "grep": "Test Details Edit", 
                 "grep_count": null, 
                 "input": "", 
@@ -72,7 +72,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": " ", 
+                "description": "Typing demo description into input in test details area. ", 
                 "grep": "this is a demo", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -86,7 +86,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies description was typed correctly.", 
                 "grep": "this is a demo", 
                 "grep_count": null, 
                 "input": "", 
@@ -98,7 +98,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Adding a tag to the test.", 
                 "grep": "my tag", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -112,7 +112,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies the oval tag that is added \"mytag\"", 
                 "grep": " ", 
                 "grep_count": null, 
                 "input": "", 
@@ -126,7 +126,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Types and adds a second tag called \"another tag.\"", 
                 "grep": "another tag", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -140,7 +140,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies grey oval span for \"anothertag\"", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -154,7 +154,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Delete second tag.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -168,7 +168,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Deletes first tag.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -182,7 +182,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies original add a tag inp is present.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -196,7 +196,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Taps undo arrow icon. Screen returns to \"select existing test case\" in dropdown.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -210,13 +210,69 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies select existing test case appears in dropdown.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
                     "ddm_select_existing_test_case"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Taps to open dropdown of tests.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_existing_test_case"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Selects \"Test 0 Steps\"", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_test_zero_steps"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Opens test details module again.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_open_test_details"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies input for description is empty and undo button worked correctly.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "inp_add_test_description"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 

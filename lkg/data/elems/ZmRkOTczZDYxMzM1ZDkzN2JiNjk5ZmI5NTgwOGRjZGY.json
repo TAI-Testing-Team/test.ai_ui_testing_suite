@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "avTD19EeiABAsHz7Rn5D2w==\n", 
+    "height": 192, 
+    "hier_level": 0, 
+    "human_hash": "div_X371_Y353_W245_H192", 
+    "human_readable": "div_371_353_245_192_div_ffff80018000800180018001ffffffffffffffffffff00008001ffffffffffff_064beceb6f869ec4264c714beabeb6be", 
+    "image_path": "ZmRkOTczZDYxMzM1ZDkzN2JiNjk5ZmI5NTgwOGRjZGY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "draggable", 
+                "style": "touch-action: none; transform: translate(0px, 0px);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "draggable", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 192, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "android.view.View                            ttl_saved_classes\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 371, 
+            "xPercent": 19.3359375, 
+            "y": 353, 
+            "yPercent": 37.997847147470395
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 192, 
+            "width": 245
+        }, 
+        "tag_name": "div", 
+        "text": "android.view.View                            ttl_saved_classes\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "d0c6e05cf11fa8b5767aec6badf439f8", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "android.view.View                            ttl_saved_classes\u00a0Label", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 371, 
+    "y": 353
+}

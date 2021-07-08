@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vpwhg+INku7ChBHJRmOivQ==\n", 
+    "height": 70, 
+    "hier_level": 0, 
+    "human_hash": "div_X372_Y663_W243_H70", 
+    "human_readable": "div_372_663_243_70_div_ffffffff00000000000000000000ffffffffffff8fff8fffffffffffffffffff_0fe8ddf1c87c36c90b46c965682113ac", 
+    "image_path": "YTIwMmYxNDVkYjBjNGZhNDQ4MGVjN2Q0MzY2MGYzZGU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card--labels"
+            }, 
+            "background-color": "rgb(255, 255, 255)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "card--labels", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 70, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "adding_batch_label\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 243, 
+            "x": 372, 
+            "xPercent": 19.388020833333332, 
+            "y": 663, 
+            "yPercent": 71.37210710441335
+        }, 
+        "location": {
+            "x": 372, 
+            "y": 663
+        }, 
+        "size": {
+            "height": 70, 
+            "width": 243
+        }, 
+        "tag_name": "div", 
+        "text": "adding_batch_label\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3b462058c236ca4b909f16011ded6976", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "adding_batch_label\u00a0Label", 
+    "transformed": true, 
+    "width": 243, 
+    "x": 372, 
+    "y": 663
+}
