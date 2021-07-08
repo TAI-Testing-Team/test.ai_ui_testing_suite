@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "5ZfvU0MZv0j5B9sMavmN4w==\n", 
+    "height": 381, 
+    "hier_level": 0, 
+    "human_hash": "div_X371_Y353_W245_H381", 
+    "human_readable": "div_371_353_245_381_div_fffffffffffffffffc3ffc3ffc3ffc3fffffffffffffffffffff00000000ffff_18f8cde6cf6e515b2682a656373a6ec9", 
+    "image_path": "ZTQ5MDkwOWI0NmE4M2YxMWE5NGVhMjAxMDcwOWEzNTU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "draggable", 
+                "style": "touch-action: none; transform: translate(0px, 0px);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "draggable", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 381, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "android.view.ViewGroup                            adding_batch_label\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 371, 
+            "xPercent": 19.3359375, 
+            "y": 353, 
+            "yPercent": 37.997847147470395
+        }, 
+        "location": {
+            "x": 371, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 381, 
+            "width": 245
+        }, 
+        "tag_name": "div", 
+        "text": "android.view.ViewGroup                            adding_batch_label\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "73429836d3e9eea176e7cec84bde311d", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "android.view.ViewGroup                            adding_batch_label\u00a0Label", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 371, 
+    "y": 353
+}

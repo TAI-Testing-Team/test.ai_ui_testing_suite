@@ -2,6 +2,7 @@
     "10 Navigation and Verification Card": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "10 Navigation and Verification Card", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -62,10 +63,23 @@
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
+                "input": "execute_script", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "focus_and_move.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ttl_navigation_card"
+                    "ttl_navigation_step"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RFjh8tL5O1T07VIBJMiCqA==\n", 
+    "height": 350, 
+    "hier_level": 0, 
+    "human_hash": "div_X649_Y353_W245_H350", 
+    "human_readable": "div_649_353_245_350_div_fffffffffffffffffc3ffc3ffc3fffffffffffffffffffffffff00008001ffff_6b4b610d83bdc17e0dbc5c21282fbe22", 
+    "image_path": "YjQ0N2I3ZmJjM2RhMjhkMTBlMzM3M2YxYTc4YTE0MjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "draggable", 
+                "style": "touch-action: none; transform: translate(0px, 0px);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "draggable", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 350, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "android.view.ViewGroup                            icn_explore\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 649, 
+            "xPercent": 33.7890625, 
+            "y": 353, 
+            "yPercent": 37.354497354497354
+        }, 
+        "location": {
+            "x": 649, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 350, 
+            "width": 245
+        }, 
+        "tag_name": "div", 
+        "text": "android.view.ViewGroup                            icn_explore\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "91f66e693021aac45b72016747095ef3", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "android.view.ViewGroup                            icn_explore\u00a0Label", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 649, 
+    "y": 353
+}

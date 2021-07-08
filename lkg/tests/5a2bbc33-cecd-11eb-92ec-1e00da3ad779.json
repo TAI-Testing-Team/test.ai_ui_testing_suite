@@ -1,12 +1,12 @@
 {
     "03 Test Lifecycle - Create, Edit, Delete": {
-        "description": "", 
+        "description": "Creates new test and deletes it.", 
         "is_deactivated": false, 
         "original_title": "03 Test Lifecycle - Create, Edit, Delete", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Select Android App", 
                 "grep": "01 Select App", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Click on add blue \"new test\" button", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify the input field for new test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -46,7 +46,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Name new test.", 
                 "grep": "My New Test", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -60,7 +60,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify new test appears in dropdown menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -74,7 +74,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Deleting test to return to fresh state.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -88,7 +88,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifying the confirm delete button appears on screen.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -102,7 +102,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Deleting test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -116,7 +116,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifying dropdown menu shows div with \"select an existing test case\"", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 

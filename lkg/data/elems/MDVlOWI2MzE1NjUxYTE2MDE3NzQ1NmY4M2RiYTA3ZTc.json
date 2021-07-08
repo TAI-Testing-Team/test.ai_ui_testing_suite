@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "hkMBUIZuzZjMYmVEjObCug==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "button_X655_Y670_W233_H24", 
+    "human_readable": "button_655_670_233_24_button_800180018001800100005e00fe00fe00fe00fe00340020008001800180018001_7cc7f49fc2c283cdf15f430b49461977", 
+    "image_path": "MDVlOWI2MzE1NjUxYTE2MDE3NzQ1NmY4M2RiYTA3ZTc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "label applied"
+            }, 
+            "background-color": "rgb(0, 128, 0)", 
+            "class": "button", 
+            "color": "rgb(234, 236, 238)", 
+            "cssClass": "label applied", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "-apple-system, system-ui, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 10, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "adding_batch_label", 
+            "type": "", 
+            "value": "", 
+            "width": 233, 
+            "x": 655, 
+            "xPercent": 34.1015625, 
+            "y": 670, 
+            "yPercent": 72.12560548977395
+        }, 
+        "location": {
+            "x": 655, 
+            "y": 670
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 233
+        }, 
+        "tag_name": "button", 
+        "text": "adding_batch_label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "73429836d3e9eea176e7cec84bde311d", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "adding_batch_label", 
+    "transformed": true, 
+    "width": 233, 
+    "x": 655, 
+    "y": 670
+}

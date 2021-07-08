@@ -1,0 +1,73 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "qX11MEaf79sxlzPdK+6JFw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "button_X377_Y670_W57_H24", 
+    "human_readable": "button_377_670_57_24_button_0000000000000044164617fe37fc3ffc15fe17fe020800000000000000000000_8b649f82af1e490d108802fea8b9c8de", 
+    "image_path": "OWVmZTI4N2JiMjY5YTcyMTMyZGY1NjhjNDgxYmE3OWM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Label", 
+            "type": "", 
+            "value": "", 
+            "width": 57, 
+            "x": 377, 
+            "xPercent": 19.6484375, 
+            "y": 670, 
+            "yPercent": 72.12560548977395
+        }, 
+        "location": {
+            "x": 377, 
+            "y": 670
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 57
+        }, 
+        "tag_name": "button", 
+        "text": "Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5a7648bcdba1d6b9a3cd8d0cc522fbb7", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Label", 
+    "transformed": true, 
+    "width": 57, 
+    "x": 377, 
+    "y": 670
+}

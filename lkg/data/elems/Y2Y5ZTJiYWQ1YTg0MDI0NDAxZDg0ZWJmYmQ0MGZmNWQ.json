@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "bm/+csJmrtxqwJbQz79nnA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "label_X823_Y274_W98_H24", 
+    "human_readable": "label_823_274_98_24_label_ffffffff1fff1fff1fff1fff15c7180710051045104710251fff1fffffffffff_018a828f3f4010da6c2fe616481fca9f", 
+    "image_path": "Y2Y5ZTJiYWQ1YTg0MDI0NDAxZDg0ZWJmYmQ0MGZmNWQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-checkbox css-dfdulk"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-checkbox css-dfdulk", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Select All (6)", 
+            "type": "", 
+            "value": "", 
+            "width": 98, 
+            "x": 823, 
+            "xPercent": 42.840983072916664, 
+            "y": 274, 
+            "yPercent": 29.494079655543597
+        }, 
+        "location": {
+            "x": 823, 
+            "y": 274
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 98
+        }, 
+        "tag_name": "label", 
+        "text": "Select All (6)"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "6f75b16d5849a261e3ed20e90f23215e", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Select All (6)", 
+    "transformed": true, 
+    "width": 98, 
+    "x": 823, 
+    "y": 274
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "kS/TWmU9/naOuoelQpk9lA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "label_X861_Y341_W545_H24", 
+    "human_readable": "label_861_341_545_24_label_ffffffff7fff7fff1fff1fff0fff0fff0fff0fff0fff0fff4fff4fffffffffff_9b16b773191ccff4bb6ea3660a000413", 
+    "image_path": "NDE3YmM5ZjNlNmJhOGRlNGY1M2RhOTlmNjVlMmUwMjk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-checkbox css-1g7zk5h"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-checkbox css-1g7zk5h", 
+            "domLevel": 12, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 13, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Default tags", 
+            "type": "", 
+            "value": "", 
+            "width": 545, 
+            "x": 861, 
+            "xPercent": 44.833984375, 
+            "y": 341, 
+            "yPercent": 13.398821218074655
+        }, 
+        "location": {
+            "x": 861, 
+            "y": 341
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 545
+        }, 
+        "tag_name": "label", 
+        "text": "Default tags"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "90bda64ca3bc2227bf14a193dbe53ed7", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Default tags", 
+    "transformed": true, 
+    "width": 545, 
+    "x": 861, 
+    "y": 341
+}
