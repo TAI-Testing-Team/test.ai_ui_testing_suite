@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "enGxp2Wdh0iCJBvacZA1Ww==\n", 
+    "height": 41, 
+    "hier_level": 0, 
+    "human_hash": "button_X965_Y346_W117_H41", 
+    "human_readable": "button_965_346_117_41_button_0000000000000000000000007ffe7ffe7ffe7ffe080000000000000000000000_946c7c7dfcbe08d0f9808ede0081d969", 
+    "image_path": "MjhlODkxYzljMDc1OTdkYWM0ZWZkMzgyMzA5MGZlMzU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-p3pv3q"
+            }, 
+            "background-color": "rgb(228, 0, 70)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "css-p3pv3q", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 41, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Stop this crawl", 
+            "type": "", 
+            "value": "", 
+            "width": 117, 
+            "x": 965, 
+            "xPercent": 50.25065104166667, 
+            "y": 346, 
+            "yPercent": 11.796795090351177
+        }, 
+        "location": {
+            "x": 965, 
+            "y": 346
+        }, 
+        "size": {
+            "height": 41, 
+            "width": 117
+        }, 
+        "tag_name": "button", 
+        "text": "Stop this crawl"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "0ed3bee58f9d26a41b91f2b4cdefbd94", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Stop this crawl", 
+    "transformed": true, 
+    "width": 117, 
+    "x": 965, 
+    "y": 346
+}

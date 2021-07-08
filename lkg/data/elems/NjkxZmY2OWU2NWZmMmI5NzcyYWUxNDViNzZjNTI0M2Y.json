@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "5mOC9Z9tN4/M0UUlTQPDbw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X154_Y737_W114_H40", 
+    "human_readable": "button_154_737_114_40_button_0000000000000000000030043b6c3ffc3ffc3ffc3ffc00000000000000000000_202e12405b991731be0f1ee9b2c72df7", 
+    "image_path": "NjkxZmY2OWU2NWZmMmI5NzcyYWUxNDViNzZjNTI0M2Y.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-lqdaiu", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(56, 161, 105)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "chakra-button css-lqdaiu", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Start crawl", 
+            "type": "button", 
+            "value": "", 
+            "width": 114, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 737, 
+            "yPercent": 49.26470588235294
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 737
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 114
+        }, 
+        "tag_name": "button", 
+        "text": "Start crawl"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2da44a9062818d5d696c0fca6c069aac", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Start crawl", 
+    "transformed": true, 
+    "width": 114, 
+    "x": 154, 
+    "y": 737
+}
