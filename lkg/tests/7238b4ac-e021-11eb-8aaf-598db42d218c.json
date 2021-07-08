@@ -1,30 +1,18 @@
 {
-    "04 Open Existing Test": {
-        "description": "Opens Android and opens \"Test 0 Steps\" test", 
-        "is_deactivated": false, 
-        "original_title": "04 Open Existing Test", 
+    "Stop a Crawl": {
+        "description": "", 
+        "is_deactivated": true, 
+        "original_title": "Stop a Crawl", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "Select Android App", 
-                "grep": "01 Select App", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "test_case", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tap on dropdown to reveal list of tests.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_existing_test_case"
+                    "ddm_crawl_is_running"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -32,13 +20,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies \"Test 0 Steps\"Test appears in dropdown.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_test_zero_steps"
+                    "ddi_stop_current_crawl"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -52,7 +40,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_test_zero_steps"
+                    "ddi_stop_current_crawl"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -60,21 +48,64 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies \"Test 0 Steps\" appears in dropdown menu div.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_test_zero_steps"
+                    "btn_stop_this_crawl"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_stop_this_crawl"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "btn_explore_your_app"
+                ], 
+                "run_only_if_label_present": false, 
+                "timeout": "300", 
+                "type": "wait_for_label", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "lnk_test_composer"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
             }
         ], 
         "tags": [], 
-        "temp_id": "cbe394f8-cede-11eb-ae94-1e00da3ad779", 
-        "title": "04 Open Existing Test"
+        "temp_id": "7238b4ac-e021-11eb-8aaf-598db42d218c", 
+        "title": "Stop a Crawl"
     }
 }

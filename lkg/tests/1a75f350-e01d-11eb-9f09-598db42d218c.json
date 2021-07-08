@@ -1,47 +1,21 @@
 {
-    "04 Open Existing Test": {
-        "description": "Opens Android and opens \"Test 0 Steps\" test", 
-        "is_deactivated": false, 
-        "original_title": "04 Open Existing Test", 
+    "Start Crawl": {
+        "description": "", 
+        "is_deactivated": true, 
+        "original_title": "Start Crawl", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "Select Android App", 
-                "grep": "01 Select App", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "test_case", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tap on dropdown to reveal list of tests.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_existing_test_case"
+                    "btn_explore_your_app"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies \"Test 0 Steps\"Test appears in dropdown.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_test_zero_steps"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -52,7 +26,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_test_zero_steps"
+                    "ddm_select_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -60,13 +34,68 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies \"Test 0 Steps\" appears in dropdown menu div.", 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_android_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_start_crawl"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_test_zero_steps"
+                    "ddm_crawl_is_running"
+                ], 
+                "run_only_if_label_present": false, 
+                "timeout": "300", 
+                "type": "wait_for_label", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies that Elements appeared by checking for +Label button.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "btn_add_label"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -74,7 +103,7 @@
             }
         ], 
         "tags": [], 
-        "temp_id": "cbe394f8-cede-11eb-ae94-1e00da3ad779", 
-        "title": "04 Open Existing Test"
+        "temp_id": "1a75f350-e01d-11eb-9f09-598db42d218c", 
+        "title": "Start Crawl"
     }
 }
