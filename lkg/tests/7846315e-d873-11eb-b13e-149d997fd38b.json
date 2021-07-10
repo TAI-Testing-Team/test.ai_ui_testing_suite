@@ -1,7 +1,7 @@
 {
     "swipe up": {
         "description": "", 
-        "is_deactivated": false, 
+        "is_deactivated": true, 
         "original_title": "swipe up", 
         "steps": [
             {

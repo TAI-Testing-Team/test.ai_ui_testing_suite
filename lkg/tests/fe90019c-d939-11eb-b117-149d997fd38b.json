@@ -37,10 +37,11 @@
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [], 
+                "labels": [
+                    "div_off_grey_test_tmp"
+                ], 
                 "run_only_if_label_present": false, 
-                "script_name": "verify_off_grey.py", 
-                "type": "execute_script", 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -64,10 +65,11 @@
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [], 
+                "labels": [
+                    "div_on_green_test_tmp"
+                ], 
                 "run_only_if_label_present": false, 
-                "script_name": "verify_on_green.py", 
-                "type": "execute_script", 
+                "type": "verification", 
                 "widget": "default"
             }
         ], 
