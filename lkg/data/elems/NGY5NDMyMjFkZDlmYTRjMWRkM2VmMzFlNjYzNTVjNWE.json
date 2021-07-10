@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "QV90B1+8o7HuGMhsvtmizw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X166_Y662_W127_H24", 
+    "human_readable": "div_166_662_127_24_div_ffffffffffff7fff2f9f2f9f2000200020002000200120007fffffffffffffff_4bb4cff43d1549d6ec6f89ccf3c05161", 
+    "image_path": "NGY5NDMyMjFkZDlmYTRjMWRkM2VmMzFlNjYzNTVjNWE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-k008qs"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "css-k008qs", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "AndroidDevice", 
+            "type": "", 
+            "value": "", 
+            "width": 127, 
+            "x": 166, 
+            "xPercent": 8.645833333333334, 
+            "y": 662, 
+            "yPercent": 37.045327364297705
+        }, 
+        "location": {
+            "x": 166, 
+            "y": 662
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 127
+        }, 
+        "tag_name": "div", 
+        "text": "AndroidDevice"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "a49d6b87b0e9059af0c54a6f9c424c98", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "AndroidDevice", 
+    "transformed": true, 
+    "width": 127, 
+    "x": 166, 
+    "y": 662
+}
