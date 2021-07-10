@@ -1,0 +1,23 @@
+{
+    "class": "TemplateMatchElement", 
+    "elem_shot_file_path": null, 
+    "hash": "ztO+8oxOmVEl8KsFfjP+Fw==\n", 
+    "height": 4, 
+    "hier_level": 0, 
+    "human_hash": "TemplateMatchElement_X0_Y0_W5_H4", 
+    "human_readable": "TemplateMatchElement_0_0_5_4_TemplateMatchElement_0000000000000000000000000000000000000000000000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YTQxMjkzODk1ZTU3MGRhOWU1YjM0Yzk3YjY5NzhjMzY.png", 
+    "index": -1, 
+    "label": "icn_green_on_tmp", 
+    "labels": [
+        "icn_green_on_tmp"
+    ], 
+    "score": 1.0, 
+    "screen_hash": "2e9ce893fb6d9ac43c0c4a08b6384c97", 
+    "tag_name": "TemplateMatchElement", 
+    "template": "/root/test_ai/templates/icn_green_on_tmp/icn_green_on_tmp.png", 
+    "text": "", 
+    "width": 5, 
+    "x": 0, 
+    "y": 0
+}

@@ -1,61 +1,19 @@
 {
-    "Search Test Run ID": {
+    "Test Results - Search for a Test Run": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Search Test Run ID", 
+        "original_title": "Test Results - Search for a Test Run", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "mnu_select_app"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_equinox"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_equinox"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "Create test cases from screens", 
+                "grep": "01 Select App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "type": "test_case", 
                 "widget": "default"
             }, 
             {
@@ -70,6 +28,32 @@
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies the Test Results page", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "inp_search_test_results"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies that test results are present, checks for 'Run name'", 
+                "grep": "Run name", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
@@ -89,61 +73,18 @@
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "txt_test_name_0713"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "lnk_test_results"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddl_all_users"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "NOT WORKING", 
-                "grep": "", 
+                "grep": "20210621160713", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "script_name": "custom_tap_coordinates.py", 
-                "type": "execute_script", 
+                "type": "verification", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
         "temp_id": "1a2e5285-d396-11eb-8bb1-149d997d94ba", 
-        "title": "Search Test Run ID"
+        "title": "Test Results - Search for a Test Run"
     }
 }
