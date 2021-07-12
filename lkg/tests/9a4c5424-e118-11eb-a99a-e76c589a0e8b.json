@@ -1,13 +1,12 @@
 {
-    "Explore Your App - Build & Settings": {
+    "Start a Run - Device Select": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "Explore Your App - Build & Settings", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "01 Select Android App", 
+                "grep": "01 Select App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -24,7 +23,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_explore_your_app"
+                    "btn_start_a_run"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -32,27 +31,27 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_select_build"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies the Build DDM is expanded by locating a highlighted Drop Down Item (DDI)", 
+                "description": "Verifies 'Devices Refreshed' Alert.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ddi_highlighted_build"
+                    "txt_devices_refreshed"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies the Test Run page, title of \"Test Settings\" is present", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_test_settings"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -66,7 +65,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_build"
+                    "ddm_select_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -74,14 +73,42 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies the Build DDM is retracted since the blue highlighted build is not present.", 
+                "description": "Verifies DDM expanded, Android Device is present.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_android_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies DDM is retracted, Android Device is not present", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "script_name": "verify_ddi_highlighted_build_not_present.py", 
+                "script_name": "verify_ddi_android_device_not_present.py", 
                 "type": "execute_script", 
                 "widget": "default"
             }, 
@@ -93,47 +120,8 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_build"
+                    "ddm_select_device"
                 ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies that the DDM is expanded. Selects New Build, changes build.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddi_non_highlighted_build"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies the Build DDM is retracted since the blue highlighted build is not present.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "execute_script", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "script_name": "verify_ddi_highlighted_build_not_present.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
@@ -146,21 +134,35 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_select_visual_only"
+                    "ddi_android_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": true, 
-                "description": "Verifies visual-only mode is selected and skip app installation is not selected.", 
+                "continue_on_failure": false, 
+                "description": "Verifies a device is selected, close button is present. AND Removes the device from the DDM", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "icn_remove_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies AndroidDevice is back in DDM", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "ttl_visual_only_selected"
+                    "ddi_android_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -168,56 +170,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_select_skip_app_installation"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies that both are selected by searching for empty checkboxes (btn_select elements)", 
-                "grep": "", 
+                "description": "Verifies 'AndroidDevice' is no longer selected and DDM is expanded", 
+                "grep": "Select a device to use", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "script_name": "verify_btn_select_elements_are_not_present", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ttl_visual_only_selected"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "Verifies visual-only checkbox is now empty", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "btn_select_visual_only"
-                ], 
-                "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
             }, 
@@ -229,7 +188,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ttl_skip_app_install_selected"
+                    "btn_update_devices"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -237,55 +196,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies Visual Only is unchecked", 
+                "description": "Verifies Update Devices button works, Devices Refreshed alert is present.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "btn_select_visual_only"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies that Skip App Installation is unchecked", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "btn_select_skip_app_installation"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_cancel"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": true, 
-                "description": "Verifies Home Page -  '+New Test' is present", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "btn_add_new_test"
+                    "txt_devices_refreshed"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -293,11 +210,10 @@
             }
         ], 
         "tags": [
-            "android", 
-            "explore", 
-            "production"
+            "run", 
+            "android"
         ], 
-        "temp_id": "acc6b3fe-db84-11eb-b32e-0242ac120002", 
-        "title": "Explore Your App - Build & Settings"
+        "temp_id": "9a4c5424-e118-11eb-a99a-e76c589a0e8b", 
+        "title": "Start a Run - Device Select"
     }
 }

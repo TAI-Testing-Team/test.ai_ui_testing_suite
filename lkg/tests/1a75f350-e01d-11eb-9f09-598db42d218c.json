@@ -1,19 +1,21 @@
 {
-    "Test Results - Search for a Test Run": {
+    "Start Crawl": {
         "description": "", 
-        "is_deactivated": false, 
-        "original_title": "Test Results - Search for a Test Run", 
+        "is_deactivated": true, 
+        "original_title": "Start Crawl", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "01 Select App", 
+                "grep": "", 
                 "grep_count": null, 
-                "input": "", 
+                "input": "tap", 
                 "label_count": null, 
-                "labels": [], 
+                "labels": [
+                    "btn_explore_your_app"
+                ], 
                 "run_only_if_label_present": false, 
-                "type": "test_case", 
+                "type": "action", 
                 "widget": "default"
             }, 
             {
@@ -24,7 +26,7 @@
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "lnk_test_results"
+                    "ddm_select_device"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -32,59 +34,76 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies the Test Results page", 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_android_device"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_start_crawl"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_search_test_results"
+                    "ddm_crawl_is_running"
                 ], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "timeout": "300", 
+                "type": "wait_for_label", 
                 "widget": "default"
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies that test results are present, checks for 'Run name'", 
-                "grep": "Run name", 
+                "description": "Verifies that Elements appeared by checking for +Label button.", 
+                "grep": "", 
                 "grep_count": null, 
                 "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "0713", 
-                "grep_count": null, 
-                "input": "text_entry_no_submit", 
                 "label_count": null, 
                 "labels": [
-                    "inp_search_test_results"
+                    "btn_add_label"
                 ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "20210621160713", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
             }
         ], 
         "tags": [], 
-        "temp_id": "1a2e5285-d396-11eb-8bb1-149d997d94ba", 
-        "title": "Test Results - Search for a Test Run"
+        "temp_id": "1a75f350-e01d-11eb-9f09-598db42d218c", 
+        "title": "Start Crawl"
     }
 }
