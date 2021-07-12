@@ -1,11 +1,12 @@
 {
-    "14 Test Composer Top Center icons": {
-        "description": "Testing crawl dropdown, train, labeling element and turning pink.", 
-        "is_deactivated": true, 
+    "12 New test twelve": {
+        "description": "", 
+        "is_deactivated": false, 
+        "original_title": "12 New test twelve", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "Select Android App", 
+                "description": "", 
                 "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
@@ -17,13 +18,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap on the crawl chevron to see list of crawls.", 
+                "description": "Tap Select Existing Test case and open list of tests.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "ddm_select_crawl"
+                    "ddm_select_existing_test_case"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -31,13 +32,41 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify master crawl label.", 
+                "description": "Select Test 1 Step from dropdown.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_test_one_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap the chevron on left side of step to expand step and show label and description inputs.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify grey span icon appears in label input.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "div_master_crawl"
+                    "span_icn_profile"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -45,13 +74,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Copy icon turns highighted and crawl ID is copied.", 
-                "grep": "", 
+                "description": "Type a description.", 
+                "grep": "Tap on Profile", 
                 "grep_count": null, 
-                "input": "tap", 
+                "input": "text_entry_no_submit", 
                 "label_count": null, 
                 "labels": [
-                    "btn_copy_to_clipboard"
+                    "inp_description"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -59,13 +88,123 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "This verifies highlighted icon.", 
+                "description": "Save test.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify string the bot typed earlier.", 
+                "grep": "Tap on Profile", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap X icon to delete the label for icn_profile.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_delete_tag"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap the back arrow icon to undo actions made in a test.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_undo"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap Select Existing Test case and open list of tests.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_test_case"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Select Test 1 Step from dropdown.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_test_one_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap the chevron on left side of step to expand action step and show icn_profile label and description.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_expand_step"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify icn_profile label. This label was deleted and then the undo button pushed. So it should appear on screen.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "btn_copied_to_clipboard"
+                    "span_icn_profile"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -73,13 +212,26 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Only shows one unlabeled element. Icon for variis. view group.", 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "focus_and_move.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap X icon to delete step.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_unlabeled"
+                    "btn_delete_step"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -87,13 +239,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap + add label button for variis icon.", 
+                "description": "Save Test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_add_label"
+                    "btn_save"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -101,8 +253,50 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Create new label and green label with \"icn_home\" appears.", 
-                "grep": "icn_home", 
+                "description": "Tap Select Interaction to reveal list of actions.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_action"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap \"Tap\" to select action and it appear as dropdown.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_select_interaction"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap \"Tap\" to select action and it appear as dropdown.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "mi_tap"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Return test to fresh state by creating \"icn_profile\" label again.", 
+                "grep": "icn_profile", 
                 "grep_count": null, 
                 "input": "text_entry", 
                 "label_count": null, 
@@ -115,213 +309,21 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify green label for icn_home", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "label_icn_home_tmp"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tap on Green Label. Turns green label pink.", 
+                "description": "Save Test to original state.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "label_icn_home_tmp"
+                    "btn_save"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verifies label turned pink.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "script_name": "verify_icn_home_pink.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tapping train button which should remove icn_home label and return to a fresh state.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_train"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "This waits for the train function to fully operate before proceeding to the next step.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "script_name": "wait_for_btn_screens.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verify that the icn_home label is no longer present.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "script_name": "verify_label_not_present_icn_home.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tap on the screens button to display captured screens. div_sign_in_variis is one of the labels displayed.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_screens"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Verify  div for Sign In screen appears on screen.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "div_sign_in_variis"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_elements"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_both"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "label_icn_home_tmp"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "swipe_up", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "div_ttl_pride_in_motion"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_labeled"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "script_name": "verify_non_labelled_label_not_present.py", 
-                "type": "execute_script", 
                 "widget": "default"
             }
         ], 
-        "tags": [
-            "pass"
-        ], 
-        "temp_id": "21ce0d1c-db41-11eb-acc3-149d997fd38b", 
-        "title": "14 Test Composer Top Center icons"
+        "tags": [], 
+        "temp_id": "28c5dd0f-e323-11eb-98e4-149d997fd38b", 
+        "title": "12 New test twelve"
     }
 }
