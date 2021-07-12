@@ -1,12 +1,12 @@
 {
-    "07 Action Selector - Part One": {
-        "description": "", 
+    "08 Action Selector - Part One": {
+        "description": "Opens an action step and selects each one of the actions and verifies them. This is broken into 2 tests (part one and two) to go through all actions.", 
         "is_deactivated": false, 
-        "original_title": "07 Action Selector - Part One", 
+        "original_title": "08 Action Selector - Part One", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Open Equinox Android app", 
                 "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap action button.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap drop down menu to reveal list of actions that are visible \"text entry, text w/o submit, tap, double tap, long press,rotate to landscape\"", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -46,7 +46,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on Text Entry and Text Entry  div appears as the dropdown menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -60,7 +60,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify div comes up in selector", 
+                "description": "Verify text entry div comes up in selector as drop down menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -74,7 +74,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Typing demo text to make sure input is there.", 
                 "grep": "Entered Text", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
@@ -100,7 +100,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping drop down menu with Text Entry as its title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -114,7 +114,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping Text Entry No Submit which appears as dropdown title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -128,7 +128,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify div comes up in selector", 
+                "description": "Verify Text Entry NoSubmit div comes up in selector as drop down menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -142,7 +142,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping drop down menu with Text Entry No Submit as its title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -156,7 +156,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping Tap which appears as dropdown title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -170,7 +170,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify div comes up in selector", 
+                "description": "Verify Tap div comes up in selector as drop down menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -184,7 +184,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping drop down menu with Tap as its title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -198,7 +198,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping Double Tap which appears as dropdown title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -212,7 +212,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify div comes up in selector", 
+                "description": "Verify Double Tap div comes up in selector as drop down menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -226,7 +226,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping drop down menu with Double Tap as its title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -240,7 +240,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping Long Press which appears as dropdown title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -254,7 +254,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify div comes up in selector", 
+                "description": "Verify Long Press div comes up in selector as drop down menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -268,7 +268,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping drop down menu with Long PRess as its title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -282,7 +282,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tapping Rotate to Landscape which appears as dropdown title.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -296,7 +296,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify div comes up in selector", 
+                "description": "Verify Rotate to Landscape div comes up in selector as drop down menu.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -307,12 +307,53 @@
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Open a new step in order to run the following script successfully.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_action"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Taps on ttl_selector_rotate_landscape and uses driver to select the correct child on the correct step number.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "select_rotate_portrait_option.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verify Rotate to Portrait div comes up in selector as drop down menu.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "ttl_selector_rotate_portrait"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
             }
         ], 
         "tags": [
             "pass"
         ], 
         "temp_id": "01fa22a3-d2d9-11eb-82c8-149d997fd38b", 
-        "title": "07 Action Selector - Part One"
+        "title": "08 Action Selector - Part One"
     }
 }

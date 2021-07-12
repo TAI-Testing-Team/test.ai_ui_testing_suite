@@ -1,13 +1,12 @@
 {
     "14 Test Composer Top Center icons": {
-        "description": "", 
+        "description": "Testing crawl dropdown, train, labeling element and turning pink.", 
         "is_deactivated": false, 
-        "original_title": "14 Test Composer Top Center icons", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "01 Select App", 
+                "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 

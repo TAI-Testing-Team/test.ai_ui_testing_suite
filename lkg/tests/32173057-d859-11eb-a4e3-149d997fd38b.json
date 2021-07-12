@@ -1,13 +1,13 @@
 {
     "12 Expand Test Step / Undo /  Save": {
-        "description": "", 
+        "description": "Tests expand a step, undo function, and saving buttons.", 
         "is_deactivated": false, 
         "original_title": "12 Expand Test Step / Undo /  Save", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "01 Select App", 
+                "description": "Select Android App from dropdown.", 
+                "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap Select Existing Test case and open list of tests.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Select Test 1 Step from dropdown.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -46,7 +46,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap the chevron on left side of step to expand step and show label and description inputs.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -60,7 +60,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify grey span icon appears in label input.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -74,7 +74,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Type a description.", 
                 "grep": "Tap on Profile", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
@@ -88,7 +88,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Save test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -102,7 +102,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap the chevron on left side of step to expand action step and show icn_profile label and a description .", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -116,7 +116,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify string the bot typed earlier.", 
                 "grep": "Tap on Profile", 
                 "grep_count": null, 
                 "input": "", 
@@ -128,7 +128,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap X icon to delete the label for icn_profile.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -142,7 +142,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap the back arrow icon to undo actions made in a test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -156,7 +156,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap Select Existing Test case and open list of tests.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -170,7 +170,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Select Test 1 Step from dropdown.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -184,7 +184,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap the chevron on left side of step to expand action step and show icn_profile label and description.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -198,7 +198,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify icn_profile label. This label was deleted and then the undo button pushed. So it should appear on screen.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -212,7 +212,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Script that taps on input_description and swipes down from there to reveal delete tag label.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -225,7 +225,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap X icon to delete step.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -239,7 +239,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Save Test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -253,7 +253,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap Select Interaction to reveal list of actions.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -267,7 +267,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap \"Tap\" to select action and it appear as dropdown.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -281,7 +281,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap \"Tap\" to select action and it appear as dropdown.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -295,7 +295,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Return test to fresh state by creating \"icn_profile\" label again.", 
                 "grep": "icn_profile", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -309,7 +309,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Save Test to original state.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 

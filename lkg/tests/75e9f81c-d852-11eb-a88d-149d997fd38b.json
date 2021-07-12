@@ -1,12 +1,12 @@
 {
     "11  Execute Script and Existing Test Case": {
-        "description": "", 
+        "description": "Tap on Execute Script and Existing Test Case buttons and verify the info on each card.", 
         "is_deactivated": false, 
         "original_title": "11  Execute Script and Existing Test Case", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Open test with 0 steps.", 
                 "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap Execute button to show it's card,  inputs for description and script file name.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify script file input.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -46,7 +46,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify input for description.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -60,7 +60,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Entering a description", 
+                "description": "Entering a description in input.", 
                 "grep": "My Description", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -74,7 +74,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Type in the name of the script.", 
                 "grep": "script.py", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -87,22 +87,32 @@
                 "widget": "default"
             }, 
             {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
+                "continue_on_failure": true, 
+                "description": "Verify correct text is typed.", 
+                "grep": "My Description", 
                 "grep_count": null, 
-                "input": "tap", 
+                "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "btn_save"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "action", 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": true, 
+                "description": "Verify correct text is typed.", 
+                "grep": "script.py", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap Existing Test Case button and show its card and inputs for description and a dropdown menu to select an existing test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -116,7 +126,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Type in the description for existing test step.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -130,7 +140,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Type in description of existing test.", 
                 "grep": "Login Test", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -144,7 +154,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap dropdown menu to open up list of existing tests.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -158,7 +168,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify Sign In list appears as one of the tests.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -172,7 +182,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Select Sign In test as existing test case.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -186,7 +196,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify Sign In appears as dropdown title name.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -196,62 +206,6 @@
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_save"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_delete_step"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_delete_step"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "btn_save"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
                 "widget": "default"
             }
         ], 

@@ -1,8 +1,8 @@
 {
-    "06 Verify Action Card": {
+    "07 Verify Action Card": {
         "description": "Clicks on action, verifies run if label found, adds a label and verifies it is added, verifies both checkboxes are checkable, verifies input description.", 
         "is_deactivated": false, 
-        "original_title": "06 Verify Action Card", 
+        "original_title": "07 Verify Action Card", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -88,7 +88,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies checkbox is checked.", 
+                "description": "Verifies blue checkbox for \"run only if label is found\"", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -102,7 +102,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Taps the checked checkbox and the blue check disappears.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -116,7 +116,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies unchecked checkbox.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -130,7 +130,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Taps \"continue on failure\" and blue checkbox appears", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -144,7 +144,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies checkbox 2 is checked.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -158,7 +158,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Taps on checked checkbox and blue check disappears.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -172,7 +172,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies second checkbox is unchecked.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -186,21 +186,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
-                "grep": "testing", 
-                "grep_count": null, 
-                "input": "text_entry_no_submit", 
-                "label_count": null, 
-                "labels": [
-                    "inp_description"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies input description is there.", 
                 "grep": "testing", 
                 "grep_count": null, 
                 "input": "", 
@@ -212,7 +198,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies \"select an action\" drop down is present.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -229,6 +215,6 @@
             "pass"
         ], 
         "temp_id": "f6856823-ceea-11eb-b053-1e00da3ad779", 
-        "title": "06 Verify Action Card"
+        "title": "07 Verify Action Card"
     }
 }

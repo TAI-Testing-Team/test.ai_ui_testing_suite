@@ -1,8 +1,8 @@
 {
-    "01 Select App": {
+    "01 Select Android App": {
         "description": "This test selects Android App for testing.", 
         "is_deactivated": false, 
-        "original_title": "01 Select App", 
+        "original_title": "01 Select Android App", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -64,6 +64,6 @@
             "pass"
         ], 
         "temp_id": "fbf385c0-cecc-11eb-b3ba-1e00da3ad779", 
-        "title": "01 Select App"
+        "title": "01 Select Android App"
     }
 }
