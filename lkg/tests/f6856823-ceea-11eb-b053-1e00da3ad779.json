@@ -187,11 +187,13 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verifies input description is there.", 
-                "grep": "testing", 
+                "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [], 
+                "labels": [
+                    "inp_description"
+                ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
                 "widget": "default"
