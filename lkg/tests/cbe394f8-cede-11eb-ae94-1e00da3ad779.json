@@ -2,11 +2,12 @@
     "04 Open Existing Test": {
         "description": "Opens Android and opens \"Test 0 Steps\" test", 
         "is_deactivated": false, 
+        "original_title": "04 Open Existing Test", 
         "steps": [
             {
                 "continue_on_failure": false, 
                 "description": "Select Android App", 
-                "grep": "01 Select App", 
+                "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 

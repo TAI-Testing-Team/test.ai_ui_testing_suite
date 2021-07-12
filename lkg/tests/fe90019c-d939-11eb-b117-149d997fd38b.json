@@ -1,12 +1,12 @@
 {
     "13 On / Off": {
-        "description": "", 
+        "description": "Tests that the green on and off button is working and displaying properly.", 
         "is_deactivated": false, 
         "original_title": "13 On / Off", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Open test with 0 steps.", 
                 "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on/off icon to turn green ciricle icon grey.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Use custom color match script to template match off  grey switch.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -45,7 +45,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on/off icon to turn green ciricle icon green.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -59,7 +59,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Use custom color match script to template match the green on switch.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
