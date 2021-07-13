@@ -2,6 +2,7 @@
     "15 Test Composer Center Icons": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "15 Test Composer Center Icons", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -138,7 +139,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap on Test composer to clear out input field for next search", 
+                "description": "Refreshes tab and clears out the text entered into search field.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -152,7 +153,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Search filters, two labels for imageview comes up with that tag filter.", 
                 "grep": "image", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
@@ -166,7 +167,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify pure yoga card that appears when tag is searched.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -180,7 +181,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify pure yoga card that appears when tag is searched.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -194,7 +195,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "One label with the text \"headstrong\" appears.", 
                 "grep": "headstrong", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
@@ -208,7 +209,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify label appears on screen.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -222,7 +223,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Refreshes tab and clears out the text entered into search field.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -236,7 +237,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Should only display 2 labels, one of them is the pride in motion label.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -250,7 +251,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify pride in motion card.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -264,7 +265,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Refreshes tab and clears out the text entered into search field.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -278,7 +279,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Search viewgroup tag to show labeled and unlabeled elements.", 
                 "grep": "viewgroup", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
@@ -292,7 +293,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Will show viewgroup elements that have labels vs. non-labels", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -306,7 +307,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "verify labeled element", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -320,7 +321,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "verify unlabeled element", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
