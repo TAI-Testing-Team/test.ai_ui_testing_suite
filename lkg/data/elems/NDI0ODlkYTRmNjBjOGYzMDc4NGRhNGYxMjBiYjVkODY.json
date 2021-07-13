@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "svg", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "9RhalvSfj5UPiJRILLFaPQ==\n", 
+    "height": 16, 
+    "hier_level": 0, 
+    "human_hash": "svg_X689_Y376_W16_H16", 
+    "human_readable": "svg_689_376_16_16_svg_ffffffffffe7ffc3ffe3ff37fe1ffc1ff83ff07fe0ffc1ffc3ffc7ffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "NDI0ODlkYTRmNjBjOGYzMDc4NGRhNGYxMjBiYjVkODY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "fill": "currentColor", 
+                "height": "16px", 
+                "stroke": "currentColor", 
+                "stroke-width": "0", 
+                "viewBox": "0 0 20 20", 
+                "width": "16px", 
+                "xmlns": "http://www.w3.org/2000/svg"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "svg", 
+            "color": "rgb(203, 213, 224)", 
+            "domLevel": 13, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 16, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "svg", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 16, 
+            "x": 689, 
+            "xPercent": 35.887858072916664, 
+            "y": 376, 
+            "yPercent": 39.28944618599791
+        }, 
+        "location": {
+            "x": 689, 
+            "y": 376
+        }, 
+        "size": {
+            "height": 16, 
+            "width": 16
+        }, 
+        "tag_name": "svg", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "b1cd1e1b852a43a4f85bfd365d338ff8", 
+    "scrollable": false, 
+    "tag_name": "svg", 
+    "text": "", 
+    "transformed": true, 
+    "width": 16, 
+    "x": 689, 
+    "y": 376
+}
