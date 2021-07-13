@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "nt4T37Cdoywt5phIYS3e3w==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "input_X457_Y372_W168_H25", 
+    "human_readable": "input_457_372_168_25_input_fffffffffffffff70007004705070387018723c7000700afffffffffffff0000_fc93347a9440c756c37d82679adcc9ae", 
+    "image_path": "NjcyMmUyMzU2YjQ5YjhlNzVhMWY2ZDQ4YzhmNmU0NjI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-input css-26g83d", 
+                "id": "name", 
+                "name": "name", 
+                "placeholder": "Full name", 
+                "value": "20210621175707"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-input css-26g83d", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 25, 
+            "identifier": "name", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "name", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "", 
+            "value": "20210621175707", 
+            "width": 168, 
+            "x": 457, 
+            "xPercent": 23.776041666666668, 
+            "y": 372, 
+            "yPercent": 32.60297984224365
+        }, 
+        "location": {
+            "x": 457, 
+            "y": 372
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 168
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "09743de5a568b935d38454d3127aa408", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "20210621175707", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 457, 
+    "y": 372
+}

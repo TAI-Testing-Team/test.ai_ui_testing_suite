@@ -1,0 +1,80 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "sFWRPgeoqP75xo10aRbSqg==\n", 
+    "height": 25, 
+    "hier_level": 0, 
+    "human_hash": "input_X460_Y372_W168_H25", 
+    "human_readable": "input_460_372_168_25_input_ffffffffffffffff6c00cc010043208000c040c700009501ffffffffffff0000_8ffc1ffdb105cb992d2294271f4c3221", 
+    "image_path": "Y2FiNDZkZTJlYmEyM2NkZTE0MDU4MTk4ODNlNGFlZDE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-input css-26g83d", 
+                "id": "name", 
+                "name": "name", 
+                "placeholder": "Full name", 
+                "value": "Test Run 07/13/2021-02:15:33"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-input css-26g83d", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 25, 
+            "identifier": "name", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "name", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "", 
+            "value": "Test Run 07/13/2021-02:15:33", 
+            "width": 168, 
+            "x": 460, 
+            "xPercent": 23.934733072916668, 
+            "y": 372, 
+            "yPercent": 38.87147335423197
+        }, 
+        "location": {
+            "x": 460, 
+            "y": 372
+        }, 
+        "size": {
+            "height": 25, 
+            "width": 168
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "264116020bb6a6cf6b0aa9e750e1bfb4", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "Test Run 07/13/2021-02:15:33", 
+    "transformed": true, 
+    "width": 168, 
+    "x": 460, 
+    "y": 372
+}
