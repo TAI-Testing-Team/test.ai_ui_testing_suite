@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "o7bbEUuGmGNWsbLkPsgUSg==\n", 
+    "height": 314, 
+    "hier_level": 0, 
+    "human_hash": "div_X1204_Y353_W245_H314", 
+    "human_readable": "div_1204_353_245_314_div_ffff800180018001800180018001800180018001ffffffffffff8001ffffffff_b56933a6bbdce65c82db8680f81fb0b5", 
+    "image_path": "YjY1ZGY3NzdlZGIzMTYzZDcwZTM0YzExMTAwY2VjZmY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "draggable", 
+                "style": "touch-action: none; transform: translate(0px, 0px);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "draggable", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 314, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "android.widget.Button                            tle_headstrong_on_demand\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 1204, 
+            "xPercent": 62.6953125, 
+            "y": 353, 
+            "yPercent": 13.870333988212181
+        }, 
+        "location": {
+            "x": 1204, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 314, 
+            "width": 245
+        }, 
+        "tag_name": "div", 
+        "text": "android.widget.Button                            tle_headstrong_on_demand\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "16ff182bf26eebb48cd246da91301e49", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "android.widget.Button                            tle_headstrong_on_demand\u00a0Label", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 1204, 
+    "y": 353
+}

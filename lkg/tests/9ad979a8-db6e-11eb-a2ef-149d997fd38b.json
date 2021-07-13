@@ -1,12 +1,11 @@
 {
     "15 Test Composer Center Icons": {
         "description": "", 
-        "is_deactivated": true, 
-        "original_title": "15 Test Composer Center Icons", 
+        "is_deactivated": false, 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Select Android from dropdown.", 
                 "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +17,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Search for classes and 6 labels should appear .", 
                 "grep": "classes", 
                 "grep_count": null, 
                 "input": "text_entry_no_submit", 
@@ -32,7 +31,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify one of the labels that appears on screen.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -46,7 +45,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on this checkbox and text with \"Remove Labels (6) appears and \"Batch edit labels (6)\" as well. Also text in input field disappears and using verify label not present for this.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -60,7 +59,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify first string.", 
                 "grep": "Remove Labels (6)", 
                 "grep_count": null, 
                 "input": "", 
@@ -72,7 +71,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify second string", 
                 "grep": "Batch edit labels (6)", 
                 "grep_count": null, 
                 "input": "", 
@@ -84,7 +83,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verifies the input_search is not present once text is typed into it.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -97,7 +96,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify the Select All checkbox is checked", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -111,7 +110,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap Select All checkbox and blue check mark goes away and empty checkbox appears.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -125,7 +124,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify blue check mark disappears.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 

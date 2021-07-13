@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "img", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "j/JN3ZQHZaekHktRWIhIUg==\n", 
+    "height": 61, 
+    "hier_level": 0, 
+    "human_hash": "img_X1018_Y704_W61_H61", 
+    "human_readable": "img_1018_704_61_61_img_0000781efe7f87e1c183d00bd83bce73c7e363c6381c1c38066003c001800000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "ZjU3ODlhZWIxOGI1NDhmMDNkYjFhNzg3YjJiZjA4NjM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "data-src": "/api/v1/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/crawls/master/elems/YzljNDZhNmFkZTI2NDY0MTM0NTZjZjg5OWM5OWNjOGE.png", 
+                "height": "61", 
+                "src": "/api/v1/c/testai/apps/android/f95ae45d-c7a2-478c-8d65-0d92daa1caa1/crawls/master/elems/YzljNDZhNmFkZTI2NDY0MTM0NTZjZjg5OWM5OWNjOGE.png"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "img", 
+            "color": "rgb(26, 32, 44)", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 61, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "img", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 61, 
+            "x": 1018, 
+            "xPercent": 53.03385416666667, 
+            "y": 704, 
+            "yPercent": 27.660240667976428
+        }, 
+        "location": {
+            "x": 1018, 
+            "y": 704
+        }, 
+        "size": {
+            "height": 61, 
+            "width": 61
+        }, 
+        "tag_name": "img", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "7e6a1f6b8382a079d5279de41241c2a3", 
+    "scrollable": false, 
+    "tag_name": "img", 
+    "text": "", 
+    "transformed": true, 
+    "width": 61, 
+    "x": 1018, 
+    "y": 704
+}
