@@ -1,8 +1,7 @@
 {
     "17 Batch Edit Labels": {
         "description": "", 
-        "is_deactivated": true, 
-        "original_title": "17 Batch Edit Labels", 
+        "is_deactivated": false, 
         "steps": [
             {
                 "continue_on_failure": false, 

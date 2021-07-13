@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "NrKPMDfhEdEldfPPybvpxA==\n", 
+    "height": 374, 
+    "hier_level": 0, 
+    "human_hash": "div_X1204_Y353_W245_H374", 
+    "human_readable": "div_1204_353_245_374_div_80018001800180058001f989b001a001be01be81b001ffffffff8001ffffffff_012746492d22cf84f481d83786648e89", 
+    "image_path": "MDQzNTI5YmRlNTAxNmYyZTk0NjY4OTM4NmQyNWRhMmI.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "draggable", 
+                "style": "touch-action: none; transform: translate(0px, 0px);"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "draggable", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 374, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "android.widget.Button                            tle_rumble_on_demand\u00a0Label", 
+            "type": "", 
+            "value": "", 
+            "width": 245, 
+            "x": 1204, 
+            "xPercent": 62.6953125, 
+            "y": 353, 
+            "yPercent": 13.176558417319894
+        }, 
+        "location": {
+            "x": 1204, 
+            "y": 353
+        }, 
+        "size": {
+            "height": 374, 
+            "width": 245
+        }, 
+        "tag_name": "div", 
+        "text": "android.widget.Button                            tle_rumble_on_demand\u00a0Label"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "8a8642532a35cb0cc4534a4755d20a14", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "android.widget.Button                            tle_rumble_on_demand\u00a0Label", 
+    "transformed": true, 
+    "width": 245, 
+    "x": 1204, 
+    "y": 353
+}
