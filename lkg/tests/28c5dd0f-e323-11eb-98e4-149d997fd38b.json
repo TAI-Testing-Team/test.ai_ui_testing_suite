@@ -322,7 +322,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "28c5dd0f-e323-11eb-98e4-149d997fd38b", 
         "title": "12 New test twelve"
     }

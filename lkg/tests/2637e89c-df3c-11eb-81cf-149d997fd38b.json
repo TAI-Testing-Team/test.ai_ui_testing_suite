@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap unlabeled button and 2 labels should appear as unlabeled. ", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -46,7 +46,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify string that appears on right side of screen.", 
                 "grep": "Batch edit labels (2)", 
                 "grep_count": null, 
                 "input": "", 
@@ -198,7 +198,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Funs script to verify that the pink or green labels with \"adding_batch_label\" are not present.", 
+                "description": "Runs script to verify that the pink or green labels with \"adding_batch_label\" are not present.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 

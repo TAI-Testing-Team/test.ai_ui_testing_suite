@@ -2,7 +2,6 @@
     "13 new test": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "13 new test", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -71,7 +70,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "c916a6ee-e328-11eb-98e4-149d997fd38b", 
         "title": "13 new test"
     }
