@@ -2,7 +2,6 @@
     "13 On Off Button": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "13 On Off Button", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -71,7 +70,9 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass"
+        ], 
         "temp_id": "1b97c00f-e4e8-11eb-8a8b-149d997fd38b", 
         "title": "13 On Off Button"
     }
