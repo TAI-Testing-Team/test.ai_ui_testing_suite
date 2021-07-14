@@ -2,6 +2,7 @@
     "01 Select Android App": {
         "description": "This test selects Android App for testing.", 
         "is_deactivated": false, 
+        "original_title": "01 Select Android App", 
         "steps": [
             {
                 "continue_on_failure": false, 
