@@ -1,5 +1,5 @@
 {
-    "13 new test": {
+    "13 On / Off": {
         "description": "", 
         "is_deactivated": false, 
         "steps": [
@@ -74,6 +74,6 @@
             "pass"
         ], 
         "temp_id": "c916a6ee-e328-11eb-98e4-149d997fd38b", 
-        "title": "13 new test"
+        "title": "13 On / Off"
     }
 }
