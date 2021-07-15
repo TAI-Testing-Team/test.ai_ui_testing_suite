@@ -73,7 +73,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "Verifies Search Results..either that our result is there...either default (My Test Run) or the unique created (Test Run MM/DD/YYYY ...)", 
-                "grep": "Test Run", 
+                "grep": "Run name", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
