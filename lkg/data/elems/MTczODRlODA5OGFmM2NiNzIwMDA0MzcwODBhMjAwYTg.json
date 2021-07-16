@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "qaOJQQktulHw1DuAlaF92A==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X154_Y737_W98_H40", 
+    "human_readable": "button_154_737_98_40_button_8001000000000000000010003da83ffc1ffc3ffc3ff800000000000000008001_f9f5713d916d13d2dd5f7ccef245501b", 
+    "image_path": "MTczODRlODA5OGFmM2NiNzIwMDA0MzcwODBhMjAwYTg.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-lqdaiu", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(56, 161, 105)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "chakra-button css-lqdaiu", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Start run", 
+            "type": "button", 
+            "value": "", 
+            "width": 98, 
+            "x": 154, 
+            "xPercent": 8.020833333333334, 
+            "y": 737, 
+            "yPercent": 41.242305540011195
+        }, 
+        "location": {
+            "x": 154, 
+            "y": 737
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 98
+        }, 
+        "tag_name": "button", 
+        "text": "Start run"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "2310f42093bcc669f7169715bd58fb30", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Start run", 
+    "transformed": true, 
+    "width": 98, 
+    "x": 154, 
+    "y": 737
+}

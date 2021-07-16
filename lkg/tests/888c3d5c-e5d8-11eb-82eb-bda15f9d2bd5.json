@@ -1,0 +1,69 @@
+{
+    "Stop Run": {
+        "description": "", 
+        "is_deactivated": true, 
+        "original_title": "Stop Run", 
+        "steps": [
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddm_test_is_running"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "ddi_stop_current_test"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_stop_test"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "btn_explore_your_app"
+                ], 
+                "run_only_if_label_present": false, 
+                "timeout": "300", 
+                "type": "wait_for_label", 
+                "widget": "default"
+            }
+        ], 
+        "tags": [], 
+        "temp_id": "888c3d5c-e5d8-11eb-82eb-bda15f9d2bd5", 
+        "title": "Stop Run"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "RSzxyMtQ+LvfILO1AAOU1Q==\n", 
+    "height": 42, 
+    "hier_level": 0, 
+    "human_hash": "div_X1694_Y122_W195_H42", 
+    "human_readable": "div_1694_122_195_42_div_ffffffffffffffffffffffff0007800780078007ffffffffffffffffffffffff_d7f06bd291341580f6a51fc51358a254", 
+    "image_path": "YjhjZTU0MGMxZDE2NGYzMjI0MGYyODkwZjZhMTQ1Nzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-1bpb5mi"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "css-1bpb5mi", 
+            "domLevel": 5, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 42, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Stop current test execution", 
+            "type": "", 
+            "value": "", 
+            "width": 195, 
+            "x": 1694, 
+            "xPercent": 88.22021484375, 
+            "y": 122, 
+            "yPercent": 10.686015831134563
+        }, 
+        "location": {
+            "x": 1694, 
+            "y": 122
+        }, 
+        "size": {
+            "height": 42, 
+            "width": 195
+        }, 
+        "tag_name": "div", 
+        "text": "Stop current test execution"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5e89866cdc7aff9d7a9613559c3b8ecc", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Stop current test execution", 
+    "transformed": true, 
+    "width": 195, 
+    "x": 1694, 
+    "y": 122
+}
