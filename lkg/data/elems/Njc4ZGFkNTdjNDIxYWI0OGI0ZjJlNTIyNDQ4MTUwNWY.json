@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "57egi6PArBV/IwmmrxeApg==\n", 
+    "height": 41, 
+    "hier_level": 0, 
+    "human_hash": "button_X937_Y370_W173_H41", 
+    "human_readable": "button_937_370_173_41_button_0000000000000000000000007ffe7ffe7ffe7ffe000000000000000000000000_ac61c37d2a958fc03e559cf301f9a271", 
+    "image_path": "Njc4ZGFkNTdjNDIxYWI0OGI0ZjJlNTIyNDQ4MTUwNWY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "css-p3pv3q"
+            }, 
+            "background-color": "rgb(228, 0, 70)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "css-p3pv3q", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 14, 
+            "height": 41, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Stop this test execution", 
+            "type": "", 
+            "value": "", 
+            "width": 173, 
+            "x": 937, 
+            "xPercent": 48.793131510416664, 
+            "y": 370, 
+            "yPercent": 32.54177660510114
+        }, 
+        "location": {
+            "x": 937, 
+            "y": 370
+        }, 
+        "size": {
+            "height": 41, 
+            "width": 173
+        }, 
+        "tag_name": "button", 
+        "text": "Stop this test execution"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "9a5103c906fc9edbb2b039a3b1d08000", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Stop this test execution", 
+    "transformed": true, 
+    "width": 173, 
+    "x": 937, 
+    "y": 370
+}
