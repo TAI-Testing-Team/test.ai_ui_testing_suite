@@ -267,9 +267,10 @@
             }
         ], 
         "tags": [
-            "production", 
             "explore", 
-            "android"
+            "android", 
+            "dual", 
+            "inception"
         ], 
         "temp_id": "4cd7b702-dab9-11eb-8868-0242ac120002", 
         "title": "Explore Your App - Crawl Type and Device Selector"

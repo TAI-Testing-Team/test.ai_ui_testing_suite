@@ -337,7 +337,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "683f98eb-d849-11eb-b13e-149d997fd38b", 
         "title": "10 Navigation and Verification Card"

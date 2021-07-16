@@ -73,7 +73,10 @@
                 "widget": "default"
             }
         ], 
-        "tags": [], 
+        "tags": [
+            "pass", 
+            "test_composer"
+        ], 
         "temp_id": "cbe394f8-cede-11eb-ae94-1e00da3ad779", 
         "title": "04 Open Existing Test"
     }

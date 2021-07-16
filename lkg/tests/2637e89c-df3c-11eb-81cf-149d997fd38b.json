@@ -211,7 +211,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "2637e89c-df3c-11eb-81cf-149d997fd38b", 
         "title": "17 Batch Edit Labels"

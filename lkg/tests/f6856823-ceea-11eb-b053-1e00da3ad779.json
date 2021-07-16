@@ -214,7 +214,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "f6856823-ceea-11eb-b053-1e00da3ad779", 
         "title": "07 Verify Action Card"

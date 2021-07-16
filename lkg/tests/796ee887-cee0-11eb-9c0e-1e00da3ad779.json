@@ -280,7 +280,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "796ee887-cee0-11eb-9c0e-1e00da3ad779", 
         "title": "05 Edit Test Details"

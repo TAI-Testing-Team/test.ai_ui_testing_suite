@@ -210,7 +210,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "75e9f81c-d852-11eb-a88d-149d997fd38b", 
         "title": "11  Execute Script and Existing Test Case"
