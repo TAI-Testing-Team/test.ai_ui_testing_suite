@@ -7,7 +7,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "01 Select App", 
+                "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -45,7 +45,8 @@
             "crawl", 
             "android", 
             "explore", 
-            "production"
+            "dual", 
+            "inception"
         ], 
         "temp_id": "7406d482-e024-11eb-86b7-598db42d218c", 
         "title": "Explore Your App - Start Crawl and Stop Crawl"

@@ -451,7 +451,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "25124951-d830-11eb-86a9-149d997fd38b", 
         "title": "06 Test Step Lifecyle"

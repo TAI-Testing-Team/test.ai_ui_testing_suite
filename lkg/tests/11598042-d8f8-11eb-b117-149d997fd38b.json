@@ -223,7 +223,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "11598042-d8f8-11eb-b117-149d997fd38b", 
         "title": "09 Action Selector - Part Two"

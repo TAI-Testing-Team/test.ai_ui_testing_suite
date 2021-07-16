@@ -134,7 +134,8 @@
             }
         ], 
         "tags": [
-            "filter"
+            "filter", 
+            "test_composer"
         ], 
         "temp_id": "5415a926-deb9-11eb-aadd-149d997fd38b", 
         "title": "16 Filter"

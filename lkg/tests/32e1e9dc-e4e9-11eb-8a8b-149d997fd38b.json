@@ -323,7 +323,8 @@
             }
         ], 
         "tags": [
-            "pass"
+            "pass", 
+            "test_composer"
         ], 
         "temp_id": "32e1e9dc-e4e9-11eb-8a8b-149d997fd38b", 
         "title": "12 Expand Test Step, Undo, Save"

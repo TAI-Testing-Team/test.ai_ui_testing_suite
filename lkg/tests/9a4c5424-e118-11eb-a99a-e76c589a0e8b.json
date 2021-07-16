@@ -7,7 +7,7 @@
             {
                 "continue_on_failure": false, 
                 "description": "", 
-                "grep": "01 Select App", 
+                "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -212,7 +212,9 @@
         ], 
         "tags": [
             "run", 
-            "android"
+            "android", 
+            "dual", 
+            "inception"
         ], 
         "temp_id": "9a4c5424-e118-11eb-a99a-e76c589a0e8b", 
         "title": "Start a Run - Device Select"

@@ -72,8 +72,8 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies Search Results..either that our result is there...either default (My Test Run) or the unique created (Test Run MM/DD/YYYY ...)", 
-                "grep": "Run name", 
+                "description": "Verifies what we searched for is in the Search Results", 
+                "grep": "20210621160713",
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
@@ -160,6 +160,46 @@
                 "run_only_if_label_present": false, 
                 "script_name": "verify_unique_name.py", 
                 "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "icn_edit"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Returns the Run Name to the original Run Name - 20210621160713. This is so the test can be run multiple times.", 
+                "grep": "20210621160713", 
+                "grep_count": null, 
+                "input": "text_entry", 
+                "label_count": null, 
+                "labels": [
+                    "inp_run_name"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies the Test Run has been returned to the original numeric name.", 
+                "grep": "20210621160713", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {
