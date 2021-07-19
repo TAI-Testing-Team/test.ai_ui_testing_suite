@@ -1,12 +1,12 @@
 {
     "12 Expand Test Step, Undo, Save": {
-        "description": "", 
+        "description": "Tests expand a step, undo function, and saving test buttons.", 
         "is_deactivated": false, 
         "original_title": "12 Expand Test Step, Undo, Save", 
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Open Android App", 
                 "grep": "01 Select Android App", 
                 "grep_count": null, 
                 "input": "", 
@@ -102,7 +102,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap delta icon to expand step details.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -212,7 +212,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on input inside test step area and scroll up to see X delete button.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 

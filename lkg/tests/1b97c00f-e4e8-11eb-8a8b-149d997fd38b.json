@@ -6,7 +6,7 @@
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Open Test 0 Steps.", 
                 "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,7 +18,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on Power button to turn green grey and turn off test.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -32,7 +32,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify button has turned green with color matched template.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
@@ -45,7 +45,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Tap on Power button so grey turns green.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
@@ -59,7 +59,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify grey turned green with color matching template.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
