@@ -106,13 +106,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Verify template match of all tags selected.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "div_all_tags_selected_tmp"
+                    "all_tags_selected_tmp"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -130,6 +130,20 @@
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [
+                    "div_view_view_not_selected_tmp"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }, 
             {

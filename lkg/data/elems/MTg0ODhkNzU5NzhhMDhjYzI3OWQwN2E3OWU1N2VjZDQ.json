@@ -1,0 +1,23 @@
+{
+    "class": "TemplateMatchElement", 
+    "elem_shot_file_path": null, 
+    "hash": "G+RDX0neENmXz8aZ4CTXig==\n", 
+    "height": 196, 
+    "hier_level": 0, 
+    "human_hash": "TemplateMatchElement_X833_Y335_W35_H196", 
+    "human_readable": "TemplateMatchElement_833_335_35_196_TemplateMatchElement_f82ff807fffff807f807fffffffff807f80ffffff80ff807fffffffff807f807_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "MTg0ODhkNzU5NzhhMDhjYzI3OWQwN2E3OWU1N2VjZDQ.png", 
+    "index": -1, 
+    "label": "all_tags_selected_tmp", 
+    "labels": [
+        "all_tags_selected_tmp"
+    ], 
+    "score": 0.8531103134155273, 
+    "screen_hash": "d51243000b1505957c0f264f36df15f9", 
+    "tag_name": "TemplateMatchElement", 
+    "template": "/Users/bot/test_ai/templates/all_tags_selected_tmp/all_tags_selected_tmp.png", 
+    "text": "", 
+    "width": 35, 
+    "x": 833, 
+    "y": 335
+}
