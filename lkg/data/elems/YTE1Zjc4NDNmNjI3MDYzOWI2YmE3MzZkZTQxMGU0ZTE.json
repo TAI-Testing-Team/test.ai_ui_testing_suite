@@ -1,0 +1,23 @@
+{
+    "class": "TemplateMatchElement", 
+    "elem_shot_file_path": null, 
+    "hash": "uvgeCUPQ0TT193sNsu+rbg==\n", 
+    "height": 192, 
+    "hier_level": 0, 
+    "human_hash": "TemplateMatchElement_X831_Y338_W33_H192", 
+    "human_readable": "TemplateMatchElement_831_338_33_192_TemplateMatchElement_fc03fc03fffffffffffffffffffffc03fc03fffffc03fc03fffffffffc03fc03_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YTE1Zjc4NDNmNjI3MDYzOWI2YmE3MzZkZTQxMGU0ZTE.png", 
+    "index": -1, 
+    "label": "div_view_view_not_selected_tmp", 
+    "labels": [
+        "div_view_view_not_selected_tmp"
+    ], 
+    "score": 0.7583762407302856, 
+    "screen_hash": "04aff3d4d99cc0559c4f2c7cdb0269e7", 
+    "tag_name": "TemplateMatchElement", 
+    "template": "/Users/bot/test_ai/templates/div_view_view_not_selected_tmp/div_view_view_not_selected_tmp.png", 
+    "text": "", 
+    "width": 33, 
+    "x": 831, 
+    "y": 338
+}

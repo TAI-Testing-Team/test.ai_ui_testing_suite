@@ -92,6 +92,19 @@
             }, 
             {
                 "continue_on_failure": false, 
+                "description": "Use higher threshold (99) to make a pixel match with template matched checkboxes. Verify Default tags are selected.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "verify_default_tags_selected.py", 
+                "type": "execute_script", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
                 "description": "", 
                 "grep": "", 
                 "grep_count": null, 
@@ -106,16 +119,15 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify template match of all tags selected.", 
+                "description": "Use higher threshold (99) to make a pixel match with template matched checkboxes. Verify All tags are selected.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "all_tags_selected_tmp"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "verify_all_tags_selected.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -134,16 +146,15 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "", 
+                "description": "Use higher threshold (99) to make a pixel match with template matched checkboxes. Verify view view unchecked.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
-                "labels": [
-                    "div_view_view_not_selected_tmp"
-                ], 
+                "labels": [], 
                 "run_only_if_label_present": false, 
-                "type": "verification", 
+                "script_name": "verify_view_not_selected.py", 
+                "type": "execute_script", 
                 "widget": "default"
             }, 
             {
@@ -159,11 +170,23 @@
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Use higher threshold (99) to make a pixel match with template matched checkboxes. Verify widget button unchecked.", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "script_name": "verify_widget_not_selected.py", 
+                "type": "execute_script", 
+                "widget": "default"
             }
         ], 
         "tags": [
-            "filter", 
-            "test_composer"
+            "filter"
         ], 
         "temp_id": "5415a926-deb9-11eb-aadd-149d997fd38b", 
         "title": "16 Filter"
