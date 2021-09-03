@@ -6,7 +6,7 @@
         "steps": [
             {
                 "continue_on_failure": false, 
-                "description": "Opens Androd and opens \"Test 0 Steps\" test", 
+                "description": "Opens Android and opens \"Test 0 Steps\" test", 
                 "grep": "04 Open Existing Test", 
                 "grep_count": null, 
                 "input": "", 
@@ -18,13 +18,27 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap on  Test details button.", 
+                "description": "", 
+                "grep": "2", 
+                "grep_count": null, 
+                "input": "select_dropdown_value", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_options_menu"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Tap on Test Case Info in dropdown menu", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_open_test_details"
+                    "btn_test_case_info"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -46,7 +60,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Typing test name", 
+                "description": "Typing in test name", 
                 "grep": "Test Details Edit", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -72,7 +86,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Typing demo description into input in test details area. ", 
+                "description": "Type in demo description into input in test details area. ", 
                 "grep": "this is a demo", 
                 "grep_count": null, 
                 "input": "text_entry", 
@@ -99,12 +113,12 @@
             {
                 "continue_on_failure": false, 
                 "description": "Adding a tag to the test.", 
-                "grep": "my tag", 
+                "grep": "mytag", 
                 "grep_count": null, 
                 "input": "text_entry", 
                 "label_count": null, 
                 "labels": [
-                    "inp_add_tag"
+                    "inp_add_tags"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -118,7 +132,7 @@
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "span_my_tag"
+                    "lbl_my_tag"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -182,13 +196,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies original add a tag inp is present.", 
+                "description": "Verifies original Add Tags input is present.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "inp_add_tag"
+                    "inp_add_tags"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
@@ -196,13 +210,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Taps undo arrow icon. Screen returns to \"select existing test case\" in dropdown.", 
+                "description": "Cancels all the actions performed when edit Test Case Info", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_undo"
+                    "btn_cancel"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -210,55 +224,41 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies select existing test case appears in dropdown.", 
+                "description": "Verifies that Test 0 Steps is still the title in the Drop Down Menu - WE MAY WANT TO OPEN THE MODAL AGAIN AND VERIFY ALL INFO IS THE SAME!", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_select_existing_test_case"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "verification", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Taps to open dropdown of tests.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
-                "label_count": null, 
-                "labels": [
-                    "ddm_select_existing_test_case"
-                ], 
-                "run_only_if_label_present": false, 
-                "type": "action", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Selects \"Test 0 Steps\"", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "tap", 
                 "label_count": null, 
                 "labels": [
                     "lnk_test_zero_steps"
                 ], 
                 "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Opens Test Options DDM again", 
+                "grep": "2", 
+                "grep_count": null, 
+                "input": "select_dropdown_value", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_options_menu"
+                ], 
+                "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Opens test details module again.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "btn_open_test_details"
+                    "btn_test_case_info"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -276,6 +276,20 @@
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
                 "widget": "default"
             }
         ], 

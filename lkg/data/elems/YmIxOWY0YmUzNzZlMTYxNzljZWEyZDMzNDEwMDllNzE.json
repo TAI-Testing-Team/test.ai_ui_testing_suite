@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "1jrRBCXf+uZyoQ6Jb9q8YA==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "div_X69_Y20_W102_H24", 
+    "human_readable": "div_69_20_102_24_div_0000000000000000d000d200bffffeeffeef7effffffffff0006000600000000_6f5d1697e377533338335652556e417b", 
+    "image_path": "YmIxOWY0YmUzNzZlMTYxNzljZWEyZDMzNDEwMDllNzE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " css-5sz5u5-singleValue"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": " css-5sz5u5-singleValue", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Select an app", 
+            "type": "", 
+            "value": "", 
+            "width": 102, 
+            "x": 69, 
+            "xPercent": 3.5937499999999996, 
+            "y": 20, 
+            "yPercent": 2.089864158829676
+        }, 
+        "location": {
+            "x": 69, 
+            "y": 20
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 102
+        }, 
+        "tag_name": "div", 
+        "text": "Select an app"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "c171457575089d77abb9f5fa76942b1f", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Select an app", 
+    "transformed": true, 
+    "width": 102, 
+    "x": 69, 
+    "y": 20
+}

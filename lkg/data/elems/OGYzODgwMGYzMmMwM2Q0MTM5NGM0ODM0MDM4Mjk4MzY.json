@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VSclC71IJ6t1APaKXMqOcA==\n", 
+    "height": 31, 
+    "hier_level": 0, 
+    "human_hash": "div_X761_Y633_W361_H31", 
+    "human_readable": "div_761_633_361_31_div_ffffffffffff7fff7fff3fff1fff1fff1fff1fff1fff5fff7fffffffffffffff_0e2c72b379a21d844ee9a0ec7b1d2678", 
+    "image_path": "OGYzODgwMGYzMmMwM2Q0MTM5NGM0ODM0MDM4Mjk4MzY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": " css-1hwfws3"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": " css-1hwfws3", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 31, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Add tags", 
+            "type": "", 
+            "value": "", 
+            "width": 361, 
+            "x": 761, 
+            "xPercent": 39.635416666666664, 
+            "y": 633, 
+            "yPercent": 22.875226039783
+        }, 
+        "location": {
+            "x": 761, 
+            "y": 633
+        }, 
+        "size": {
+            "height": 31, 
+            "width": 361
+        }, 
+        "tag_name": "div", 
+        "text": "Add tags"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1fb05b448b2985660c294c5033881315", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Add tags", 
+    "transformed": true, 
+    "width": 361, 
+    "x": 761, 
+    "y": 633
+}

@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "b2h9ZSgMFHgaYwuGuqC7Qw==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "input_X760_Y365_W400_H40", 
+    "human_readable": "input_760_365_400_40_input_0000ffffffffffffffff1fff0fff07ff07ff07ff07ffffffffffffffffff0000_040893c548c96fce41da8d2dbd076dd9", 
+    "image_path": "OTI2YTVmNzM5MDhmNTU5NWM5YzBjMjc4ZDQ5YTljYTM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-input css-1az7xr9", 
+                "style": "border-width: 1px; box-shadow: none;", 
+                "value": "Test 0 Steps"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-input css-1az7xr9", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "", 
+            "value": "Test 0 Steps", 
+            "width": 400, 
+            "x": 760, 
+            "xPercent": 39.58333333333333, 
+            "y": 365, 
+            "yPercent": 13.200723327305605
+        }, 
+        "location": {
+            "x": 760, 
+            "y": 365
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 400
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "857530356eb19f7ddab30985f946ab93", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "Test 0 Steps", 
+    "transformed": true, 
+    "width": 400, 
+    "x": 760, 
+    "y": 365
+}

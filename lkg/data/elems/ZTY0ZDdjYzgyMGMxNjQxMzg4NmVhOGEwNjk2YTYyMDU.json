@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "RWuA1GlFsyMpl4+kJRhlbw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "button_X97_Y282_W222_H32", 
+    "human_readable": "button_97_282_222_32_button_000000000000000040006800ffe0ffe07fe0ffe0580040000000000000000000_2955496f06b235022066f417f17e3f25", 
+    "image_path": "ZTY0ZDdjYzgyMGMxNjQxMzg4NmVhOGEwNjk2YTYyMDU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-menu__menuitem css-ewf6s2", 
+                "data-index": "1", 
+                "id": "menu-list-4-menuitem-6", 
+                "role": "menuitem", 
+                "tabindex": "-1", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "chakra-menu__menuitem css-ewf6s2", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 32, 
+            "identifier": "menu-list-4-menuitem-6", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Duplicate test case", 
+            "type": "button", 
+            "value": "", 
+            "width": 222, 
+            "x": 97, 
+            "xPercent": 7.106227106227106, 
+            "y": 282, 
+            "yPercent": 6.548483616081803
+        }, 
+        "location": {
+            "x": 97, 
+            "y": 282
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 222
+        }, 
+        "tag_name": "button", 
+        "text": "Duplicate test case"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3646c5cb154fadced347e0fb27450d90", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Duplicate test case", 
+    "transformed": true, 
+    "width": 222, 
+    "x": 97, 
+    "y": 282
+}
