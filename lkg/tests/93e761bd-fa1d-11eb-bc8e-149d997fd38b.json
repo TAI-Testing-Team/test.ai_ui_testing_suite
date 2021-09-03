@@ -2,6 +2,7 @@
     "filter test": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "filter test", 
         "steps": [
             {
                 "continue_on_failure": false, 

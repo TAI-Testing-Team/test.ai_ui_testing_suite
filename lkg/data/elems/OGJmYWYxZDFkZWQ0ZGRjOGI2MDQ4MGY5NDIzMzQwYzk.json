@@ -1,0 +1,78 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "label", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "BtEu6sYseDd3j51m2GEzpw==\n", 
+    "height": 24, 
+    "hier_level": 0, 
+    "human_hash": "label_X760_Y421_W388_H24", 
+    "human_readable": "label_760_421_388_24_label_ffffffffffffffff0fff0fff0fff0fff0fff0fff0fff0fffffffffffffffffff_f299dc3074dabc33cca725a478343582", 
+    "image_path": "OGJmYWYxZDFkZWQ0ZGRjOGI2MDQ4MGY5NDIzMzQwYzk.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-form__label css-9v5qek", 
+                "for": "field-10", 
+                "id": "field-10-label"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "label", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-form__label css-9v5qek", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "700", 
+            "fontSize": 16, 
+            "height": 24, 
+            "identifier": "field-10-label", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "label", 
+            "text": "Test Case Id", 
+            "type": "", 
+            "value": "", 
+            "width": 388, 
+            "x": 760, 
+            "xPercent": 39.58333333333333, 
+            "y": 421, 
+            "yPercent": 15.226039783001807
+        }, 
+        "location": {
+            "x": 760, 
+            "y": 421
+        }, 
+        "size": {
+            "height": 24, 
+            "width": 388
+        }, 
+        "tag_name": "label", 
+        "text": "Test Case Id"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "857530356eb19f7ddab30985f946ab93", 
+    "scrollable": false, 
+    "tag_name": "label", 
+    "text": "Test Case Id", 
+    "transformed": true, 
+    "width": 388, 
+    "x": 760, 
+    "y": 421
+}

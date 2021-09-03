@@ -1,0 +1,81 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": true, 
+    "hash": "cqQAecMZwTLI4eTR7SiNCw==\n", 
+    "height": 32, 
+    "hier_level": 0, 
+    "human_hash": "button_X97_Y250_W222_H32", 
+    "human_readable": "button_97_250_222_32_button_00000000000000000000f1003f80df80ff80df80540000000000000000000000_b08d250a4d5abcfdc65aa3cca97207bb", 
+    "image_path": "YTAxYmJmNjc2OWZiZGFmZWRmZmFjYTk1ZjNiNjIyODI.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-menu__menuitem css-ewf6s2", 
+                "data-index": "0", 
+                "id": "menu-list-4-menuitem-5", 
+                "role": "menuitem", 
+                "tabindex": "0", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "chakra-menu__menuitem css-ewf6s2", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": true, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 32, 
+            "identifier": "menu-list-4-menuitem-5", 
+            "is-focused": true, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Test case info", 
+            "type": "button", 
+            "value": "", 
+            "width": 222, 
+            "x": 97, 
+            "xPercent": 7.106227106227106, 
+            "y": 250, 
+            "yPercent": 5.8099000697188
+        }, 
+        "location": {
+            "x": 97, 
+            "y": 250
+        }, 
+        "size": {
+            "height": 32, 
+            "width": 222
+        }, 
+        "tag_name": "button", 
+        "text": "Test case info"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3646c5cb154fadced347e0fb27450d90", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Test case info", 
+    "transformed": true, 
+    "width": 222, 
+    "x": 97, 
+    "y": 250
+}

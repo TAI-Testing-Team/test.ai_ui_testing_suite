@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "Z7DVXj1ma8CSVMik1nBcew==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "button_X270_Y206_W50_H27", 
+    "human_readable": "button_270_206_50_27_button_7fff7fff7fff7fff7fff7fff7fff781f781f7c3f7fff7fff7fff7fff7fff7fff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YWQwNDAzMjVmM2YxZjljZDQ3NTBkZTAxNWMzOWNiYjc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "aria-controls": "menu-list-4", 
+                "aria-expanded": "false", 
+                "aria-haspopup": "menu", 
+                "aria-label": "Options", 
+                "class": "chakra-button chakra-menu__menu-button css-17wwudq", 
+                "id": "menu-button-4", 
+                "type": "button"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "button", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-button chakra-menu__menu-button css-17wwudq", 
+            "domLevel": 8, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 27, 
+            "identifier": "menu-button-4", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "", 
+            "type": "button", 
+            "value": "", 
+            "width": 50, 
+            "x": 270, 
+            "xPercent": 14.0625, 
+            "y": 206, 
+            "yPercent": 7.450271247739602
+        }, 
+        "location": {
+            "x": 270, 
+            "y": 206
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 50
+        }, 
+        "tag_name": "button", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "5cb4b651c9ae81c606a21f885564ea80", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "", 
+    "transformed": true, 
+    "width": 50, 
+    "x": 270, 
+    "y": 206
+}
