@@ -1,0 +1,72 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VoKOa7j/WjNUMR4ROL7Z1w==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X76_Y805_W69_H12", 
+    "human_readable": "span_76_805_69_12_span_ffffff9fff9fff5ff040f040708120906020606070ace0a0c060e670fe7ffe7f_95d6a7076c4b2b0c380ec7add17cb8ac", 
+    "image_path": "MTJmZjg2YjA1MWE2YmRmOGRhMWI2MDFjMGRlMmU0ZTE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {}, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "domLevel": 17, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Long Press", 
+            "type": "", 
+            "value": "", 
+            "width": 69, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 805, 
+            "yPercent": 29.11392405063291
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 805
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 69
+        }, 
+        "tag_name": "span", 
+        "text": "Long Press"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "cf42125117d53453d76adc90587b4341", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Long Press", 
+    "transformed": true, 
+    "width": 69, 
+    "x": 76, 
+    "y": 805
+}

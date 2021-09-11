@@ -2,6 +2,7 @@
     "02 Tap Header Nav Links": {
         "description": "This test taps on each of the 3 tabs and the profile icon and verifies we land on each page.", 
         "is_deactivated": false, 
+        "original_title": "02 Tap Header Nav Links", 
         "steps": [
             {
                 "continue_on_failure": false, 

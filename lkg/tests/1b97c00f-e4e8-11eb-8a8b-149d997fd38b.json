@@ -1,8 +1,8 @@
 {
-    "13 On Off Button": {
+    "13 Turn Test On/Off": {
         "description": "", 
         "is_deactivated": false, 
-        "original_title": "13 On Off Button", 
+        "original_title": "13 Turn Test On/Off", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -18,13 +18,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Tap on Power button to turn green grey and turn off test.", 
-                "grep": "", 
+                "description": "", 
+                "grep": "2", 
                 "grep_count": null, 
-                "input": "tap", 
+                "input": "select_dropdown_value", 
                 "label_count": null, 
                 "labels": [
-                    "btn_turn_off_test"
+                    "btn_test_options_menu"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -32,26 +32,13 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify button has turned green with color matched template.", 
-                "grep": "", 
-                "grep_count": null, 
-                "input": "", 
-                "label_count": null, 
-                "labels": [], 
-                "run_only_if_label_present": false, 
-                "script_name": "verify_off_grey.py", 
-                "type": "execute_script", 
-                "widget": "default"
-            }, 
-            {
-                "continue_on_failure": false, 
-                "description": "Tap on Power button so grey turns green.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "tap", 
                 "label_count": null, 
                 "labels": [
-                    "icn_turn_on_off"
+                    "btn_test_case_info"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
@@ -59,15 +46,230 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verify grey turned green with color matching template.", 
-                "grep": "", 
+                "description": "Verifies string 'Test is active' on test details modal", 
+                "grep": "Test is active", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [], 
                 "run_only_if_label_present": false, 
-                "script_name": "verify_on_green.py", 
-                "type": "execute_script", 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "tgl_test_active"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies 'Test is disabled' string in Test Details modal", 
+                "grep": "Test is disabled ", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_cancel"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "2", 
+                "grep_count": null, 
+                "input": "select_dropdown_value", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_options_menu"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_case_info"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies string 'Test is active' on Test Details modal ", 
+                "grep": "Test is active ", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "tgl_test_active"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "2", 
+                "grep_count": null, 
+                "input": "select_dropdown_text", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_options_menu"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_case_info"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "Test is disabled ", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Clicks test active/disabled toggle switch ", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "tgl_test_disabled"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_save"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "2", 
+                "grep_count": null, 
+                "input": "select_dropdown_value", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_options_menu"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "tap", 
+                "label_count": null, 
+                "labels": [
+                    "btn_test_case_info"
+                ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "Verifies that test is set to ACTIVE at end of test ", 
+                "grep": "Test is active ", 
+                "grep_count": null, 
+                "input": "", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "verification", 
                 "widget": "default"
             }
         ], 
@@ -76,6 +278,6 @@
             "test_composer"
         ], 
         "temp_id": "1b97c00f-e4e8-11eb-8a8b-149d997fd38b", 
-        "title": "13 On Off Button"
+        "title": "13 Turn Test On/Off"
     }
 }

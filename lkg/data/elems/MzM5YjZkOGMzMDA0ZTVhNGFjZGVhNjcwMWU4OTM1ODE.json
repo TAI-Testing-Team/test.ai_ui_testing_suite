@@ -1,0 +1,76 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "span", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "VkRPI8ClemDrTVvCkGFNgA==\n", 
+    "height": 12, 
+    "hier_level": 0, 
+    "human_hash": "span_X30_Y355_W197_H12", 
+    "human_readable": "span_30_355_197_12_span_ffff4fff4fff8fff07ff07ff07ff07ff27ff27ff07ff07ff07ff07fffffff7ff_d128c03b6e827781959c878a2d1fada1", 
+    "image_path": "MzM5YjZkOGMzMDA0ZTVhNGFjZGVhNjcwMWU4OTM1ODE.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "", 
+                "style": "white-space: nowrap; overflow: hidden; text-overflow: ellipsis; width: 197px;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "span", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "", 
+            "domLevel": 14, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 12, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "span", 
+            "text": "Test 1 Step", 
+            "type": "", 
+            "value": "", 
+            "width": 197, 
+            "x": 30, 
+            "xPercent": 1.5625, 
+            "y": 355, 
+            "yPercent": 12.839059674502712
+        }, 
+        "location": {
+            "x": 30, 
+            "y": 355
+        }, 
+        "size": {
+            "height": 12, 
+            "width": 197
+        }, 
+        "tag_name": "span", 
+        "text": "Test 1 Step"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "3c077a26b7c3bde5cf99702c3dbdf37c", 
+    "scrollable": false, 
+    "tag_name": "span", 
+    "text": "Test 1 Step", 
+    "transformed": true, 
+    "width": 197, 
+    "x": 30, 
+    "y": 355
+}

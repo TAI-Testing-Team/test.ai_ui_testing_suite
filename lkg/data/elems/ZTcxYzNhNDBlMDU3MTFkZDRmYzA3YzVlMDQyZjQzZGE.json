@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "KYEd0HVBHqBfDcGBP34Z7w==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X986_Y687_W82_H40", 
+    "human_readable": "button_986_687_82_40_button_ffffffffffffffffffffe7f7e007e807e007e007ffefffffffffffffffffffff_e8fe095cd9637e939c0f60d651d4bbf3", 
+    "image_path": "ZTcxYzNhNDBlMDU3MTFkZDRmYzA3YzVlMDQyZjQzZGE.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-1qf47ui", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(237, 242, 247)", 
+            "class": "button", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-button css-1qf47ui", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Cancel", 
+            "type": "button", 
+            "value": "", 
+            "width": 82, 
+            "x": 986, 
+            "xPercent": 51.34602864583333, 
+            "y": 687, 
+            "yPercent": 24.828209764918626
+        }, 
+        "location": {
+            "x": 986, 
+            "y": 687
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 82
+        }, 
+        "tag_name": "button", 
+        "text": "Cancel"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "37bdb07f65991db81c277b583c347bb3", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Cancel", 
+    "transformed": true, 
+    "width": 82, 
+    "x": 986, 
+    "y": 687
+}

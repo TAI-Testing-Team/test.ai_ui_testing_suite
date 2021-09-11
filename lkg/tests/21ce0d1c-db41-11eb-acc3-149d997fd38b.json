@@ -74,16 +74,40 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Verifies div_ttl_headstrong, one labelled element that shows up on default \"both\" button.", 
+                "description": "Verifies div_ttl_pure_yoga, one labelled element that shows up on default \"both\" button.", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 
                 "label_count": null, 
                 "labels": [
-                    "div_ttl_headstrong"
+                    "div_ttl_pure_yoga"
                 ], 
                 "run_only_if_label_present": false, 
                 "type": "verification", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
                 "widget": "default"
             }, 
             {
@@ -305,6 +329,30 @@
                 "labels": [
                     "btn_both"
                 ], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
+                "run_only_if_label_present": false, 
+                "type": "action", 
+                "widget": "default"
+            }, 
+            {
+                "continue_on_failure": false, 
+                "description": "", 
+                "grep": "", 
+                "grep_count": null, 
+                "input": "swipe_up", 
+                "label_count": null, 
+                "labels": [], 
                 "run_only_if_label_present": false, 
                 "type": "action", 
                 "widget": "default"

@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "l1iOAHfYzxU/t7qg9hGDlA==\n", 
+    "height": 27, 
+    "hier_level": 0, 
+    "human_hash": "div_X76_Y710_W189_H27", 
+    "human_readable": "div_76_710_189_27_div_0000ffffffffffffffff7fff4dff007f007f00ff00ff00ffffffffffffffffff_9b7fcc0efb1984caf13795e78f659042", 
+    "image_path": "ODFhNjNjNmM1MmI0MDMwOTQwMjcwZjI3ZDU2ZWVkODM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "content", 
+                "style": "width: 100%;"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(33, 57, 98)", 
+            "cssClass": "content", 
+            "domLevel": 15, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 12, 
+            "height": 27, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "Select Interaction", 
+            "type": "", 
+            "value": "", 
+            "width": 189, 
+            "x": 76, 
+            "xPercent": 3.958333333333333, 
+            "y": 710, 
+            "yPercent": 25.678119349005424
+        }, 
+        "location": {
+            "x": 76, 
+            "y": 710
+        }, 
+        "size": {
+            "height": 27, 
+            "width": 189
+        }, 
+        "tag_name": "div", 
+        "text": "Select Interaction"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "83f85997d42566d584d5e440021b0c20", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "Select Interaction", 
+    "transformed": true, 
+    "width": 189, 
+    "x": 76, 
+    "y": 710
+}
