@@ -2,7 +2,6 @@
     "09 Action Selector - Part Two": {
         "description": "Opens an action step and selects each one of the actions and verifies them. Part two uses all scripts to access non visible selections.", 
         "is_deactivated": false, 
-        "original_title": "09 Action Selector - Part Two", 
         "steps": [
             {
                 "continue_on_failure": false, 
@@ -32,7 +31,7 @@
             }, 
             {
                 "continue_on_failure": false, 
-                "description": "Taps on ddm_select_interaction and uses driver to select the correct child on the correct step number for Swipe Up.", 
+                "description": "", 
                 "grep": "", 
                 "grep_count": null, 
                 "input": "", 

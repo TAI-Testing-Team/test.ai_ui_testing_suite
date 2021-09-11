@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "vM6Yad8BT3bYLSbf4nuGNA==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "div_X370_Y266_W40_H40", 
+    "human_readable": "div_370_266_40_40_div_fffffffffffffffffffffc7ff83ff19ff93ff83ffc1fffdfffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "Y2ZmNjdhZTYxNGMzNjIwZjRhNzk2NmFmNzc1ZTg3YjI.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-input__left-element css-1268rw0"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "div", 
+            "color": "rgb(74, 85, 104)", 
+            "cssClass": "chakra-input__left-element css-1268rw0", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 40, 
+            "x": 370, 
+            "xPercent": 19.270833333333336, 
+            "y": 266, 
+            "yPercent": 27.226202661207775
+        }, 
+        "location": {
+            "x": 370, 
+            "y": 266
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 40
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "858286d7fd221917208eece1741663c0", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 40, 
+    "x": 370, 
+    "y": 266
+}

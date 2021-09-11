@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "hFteiRmds+HhogQKMRePlA==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X1084_Y687_W68_H40", 
+    "human_readable": "button_1084_687_68_40_button_800180010000000000000c001ff00ff80ff00ff0001000000000000080018001_f71e688777e6311cdf80f5922177e1fc", 
+    "image_path": "Nzg0MjIwN2UyMTBhN2U5MDA3NzliNDg0ZmQxMWEwMzU.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-t80wjn", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(61, 53, 244)", 
+            "class": "button", 
+            "color": "rgb(255, 255, 255)", 
+            "cssClass": "chakra-button css-t80wjn", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Save", 
+            "type": "button", 
+            "value": "", 
+            "width": 68, 
+            "x": 1084, 
+            "xPercent": 56.470540364583336, 
+            "y": 687, 
+            "yPercent": 24.828209764918626
+        }, 
+        "location": {
+            "x": 1084, 
+            "y": 687
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 68
+        }, 
+        "tag_name": "button", 
+        "text": "Save"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "ce99151f39fd475901c12ac7323c9334", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Save", 
+    "transformed": true, 
+    "width": 68, 
+    "x": 1084, 
+    "y": 687
+}

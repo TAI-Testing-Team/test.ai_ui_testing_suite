@@ -1,0 +1,82 @@
+{
+    "behavior": "", 
+    "checkable": true, 
+    "checked": true, 
+    "class": "input", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "xec44q6nfvNvH6q1VcuWyw==\n", 
+    "height": 1, 
+    "hier_level": 0, 
+    "human_hash": "input_X1133_Y320_W1_H1", 
+    "human_readable": "input_1133_320_1_1_input_0000000000000000000000000000000000000000000000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YzViZTlhODA1ZTY4MTgxYTFkOTllMjg0ZmViM2Q3MGM.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "checked": "", 
+                "class": "chakra-switch__input", 
+                "style": "border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;", 
+                "type": "checkbox", 
+                "value": ""
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "input", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "chakra-switch__input", 
+            "domLevel": 10, 
+            "flags": {
+                "checkable": true, 
+                "checked": true, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 1, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "input", 
+            "text": "", 
+            "type": "checkbox", 
+            "value": "", 
+            "width": 1, 
+            "x": 1133, 
+            "xPercent": 58.99658203125, 
+            "y": 320, 
+            "yPercent": 11.555153707052442
+        }, 
+        "location": {
+            "x": 1133, 
+            "y": 320
+        }, 
+        "size": {
+            "height": 1, 
+            "width": 1
+        }, 
+        "tag_name": "input", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "9ae9902d314bf9bdcad959d0b0f3274f", 
+    "scrollable": false, 
+    "tag_name": "input", 
+    "text": "", 
+    "transformed": true, 
+    "width": 1, 
+    "x": 1133, 
+    "y": 320
+}

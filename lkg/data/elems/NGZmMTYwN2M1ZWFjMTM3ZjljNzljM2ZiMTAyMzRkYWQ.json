@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "button", 
+    "clickable": true, 
+    "content-desc": "", 
+    "enabled": true, 
+    "focusable": true, 
+    "focused": false, 
+    "hash": "ewCKCu+7VvksSocN9y30zA==\n", 
+    "height": 40, 
+    "hier_level": 0, 
+    "human_hash": "button_X1037_Y505_W115_H40", 
+    "human_readable": "button_1037_505_115_40_button_8001000000000000000035643ffc3fbc3fbc3fbc000000000000000000008001_e1d26a07010aa446f9960c629bd452ab", 
+    "image_path": "NGZmMTYwN2M1ZWFjMTM3ZjljNzljM2ZiMTAyMzRkYWQ.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "chakra-button css-1oteeer", 
+                "type": "button"
+            }, 
+            "background-color": "rgb(228, 3, 69)", 
+            "class": "button", 
+            "color": "rgba(254, 254, 254, 0.996)", 
+            "cssClass": "chakra-button css-1oteeer", 
+            "domLevel": 7, 
+            "flags": {
+                "checkable": false, 
+                "clickable": true, 
+                "enabled": true, 
+                "focusable": true, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "600", 
+            "fontSize": 16, 
+            "height": 40, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "button", 
+            "text": "Delete Test", 
+            "type": "button", 
+            "value": "", 
+            "width": 115, 
+            "x": 1037, 
+            "xPercent": 53.99902343750001, 
+            "y": 505, 
+            "yPercent": 18.245931283905968
+        }, 
+        "location": {
+            "x": 1037, 
+            "y": 505
+        }, 
+        "size": {
+            "height": 40, 
+            "width": 115
+        }, 
+        "tag_name": "button", 
+        "text": "Delete Test"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "f37a393ce7a302b3bc886175222a5418", 
+    "scrollable": false, 
+    "tag_name": "button", 
+    "text": "Delete Test", 
+    "transformed": true, 
+    "width": 115, 
+    "x": 1037, 
+    "y": 505
+}

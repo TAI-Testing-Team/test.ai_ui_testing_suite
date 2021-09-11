@@ -1,0 +1,75 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "div", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "LjqVgT9/DRpH07EDP0MBHw==\n", 
+    "height": 239, 
+    "hier_level": 0, 
+    "human_hash": "div_X927_Y309_W243_H239", 
+    "human_readable": "div_927_309_243_239_div_fffffffffffffffffffffc3ffc3ffc3ff81ff81ffc3fffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264", 
+    "image_path": "YTIwNWViNjMwZmM3ZGE5NTkyNDViNjIyZWRjZDk3ODQ.png", 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "card--content"
+            }, 
+            "background-color": "rgb(237, 242, 247)", 
+            "class": "div", 
+            "color": "rgb(26, 32, 44)", 
+            "cssClass": "card--content", 
+            "domLevel": 11, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "\"IBM Plex Sans\", sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 13, 
+            "height": 239, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "div", 
+            "text": "", 
+            "type": "", 
+            "value": "", 
+            "width": 243, 
+            "x": 927, 
+            "xPercent": 48.294270833333336, 
+            "y": 309, 
+            "yPercent": 31.627430910951894
+        }, 
+        "location": {
+            "x": 927, 
+            "y": 309
+        }, 
+        "size": {
+            "height": 239, 
+            "width": 243
+        }, 
+        "tag_name": "div", 
+        "text": ""
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "fe2733e8dc19d37166bc1c34271a549b", 
+    "scrollable": false, 
+    "tag_name": "div", 
+    "text": "", 
+    "transformed": true, 
+    "width": 243, 
+    "x": 927, 
+    "y": 309
+}
